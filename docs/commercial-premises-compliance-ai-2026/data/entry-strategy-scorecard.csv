@@ -1,6 +1,0 @@
-strategy,demandNecessity,aiDurability,credibleTrustPath,proprietaryDataPotential,recurringRevenuePotential,timeToEvidence,capitalEfficiency,weightedScore,decision,evidenceClass,unknowns
-generic-content-and-leads,2,2,2,1,2,5,4,2.25,reject-as-core,inference,"First-party generative-search conversion and provider lead economics"
-pure-compliance-saas,3,3,2,3,4,3,3,3.00,defer,inference,"Paid retention switching cost technical liability and distribution"
-partner-led-managed-compliance,4,4,4,4,4,4,4,4.00,test-first,inference,"Portfolio willingness to pay provider terms responsibility allocation and service workload"
-acquire-accredited-operator,5,5,5,5,4,1,1,4.25,defer-until-diligence,inference,"Deal price normalized EBITDA liabilities insurance claims staff retention and transferability"
-remain-out,0,5,5,0,0,5,5,2.50,fallback-if-kill-conditions-trigger,inference,"Opportunity cost versus next queued workstream"

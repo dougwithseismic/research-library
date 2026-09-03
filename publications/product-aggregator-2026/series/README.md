@@ -65,6 +65,8 @@ The market contains five overlapping products rather than one clean aggregator c
 
 The opening is not broader catalogue coverage. Large retailers and platforms already win that contest. It is deeper evidence around one connected customer project: original tests, compatibility logic, saved specifications, verified offer history and current installer capacity that remain useful to a person, a search engine or an agent.
 
+The expanded [forty-operator atlas](./17-forty-operator-atlas.md) shows what sits underneath those interfaces. RTINGS compounds versioned measurements; PCPartPicker turns components into a compatible project; BrickLink joins canonical identity, design and transactions; idealo retains price history and alerts; Chrono24 operates trust; Auto Trader and Machinio enter supplier workflow. The [failure evidence](./19-what-fails-and-how-aggregators-destroy-value.md) shows the reverse: imported-page scale, gatekeeper dependence, premature transaction ownership, unfunded testing breadth and headline economics that disappear along the checkout path.
+
 ## Where would I focus?
 
 I would build **premium garden and outdoor systems** as a UK project decision brand.
@@ -109,6 +111,8 @@ buyer project → explicit constraints → verified evidence → compatible shor
 
 The weak version imports feeds and publishes pages. The stronger version owns the decision structure upstream of the recommendation and can distribute that structure through a website, a tool, an API or an agent.
 
+The revised launch is deliberately narrower: begin with a robotic-mower decision system, a versioned field-test bench and a saved property record. Expand into the wider premium-garden market only when the same evidence and constraints improve the next project. [Revised founder strategy](./21-the-revised-founder-strategy.md)
+
 ## The series
 
 | Document                                                                                                                       | Purpose                                                                               |
@@ -128,6 +132,12 @@ The weak version imports feeds and publishes pages. The stronger version owns th
 | [13 — Revenue architecture](./13-revenue-architecture-cpa-cpc-cpl-tenancy-and-beyond.md)                                       | CPA, CPC, CPL, tenancy, hybrid and later revenue choices                              |
 | [14 — Primary interview programme](./14-primary-interview-programme.md)                                                        | The first-party evidence needed to challenge the largest commercial assumptions       |
 | [15 — Shopping agents, generated content and the decision web](./15-shopping-agents-generated-content-and-the-decision-web.md) | Agent bypass, generated supply, responsible AI uses and the revised moat              |
+| [16 — The product-aggregation economy](./16-the-product-aggregation-economy.md)                                                | The value chain, archetypes, durable value pools and compounding loops                |
+| [17 — Forty-operator atlas](./17-forty-operator-atlas.md)                                                                      | Forty comparison, testing, marketplace, retail and infrastructure systems             |
+| [18 — What works and where the secret sauce lives](./18-what-works-and-where-the-secret-sauce-lives.md)                        | Mechanism-level case studies and the recommended mechanism stack                      |
+| [19 — What fails and how aggregators destroy value](./19-what-fails-and-how-aggregators-destroy-value.md)                      | Thin feeds, platform exposure, transaction overreach and false economics              |
+| [20 — Capital, ownership and strategic value](./20-capital-ownership-and-strategic-value.md)                                   | Acquisitions, divestments, impairments, strategic buyers and capital allocation       |
+| [21 — The revised founder strategy](./21-the-revised-founder-strategy.md)                                                      | The robotic-mower wedge, field tests, property graph, validation gates and expansion  |
 
 ## How should the evidence be read?
 
@@ -138,6 +148,6 @@ The series uses four evidence classes:
 - **Inference:** a commercial judgement supported by evidence but not itself proven.
 - **Unknown:** a field that must be measured or confirmed before capital is committed.
 
-The evidence pack contains the [commercial keyword ledger](../evidence/commercial-keyword-ledger.csv), [opportunity scorecard](../evidence/scorecard.csv), [source register](../evidence/sources.csv), [practitioner-evidence ledger](../evidence/practitioner-evidence-ledger.csv), [AI-disruption ledger](../evidence/ai-disruption-ledger.csv), [AI scorecard](../evidence/ai-disruption-scorecard.csv) and [research manifest](../evidence/manifest.json).
+The evidence pack contains the [commercial keyword ledger](../evidence/commercial-keyword-ledger.csv), [opportunity scorecard](../evidence/scorecard.csv), [source register](../evidence/sources.csv), [forty-operator census](../evidence/operator-census.csv), [mechanism ledger](../evidence/mechanism-ledger.csv), [failure-case ledger](../evidence/failure-case-ledger.csv), [capital and ownership ledger](../evidence/capital-and-ownership-ledger.csv), [practitioner-evidence ledger](../evidence/practitioner-evidence-ledger.csv), [AI-disruption ledger](../evidence/ai-disruption-ledger.csv), [AI scorecard](../evidence/ai-disruption-scorecard.csv) and [research manifest](../evidence/manifest.json).
 
 Average monthly search volume is not obtainable traffic. Historical CPC is not customer-acquisition cost or organic difficulty. A visible product price is not an average order value. A platform announcement is not proof of UK adoption, conversion or publisher compensation. Practitioner evidence comes from attributed public interviews and panels rather than interviews conducted for this paper.

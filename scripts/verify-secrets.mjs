@@ -47,6 +47,7 @@ const leaks = [];
 
 for (const filename of candidateFiles) {
   const path = join(ROOT, filename);
+  if (!existsSync(path)) continue;
   const body = readFileSync(path);
   if (body.includes(0)) continue;
 

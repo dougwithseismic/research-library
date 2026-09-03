@@ -12,6 +12,8 @@ The operators differ on three axes:
 2. **What outcome is promised?** Friendship, romance, activity, professional community, entertainment or simply attendance.
 3. **Who pays?** Attendee, organiser, venue, sponsor, employer or a mix.
 
+The boundaries are becoming less stable. Original Dating now markets FriendDating in Manchester and Leeds using a hosted rotation and mutual post-event matching. That is the same supply and product infrastructure moving from romantic to platonic intent. It reinforces the report's central distinction: the defensible unit is not the label “friendship”; it is the programme, attendance, room quality and repeat path an operator can deliver. [Original Dating Manchester](https://www.originaldating.com/manchester/), [Leeds FriendDating](https://www.originaldating.com/leeds/frienddating-in-leeds-18-nov-2026/10902/)
+
 ## The landscape
 
 | Archetype                    | Representative operators                             | Product                                         | Primary payer                   | Core advantage                               | Core weakness                                  |

@@ -2,7 +2,7 @@
   "slug": "events-economy-2026",
   "title": "Building in the Social Events Economy in 2026",
   "shortTitle": "Social Events Economy 2026",
-  "summary": "A decision-grade UK research series on structured social leisure: friendship, dating, talks, craft, games, sport, AI-generated content, synthetic companionship and the physical assets a founder can own.",
+  "summary": "A decision-grade UK research series on structured social leisure: friendship, dating, talks, craft, games, sport, city launch markets, AI-generated content, synthetic companionship and the physical assets a founder can own.",
   "eyebrow": "Commercial research series",
   "geography": "UK; selected European and US comparators",
   "observedAt": "2026-09-03",
@@ -133,12 +133,21 @@
       "section": "The decision",
       "shortTitle": "Where to play",
       "title": "Where to Play: Customer Segments and Scorecard",
-      "description": "A weighted comparison of friendship dining, social subscriptions, singles events and marketplaces."
+      "description": "A weighted comparison of ten friendship, activity, dating, programme and platform archetypes."
+    },
+    {
+      "source": "26-city-opportunity-scorecard-and-launch-cells.md",
+      "output": "26-city-opportunity-scorecard-and-launch-cells.html",
+      "number": "14",
+      "section": "The decision",
+      "shortTitle": "City opportunity scorecard",
+      "title": "City Opportunity Scorecard and Launch Cells",
+      "description": "A nine-city demand screen, current operator evidence, launch ranking, market dossiers and disconfirming tests."
     },
     {
       "source": "23-the-revised-founder-strategy.md",
       "output": "23-the-revised-founder-strategy.html",
-      "number": "14",
+      "number": "15",
       "section": "The decision",
       "shortTitle": "Founder strategy",
       "title": "Founder Strategy",
@@ -147,7 +156,7 @@
     {
       "source": "09-commercial-model-and-unit-economics.md",
       "output": "09-commercial-model-and-unit-economics.html",
-      "number": "15",
+      "number": "16",
       "section": "Commercial and operating model",
       "shortTitle": "Commercials",
       "title": "Commercial Model and Unit Economics",
@@ -156,7 +165,7 @@
     {
       "source": "22-the-forty-three-part-revenue-playbook.md",
       "output": "22-the-forty-three-part-revenue-playbook.html",
-      "number": "16",
+      "number": "17",
       "section": "Commercial and operating model",
       "shortTitle": "43 revenue plays",
       "title": "The Forty-Three-Part Revenue Playbook",
@@ -165,7 +174,7 @@
     {
       "source": "10-product-operations-and-city-liquidity.md",
       "output": "10-product-operations-and-city-liquidity.html",
-      "number": "17",
+      "number": "18",
       "section": "Commercial and operating model",
       "shortTitle": "Product and operations",
       "title": "Product, Operations and City Liquidity",
@@ -174,7 +183,7 @@
     {
       "source": "11-go-to-market-and-twelve-month-launch-plan.md",
       "output": "11-go-to-market-and-twelve-month-launch-plan.html",
-      "number": "18",
+      "number": "19",
       "section": "Commercial and operating model",
       "shortTitle": "Launch plan",
       "title": "Go-to-Market and Twelve-Month Launch Plan",
@@ -183,7 +192,7 @@
     {
       "source": "12-trust-safety-compliance-and-failure-modes.md",
       "output": "12-trust-safety-compliance-and-failure-modes.html",
-      "number": "19",
+      "number": "20",
       "section": "Risk and next evidence",
       "shortTitle": "Trust and safety",
       "title": "Trust, Safety, Compliance and Failure Modes",
@@ -192,7 +201,7 @@
     {
       "source": "24-how-event-companies-destroy-value.md",
       "output": "24-how-event-companies-destroy-value.html",
-      "number": "20",
+      "number": "21",
       "section": "Risk and next evidence",
       "shortTitle": "Failure cases",
       "title": "How Event Companies Destroy Value",
@@ -201,7 +210,7 @@
     {
       "source": "13-primary-research-programme.md",
       "output": "13-primary-research-programme.html",
-      "number": "21",
+      "number": "22",
       "section": "Risk and next evidence",
       "shortTitle": "Primary research",
       "title": "Primary Research Programme",
@@ -210,7 +219,7 @@
     {
       "source": "14-bootstrap-versus-venture-capital.md",
       "output": "14-bootstrap-versus-venture-capital.html",
-      "number": "22",
+      "number": "23",
       "section": "Capital and the future",
       "shortTitle": "Bootstrap vs venture",
       "title": "Bootstrap Versus Venture Capital",
@@ -219,7 +228,7 @@
     {
       "source": "15-the-market-from-2027-to-2030.md",
       "output": "15-the-market-from-2027-to-2030.html",
-      "number": "23",
+      "number": "24",
       "section": "Capital and the future",
       "shortTitle": "2027–2030",
       "title": "The Social Events Market from 2027 to 2030",
@@ -228,7 +237,7 @@
     {
       "source": "16-the-optimal-capital-and-company-building-route.md",
       "output": "16-the-optimal-capital-and-company-building-route.html",
-      "number": "24",
+      "number": "25",
       "section": "Capital and the future",
       "shortTitle": "The optimal route",
       "title": "The Optimal Capital and Company-Building Route",
@@ -237,7 +246,7 @@
     {
       "source": "25-ai-content-synthetic-companionship-and-the-physical-moat.md",
       "output": "25-ai-content-synthetic-companionship-and-the-physical-moat.html",
-      "number": "25",
+      "number": "26",
       "section": "AI disruption",
       "shortTitle": "AI and physical events",
       "title": "AI Content, Synthetic Companionship and the Physical Moat",

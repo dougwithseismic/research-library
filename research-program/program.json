@@ -205,54 +205,6 @@
   ],
   "workstreams": [
     {
-      "id": "commercial-premises-compliance-ai",
-      "priority": 1,
-      "type": "flagship-paper",
-      "title": "The UK Commercial-Premises Compliance Economy",
-      "workingSubtitle": "What must be done, what must be bought, and what AI can actually change",
-      "slug": "commercial-premises-compliance-ai-2026",
-      "status": "complete",
-      "decision": "Determine whether a defensible business should generate demand, manage compliance workflows, partner with accredited providers, acquire an operator, or remain out of the category.",
-      "inputs": [
-        "publications/rank-and-rent-uk-2026",
-        "publications/rank-and-rent-uk-2026/series/11-companies-house-cpc-and-buyer-economics.md"
-      ],
-      "aiFocus": [
-        "substitution-risk",
-        "generated-content-supply",
-        "discovery-disruption",
-        "agent-bypass-risk",
-        "operating-leverage",
-        "proprietary-data-potential",
-        "physical-world-moat",
-        "trust-liability-moat",
-        "relationship-moat",
-        "platform-dependency",
-        "defensibility-2028"
-      ],
-      "autonomousScope": [
-        "Map obligations by jurisdiction and distinguish required activity from required third-party spend",
-        "Compare provider supply, credentials, public pricing, filed-company evidence, and software incumbents",
-        "Model one-off, event-triggered, and recurring service economics",
-        "Test AI-assisted administration, evidence review, triage, and reporting against liability and competence boundaries"
-      ],
-      "humanSeams": [
-        "Provider and buyer interviews",
-        "Professional legal or regulatory interpretation",
-        "Commercial terms with accredited providers",
-        "Any live acquisition or paid-demand test"
-      ],
-      "requiredArtifacts": [
-        "research-state.json",
-        "evidence/manifest.json",
-        "evidence/sources.csv",
-        "evidence/evidence-ledger.csv",
-        "evidence/ai-disruption-ledger.csv",
-        "evidence/ai-disruption-scorecard.csv"
-      ],
-      "stopCondition": "Stop or narrow the thesis if external paid provision is not structurally necessary, credible providers cannot retain attractive contribution after acquisition cost, or liability cannot be bounded without owning regulated delivery."
-    },
-    {
       "id": "regional-city-social-infrastructure-ai",
       "priority": 2,
       "type": "decision-paper",
@@ -351,11 +303,7 @@
       "slug": "buying-boring-businesses-ai-2026",
       "status": "queued",
       "decision": "Establish which small UK operating businesses become materially more valuable under bounded AI-enabled process improvements and whether acquisition outperforms greenfield entry.",
-      "inputs": [
-        "publications/rank-and-rent-uk-2026",
-        "commercial-premises-compliance-ai"
-      ],
-      "dependsOn": ["commercial-premises-compliance-ai"],
+      "inputs": ["publications/rank-and-rent-uk-2026"],
       "aiFocus": [
         "substitution-risk",
         "generated-content-supply",

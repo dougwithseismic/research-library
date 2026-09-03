@@ -24,6 +24,8 @@ The public engine makes it easy to say yes because the evening has standalone va
 
 An adult “good nights out” brand in one regional city or compact urban cluster, designed for solo attendance but not marketed as loneliness treatment.
 
+The regional desk screen now gives the cities different jobs: Bristol is the best learning cell, Birmingham is the strongest non-London scale-demand test, and Manchester is the hardest incumbent stress test. If the founder lacks a clear home-market advantage, compare venue terms and paid intent across those three, then choose one. The scorecard is not authority to launch several cities. [City opportunity scorecard](./26-city-opportunity-scorecard-and-launch-cells.md)
+
 The promise:
 
 > Come for a genuinely interesting thing. Arrive alone without it being awkward. Meet people you would be glad to see again.

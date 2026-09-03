@@ -1,0 +1,73 @@
+geography_method,city,category,returned_rows,zero_volume_rows,average_monthly_searches,weighted_average_cpc_gbp,interpretation,observed_at
+explicit_city_query_under_uk_target,Birmingham,broad_discovery,2,0,31500,0.4915,Context only; excluded from the commercial opportunity score,2026-09-03
+explicit_city_query_under_uk_target,Birmingham,dating,3,1,350,1.6247,Directional comparison basket; overlapping and mixed-intent terms are not a market-size total,2026-09-03
+explicit_city_query_under_uk_target,Birmingham,friendship_discovery,5,1,150,1.0549,Directional comparison basket; overlapping and mixed-intent terms are not a market-size total,2026-09-03
+explicit_city_query_under_uk_target,Birmingham,interest_led,8,2,6600,0.2131,Directional comparison basket; overlapping and mixed-intent terms are not a market-size total,2026-09-03
+explicit_city_query_under_uk_target,Bristol,broad_discovery,2,0,31500,0.5946,Context only; excluded from the commercial opportunity score,2026-09-03
+explicit_city_query_under_uk_target,Bristol,dating,3,1,440,1.2887,Directional comparison basket; overlapping and mixed-intent terms are not a market-size total,2026-09-03
+explicit_city_query_under_uk_target,Bristol,friendship_discovery,5,2,170,0.5256,Directional comparison basket; overlapping and mixed-intent terms are not a market-size total,2026-09-03
+explicit_city_query_under_uk_target,Bristol,interest_led,8,2,5370,0.5399,Directional comparison basket; overlapping and mixed-intent terms are not a market-size total,2026-09-03
+explicit_city_query_under_uk_target,Edinburgh,broad_discovery,2,0,10200,0.9065,Context only; excluded from the commercial opportunity score,2026-09-03
+explicit_city_query_under_uk_target,Edinburgh,dating,3,1,430,1.5162,Directional comparison basket; overlapping and mixed-intent terms are not a market-size total,2026-09-03
+explicit_city_query_under_uk_target,Edinburgh,friendship_discovery,5,0,140,0.6172,Directional comparison basket; overlapping and mixed-intent terms are not a market-size total,2026-09-03
+explicit_city_query_under_uk_target,Edinburgh,interest_led,8,2,4280,0.8420,Directional comparison basket; overlapping and mixed-intent terms are not a market-size total,2026-09-03
+explicit_city_query_under_uk_target,Leeds,broad_discovery,2,0,21700,0.3813,Context only; excluded from the commercial opportunity score,2026-09-03
+explicit_city_query_under_uk_target,Leeds,dating,3,1,260,1.2884,Directional comparison basket; overlapping and mixed-intent terms are not a market-size total,2026-09-03
+explicit_city_query_under_uk_target,Leeds,friendship_discovery,5,1,130,0.8210,Directional comparison basket; overlapping and mixed-intent terms are not a market-size total,2026-09-03
+explicit_city_query_under_uk_target,Leeds,interest_led,8,2,4010,0.3803,Directional comparison basket; overlapping and mixed-intent terms are not a market-size total,2026-09-03
+explicit_city_query_under_uk_target,London,broad_discovery,2,0,37000,0.7048,Context only; excluded from the commercial opportunity score,2026-09-03
+explicit_city_query_under_uk_target,London,dating,3,0,8000,1.2873,Directional comparison basket; overlapping and mixed-intent terms are not a market-size total,2026-09-03
+explicit_city_query_under_uk_target,London,friendship_discovery,5,0,760,1.4635,Directional comparison basket; overlapping and mixed-intent terms are not a market-size total,2026-09-03
+explicit_city_query_under_uk_target,London,interest_led,8,1,25190,0.9530,Directional comparison basket; overlapping and mixed-intent terms are not a market-size total,2026-09-03
+explicit_city_query_under_uk_target,Manchester,broad_discovery,2,0,47100,0.4544,Context only; excluded from the commercial opportunity score,2026-09-03
+explicit_city_query_under_uk_target,Manchester,dating,3,1,800,1.0501,Directional comparison basket; overlapping and mixed-intent terms are not a market-size total,2026-09-03
+explicit_city_query_under_uk_target,Manchester,friendship_discovery,5,1,320,0.7895,Directional comparison basket; overlapping and mixed-intent terms are not a market-size total,2026-09-03
+explicit_city_query_under_uk_target,Manchester,interest_led,8,2,8250,0.6800,Directional comparison basket; overlapping and mixed-intent terms are not a market-size total,2026-09-03
+explicit_city_query_under_uk_target,Nottingham,broad_discovery,2,0,17200,0.4587,Context only; excluded from the commercial opportunity score,2026-09-03
+explicit_city_query_under_uk_target,Nottingham,dating,3,2,210,1.9108,Directional comparison basket; overlapping and mixed-intent terms are not a market-size total,2026-09-03
+explicit_city_query_under_uk_target,Nottingham,friendship_discovery,5,1,130,2.3115,Directional comparison basket; overlapping and mixed-intent terms are not a market-size total,2026-09-03
+explicit_city_query_under_uk_target,Nottingham,interest_led,8,2,3170,0.2968,Directional comparison basket; overlapping and mixed-intent terms are not a market-size total,2026-09-03
+explicit_city_query_under_uk_target,Reading,broad_discovery,2,0,5790,0.4605,Context only; excluded from the commercial opportunity score,2026-09-03
+explicit_city_query_under_uk_target,Reading,dating,3,1,90,1.6194,Directional comparison basket; overlapping and mixed-intent terms are not a market-size total,2026-09-03
+explicit_city_query_under_uk_target,Reading,friendship_discovery,5,4,30,0.0000,Directional comparison basket; overlapping and mixed-intent terms are not a market-size total,2026-09-03
+explicit_city_query_under_uk_target,Reading,interest_led,8,3,1600,0.1977,Directional comparison basket; overlapping and mixed-intent terms are not a market-size total,2026-09-03
+explicit_city_query_under_uk_target,Southampton,broad_discovery,2,0,10290,0.5067,Context only; excluded from the commercial opportunity score,2026-09-03
+explicit_city_query_under_uk_target,Southampton,dating,3,1,90,1.9171,Directional comparison basket; overlapping and mixed-intent terms are not a market-size total,2026-09-03
+explicit_city_query_under_uk_target,Southampton,friendship_discovery,5,2,50,0.8093,Directional comparison basket; overlapping and mixed-intent terms are not a market-size total,2026-09-03
+explicit_city_query_under_uk_target,Southampton,interest_led,8,2,1450,0.5701,Directional comparison basket; overlapping and mixed-intent terms are not a market-size total,2026-09-03
+generic_query_inside_local_geo_target,Birmingham,broad_discovery,2,0,8360,0.3493,Context only; excluded from the commercial opportunity score,2026-09-03
+generic_query_inside_local_geo_target,Birmingham,dating,3,0,160,0.9610,Directional comparison basket; overlapping and mixed-intent terms are not a market-size total,2026-09-03
+generic_query_inside_local_geo_target,Birmingham,friendship_discovery,6,0,110,0.5309,Directional comparison basket; overlapping and mixed-intent terms are not a market-size total,2026-09-03
+generic_query_inside_local_geo_target,Birmingham,interest_led,9,0,1980,0.2560,Directional comparison basket; overlapping and mixed-intent terms are not a market-size total,2026-09-03
+generic_query_inside_local_geo_target,Bristol,broad_discovery,2,0,6710,0.1920,Context only; excluded from the commercial opportunity score,2026-09-03
+generic_query_inside_local_geo_target,Bristol,dating,3,0,70,1.0794,Directional comparison basket; overlapping and mixed-intent terms are not a market-size total,2026-09-03
+generic_query_inside_local_geo_target,Bristol,friendship_discovery,6,0,60,0.8160,Directional comparison basket; overlapping and mixed-intent terms are not a market-size total,2026-09-03
+generic_query_inside_local_geo_target,Bristol,interest_led,9,0,930,0.1894,Directional comparison basket; overlapping and mixed-intent terms are not a market-size total,2026-09-03
+generic_query_inside_local_geo_target,Edinburgh,broad_discovery,2,0,5470,0.3088,Context only; excluded from the commercial opportunity score,2026-09-03
+generic_query_inside_local_geo_target,Edinburgh,dating,3,0,60,0.5465,Directional comparison basket; overlapping and mixed-intent terms are not a market-size total,2026-09-03
+generic_query_inside_local_geo_target,Edinburgh,friendship_discovery,6,0,60,0.3334,Directional comparison basket; overlapping and mixed-intent terms are not a market-size total,2026-09-03
+generic_query_inside_local_geo_target,Edinburgh,interest_led,9,0,520,1.0732,Directional comparison basket; overlapping and mixed-intent terms are not a market-size total,2026-09-03
+generic_query_inside_local_geo_target,Leeds,broad_discovery,2,0,5510,0.3780,Context only; excluded from the commercial opportunity score,2026-09-03
+generic_query_inside_local_geo_target,Leeds,dating,3,0,70,0.6226,Directional comparison basket; overlapping and mixed-intent terms are not a market-size total,2026-09-03
+generic_query_inside_local_geo_target,Leeds,friendship_discovery,6,0,60,0.2771,Directional comparison basket; overlapping and mixed-intent terms are not a market-size total,2026-09-03
+generic_query_inside_local_geo_target,Leeds,interest_led,9,0,800,0.2565,Directional comparison basket; overlapping and mixed-intent terms are not a market-size total,2026-09-03
+generic_query_inside_local_geo_target,London,broad_discovery,2,0,92100,0.2914,Context only; excluded from the commercial opportunity score,2026-09-03
+generic_query_inside_local_geo_target,London,dating,3,0,1150,1.5042,Directional comparison basket; overlapping and mixed-intent terms are not a market-size total,2026-09-03
+generic_query_inside_local_geo_target,London,friendship_discovery,6,0,430,1.9458,Directional comparison basket; overlapping and mixed-intent terms are not a market-size total,2026-09-03
+generic_query_inside_local_geo_target,London,interest_led,9,0,11610,0.9207,Directional comparison basket; overlapping and mixed-intent terms are not a market-size total,2026-09-03
+generic_query_inside_local_geo_target,Manchester,broad_discovery,2,0,8240,0.3435,Context only; excluded from the commercial opportunity score,2026-09-03
+generic_query_inside_local_geo_target,Manchester,dating,3,0,90,0.9082,Directional comparison basket; overlapping and mixed-intent terms are not a market-size total,2026-09-03
+generic_query_inside_local_geo_target,Manchester,friendship_discovery,6,0,60,0.4575,Directional comparison basket; overlapping and mixed-intent terms are not a market-size total,2026-09-03
+generic_query_inside_local_geo_target,Manchester,interest_led,9,0,1200,0.3762,Directional comparison basket; overlapping and mixed-intent terms are not a market-size total,2026-09-03
+generic_query_inside_local_geo_target,Nottingham,broad_discovery,2,0,490,0.5756,Context only; excluded from the commercial opportunity score,2026-09-03
+generic_query_inside_local_geo_target,Nottingham,dating,3,0,30,0.0000,Directional comparison basket; overlapping and mixed-intent terms are not a market-size total,2026-09-03
+generic_query_inside_local_geo_target,Nottingham,friendship_discovery,6,0,60,0.0000,Directional comparison basket; overlapping and mixed-intent terms are not a market-size total,2026-09-03
+generic_query_inside_local_geo_target,Nottingham,interest_led,9,1,130,0.0114,Directional comparison basket; overlapping and mixed-intent terms are not a market-size total,2026-09-03
+generic_query_inside_local_geo_target,Reading,broad_discovery,2,0,2450,0.1864,Context only; excluded from the commercial opportunity score,2026-09-03
+generic_query_inside_local_geo_target,Reading,dating,3,0,40,0.0000,Directional comparison basket; overlapping and mixed-intent terms are not a market-size total,2026-09-03
+generic_query_inside_local_geo_target,Reading,friendship_discovery,6,0,60,0.2795,Directional comparison basket; overlapping and mixed-intent terms are not a market-size total,2026-09-03
+generic_query_inside_local_geo_target,Reading,interest_led,9,0,360,0.1343,Directional comparison basket; overlapping and mixed-intent terms are not a market-size total,2026-09-03
+generic_query_inside_local_geo_target,Southampton,broad_discovery,2,0,1640,0.2032,Context only; excluded from the commercial opportunity score,2026-09-03
+generic_query_inside_local_geo_target,Southampton,dating,3,0,40,3.9472,Directional comparison basket; overlapping and mixed-intent terms are not a market-size total,2026-09-03
+generic_query_inside_local_geo_target,Southampton,friendship_discovery,6,0,60,0.8325,Directional comparison basket; overlapping and mixed-intent terms are not a market-size total,2026-09-03
+generic_query_inside_local_geo_target,Southampton,interest_led,9,0,200,0.1890,Directional comparison basket; overlapping and mixed-intent terms are not a market-size total,2026-09-03

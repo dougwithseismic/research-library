@@ -43,7 +43,10 @@
     "FCDO September 2026 reference rates used to provide approximate GBP equivalents for every foreign-currency amount",
     "Intellectual-nightlife sensitivity model covering event fill break-even city cadence and a ten-city network",
     "Mechanism-level AI-disruption analysis covering generated event content, organiser tooling, synthetic companionship, discovery agents, physical delivery, and provenance",
-    "AI scores use a zero-to-five exposure or advantage scale by dimension and are not summed into one recommendation"
+    "AI scores use a zero-to-five exposure or advantage scale by dimension and are not summed into one recommendation",
+    "Current regional demand screen across nine verified Google Ads city targets, with generic phrases in local geographies kept separate from explicit city-modified phrases under the UK target",
+    "Current selected-operator city review covering managed friendship, intellectual events, dating, FriendDating, social sport and phone-free chapters",
+    "Weighted city-launch scorecard combining two comparable demand measures with bounded operator evidence and explicit confidence, evidence-coverage and largest-unknown fields"
   ],
   "includedArtifacts": [
     "commercial-keyword-ledger.csv",
@@ -61,7 +64,13 @@
     "intellectual-nightlife-economics.csv",
     "foreign-exchange-rates.csv",
     "ai-disruption-ledger.csv",
-    "ai-disruption-scorecard.csv"
+    "ai-disruption-scorecard.csv",
+    "city-demand-explicit-screen.csv",
+    "city-demand-local-geo-screen.csv",
+    "city-demand-summary.csv",
+    "city-geo-targets.csv",
+    "city-format-evidence.csv",
+    "city-opportunity-scorecard.csv"
   ],
   "exclusions": [
     "Current-month Google Ads traffic forecasts",
@@ -76,7 +85,10 @@
     "Broad things-to-do events-near-me and classes-near-me terms from activity category totals",
     "All non-UK keyword volume from the UK market analysis",
     "Operator downloads registrations followers or claimed attendees as active paying customers",
-    "Restaurant studio facility or marketplace gross booking value as company revenue"
+    "Restaurant studio facility or marketplace gross booking value as company revenue",
+    "Local-geo and explicit-city keyword totals added together as one demand estimate",
+    "Selected operator-page absence interpreted as proof that a city has no competing supply",
+    "First-party cumulative event or attendee claims interpreted as paid attendance, repeat, sell-through, revenue or profit"
   ],
   "limitations": [
     "Average monthly searches are rounded trailing historical averages and not obtainable traffic.",
@@ -98,6 +110,11 @@
     "The intellectual-nightlife model assumes every listed direct cost and excludes central overhead founder labour VAT insurance tax and portfolio failures.",
     "Eventbrite AI feature and roadmap statements are first-party platform evidence and do not establish operator economics or attendee outcomes.",
     "The chatbot study is a US adult preprint without a non-chatbot control group and does not establish UK event substitution or willingness to pay.",
-    "No first-party AI-assisted event operations, agent-referred booking, attendee, non-returner, host, venue, or repeat cohort was available."
+    "No first-party AI-assisted event operations, agent-referred booking, attendee, non-returner, host, venue, or repeat cohort was available.",
+    "City keyword phrases overlap, contain mixed tourist, family, retail, informational and commercial intent, and do not form a market-size estimate.",
+    "The local-geo and explicit-city screens overlap and must not be added; a Google Ads city target is not equivalent to a metro catchment or safe evening-travel boundary.",
+    "The selected city operator sample is not an exhaustive competitor, venue, host or event-supply census.",
+    "Seed Talks city totals are first-party cumulative claims with unknown paid share, capacity, refunds, period consistency, repeat and contribution.",
+    "The city scorecard excludes current venue terms, customer-acquisition cost, retention, contribution, host supply, transport constraints and founder-specific local advantage."
   ]
 }

@@ -66,6 +66,8 @@ This validates friendship as a product category and shows the incumbent path: ac
 
 Thursday positions itself as an IRL dating app and advertises operation across 180 cities. Live events use clear romantic intent, age bands and conventional ticket pricing. Bored of Dating Apps similarly operates branded singles events across multiple cities, while established speed-dating operators sell structured rotations and match exchange. [Thursday](https://www.getthursday.com/), [Bored of Dating Apps](https://www.boredofdatingapps.com/event/), [Original Dating London](https://www.originaldating.com/london/?d=4)
 
+Original Dating has now extended the same operating system into platonic **FriendDating** in Manchester and Leeds. A current £20 Leeds listing advertises a welcome drink, a host, up to thirty participants, four-minute conversations and mutual post-event friend matching. The important signal is not the operator's outcome claim, which remains unverified. It is that venue sourcing, timed rotations and post-event matching can be reused across romantic and platonic intent. A new generic friendship mixer should assume this format is easy for established dating-event operators to enter. [Manchester events](https://www.originaldating.com/manchester/), [Leeds FriendDating](https://www.originaldating.com/leeds/frienddating-in-leeds-18-nov-2026/10902/)
+
 Google Ads returned 3,600 UK average monthly searches for `thursday dating`, 590 for `thursday dating app` and 880 for `bored of dating apps`. Brand interest is visible, but it should not be mistaken for generic event demand or paying users.
 
 The event-first model offers a direct revenue event and a culturally vivid product. Its challenges are severe:
@@ -105,4 +107,4 @@ Incumbents are strongest where identity graphs and digital distribution matter. 
 - member trust built through visible humans and local incident handling;
 - an event outcome model that values comfort and reconnection, not only matches.
 
-The strongest defence is not anti-app rhetoric. It is serving a social job that an app's existing brand and economics make awkward to own.
+The strongest defence is not anti-app rhetoric. It is serving a social job that an app's existing brand and economics make awkward to own. FriendDating narrows that opening: “platonic” alone is not a moat. The activity, room, repeat pathway and local trust system must do the differentiating.

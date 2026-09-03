@@ -21,6 +21,10 @@ Ten models were scored from one to five against the method in the [research chap
 
 The result does not predict company size. It asks which model best combines legible demand, repeat potential, contribution, portability, differentiation, operating ease and controllable trust risk.
 
+This model score is now paired with a separate [city opportunity scorecard](./26-city-opportunity-scorecard-and-launch-cells.md). The archetype ranking answers _what should be built?_ The city screen answers _where should the first evidence be bought?_ Keeping them separate avoids pretending that a strong format automatically has the same acquisition, venue and competitive conditions in every place.
+
+The retained scorecard also has an explicit evidence boundary: public sources support demand signals, current formats and price anchors, but no archetype has first-party acquisition, retention, contribution and incident cohorts for the proposed company. A lead of two or three points is therefore not a meaningful empirical difference. The decision bands and first reversible test matter more than the decimal-free rank.
+
 ## Recommended: interest-led event house with a depth engine
 
 The public acquisition product should be a concrete night people value independently: a lecture, reading party, social game, portable making class or selected sport session. Solo attendance is designed into arrival, seating and hosting.
@@ -138,6 +142,8 @@ one regional city or compact cluster
 × existing ticketing and CRM
 × no permanent venue
 ```
+
+The regional screen places Bristol first as a learning cell, Birmingham first for non-London scale demand and Manchester first as an incumbent stress test. Those are desk-research roles rather than unconditional launch instructions; venue terms, founder access and paid intent can reverse the order.
 
 The first season should test at least two price and capacity shapes without fragmenting into a random calendar.
 

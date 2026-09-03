@@ -2,7 +2,7 @@
   "slug": "product-aggregator-2026",
   "title": "Building a Product Aggregator in 2026",
   "shortTitle": "Product Aggregator 2026",
-  "summary": "A decision-grade UK research series on high-order-value product aggregation: commercial demand, shopping agents, generated content, vertical selection, product architecture, revenue models and practitioner evidence.",
+  "summary": "A decision-grade UK research series on high-order-value product aggregation: a forty-operator market atlas, proven mechanisms, failure and ownership cases, commercial demand, AI disruption, vertical selection and a revised founder strategy.",
   "eyebrow": "Commercial research series",
   "geography": "United Kingdom",
   "observedAt": "2026-09-03",
@@ -152,6 +152,60 @@
       "shortTitle": "Agents and AI content",
       "title": "Shopping Agents, Generated Content and the Decision Web",
       "description": "How merchant-direct feeds, conversational comparison, generated content and attribution pressure change the product-aggregation thesis."
+    },
+    {
+      "source": "16-the-product-aggregation-economy.md",
+      "output": "16-the-product-aggregation-economy.html",
+      "number": "16",
+      "section": "Market structure",
+      "shortTitle": "Aggregation economy",
+      "title": "The Product-Aggregation Economy",
+      "description": "The real value chain across price engines, test publishers, compatibility tools, marketplaces, supplier software and shopping agents."
+    },
+    {
+      "source": "17-forty-operator-atlas.md",
+      "output": "17-forty-operator-atlas.html",
+      "number": "17",
+      "section": "Market structure",
+      "shortTitle": "Forty-operator atlas",
+      "title": "Forty-Operator Atlas",
+      "description": "A structured census of forty active and strategically relevant product-decision systems and the scarce assets behind them."
+    },
+    {
+      "source": "18-what-works-and-where-the-secret-sauce-lives.md",
+      "output": "18-what-works-and-where-the-secret-sauce-lives.html",
+      "number": "18",
+      "section": "What works",
+      "shortTitle": "The secret sauce",
+      "title": "What Works and Where the Secret Sauce Lives",
+      "description": "Mechanism-level case studies of compounding evidence, compatibility, price history, trust, supplier workflow and distribution."
+    },
+    {
+      "source": "19-what-fails-and-how-aggregators-destroy-value.md",
+      "output": "19-what-fails-and-how-aggregators-destroy-value.html",
+      "number": "19",
+      "section": "What fails",
+      "shortTitle": "How value is destroyed",
+      "title": "What Fails and How Aggregators Destroy Value",
+      "description": "Observed failure patterns spanning thin feeds, gatekeeper dependence, transaction expansion, testing scope and false unit economics."
+    },
+    {
+      "source": "20-capital-ownership-and-strategic-value.md",
+      "output": "20-capital-ownership-and-strategic-value.html",
+      "number": "20",
+      "section": "What fails",
+      "shortTitle": "Capital and ownership",
+      "title": "Capital, Ownership and Strategic Value",
+      "description": "What acquisitions, divestments, impairments, court findings and operating commitments reveal—and do not reveal—about value."
+    },
+    {
+      "source": "21-the-revised-founder-strategy.md",
+      "output": "21-the-revised-founder-strategy.html",
+      "number": "21",
+      "section": "Founder decision",
+      "shortTitle": "Revised founder strategy",
+      "title": "The Revised Founder Strategy",
+      "description": "A narrower robotic-mower decision wedge, its test bench, property graph, commercial sequence, validation gates and expansion rules."
     }
   ]
 }

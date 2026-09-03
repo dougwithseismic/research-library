@@ -353,13 +353,38 @@ function renderPublication(directory) {
       const labels = {
         "commercial-keyword-ledger.csv":
           "Retained UK commercial-intent keyword observations",
+        "city-demand-explicit-screen.csv":
+          "Detailed UK-targeted observations for explicit city phrases",
+        "city-demand-local-geo-screen.csv":
+          "Detailed generic-phrase observations inside each city target",
+        "city-demand-summary.csv":
+          "Comparable city and category demand totals with separate methods",
+        "city-geo-targets.csv":
+          "Verified Google Ads city criterion IDs used in the regional screen",
+        "city-format-evidence.csv":
+          "Current selected-operator evidence by city and stated limitations",
+        "city-opportunity-scorecard.csv":
+          "Weighted launch-city comparison with confidence and missing evidence",
         "manifest.json": "Research scope, methods, exclusions and limitations",
         "practitioner-evidence-ledger.csv":
           "Payment-model and practitioner evidence claims",
+        "operator-census.csv":
+          "Structured operator, business-model and mechanism census",
+        "mechanism-ledger.csv":
+          "Observed compounding mechanisms and transfer conditions",
+        "failure-case-ledger.csv":
+          "Observed failure patterns, evidence boundaries and design rules",
+        "capital-and-ownership-ledger.csv":
+          "Transactions, operating commitments and interpretation boundaries",
         "scorecard.csv": "Comparable opportunity scores and raw demand totals",
         "sources.csv": "Complete source URL register and limitations",
       };
-      return `| [${file}](./${file}) | ${labels[file] ?? "Retained research artifact"} |`;
+      const publicationLabel =
+        publication.slug === "events-economy-2026" &&
+        file === "opportunity-scorecard.csv"
+          ? "Archetype scores with confidence, first tests and largest unknowns"
+          : undefined;
+      return `| [${file}](./${file}) | ${labels[file] ?? publicationLabel ?? "Retained research artifact"} |`;
     })
     .join("\n")}`;
   const renderedEvidence = markdownHtml(evidenceMarkdown);

@@ -14,7 +14,6 @@ A reusable home for evidence-led commercial research, publication-ready document
 
 ## Current publications
 
-- `publications/commercial-premises-compliance-ai-2026/` contains the UK commercial-premises compliance paper, including obligation and procurement boundaries, AI disruption, control architecture, evaluation gates, economics and a twelve-month validation programme.
 - `publications/product-aggregator-2026/` contains the UK product-aggregator research series, including the commercial keyword ledger, opportunity scorecard, practitioner evidence and source registry.
 
 ## Credentials

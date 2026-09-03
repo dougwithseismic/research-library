@@ -1,7 +1,7 @@
 {
   "title": "How I would build a product aggregator in 2026",
   "observedAt": "2026-09-03",
-  "decision": "Choose and design a UK product-aggregation vertical with explicit commercial search demand, relatively low paid-search CPC, high order values, and enough breadth to support a durable editorial and comparison brand.",
+  "decision": "Choose and design a UK product-aggregation vertical with explicit commercial search demand, relatively low paid-search CPC, high order values, and a durable decision system built from original evidence, compatibility, retained buyer state, and measurable supplier value.",
   "geography": {
     "name": "United Kingdom",
     "googleAdsCriterionId": "2826"
@@ -21,6 +21,9 @@
     "Current industry reports covering UK affiliate investment and international publisher compensation preferences",
     "Named public practitioner interviews and panels representing publishers, advertisers, agencies, networks, and tracking specialists",
     "Public-company annual reports and current comparison-platform commercial documentation for adjacent revenue-model evidence",
+    "Forty-operator census spanning comparison engines, independent testing, compatibility systems, vertical marketplaces, supplier software, specialist retail, infrastructure, and shopping agents",
+    "Mechanism-level case analysis separating compounding assets from interface features",
+    "Failure-case and capital-ownership ledgers with explicit interpretation boundaries for acquisitions, divestments, impairments, court findings, and operating commitments",
     "Current primary platform documentation for shopping-agent interfaces, merchant feeds, generative-content guidance, and direct merchant distribution",
     "Mechanism-level AI-disruption ledger separating observed platform capability from adoption, economics, and inference",
     "AI scores use a zero-to-five exposure or advantage scale by dimension and are not summed into one recommendation",
@@ -32,7 +35,11 @@
     "sources.csv",
     "practitioner-evidence-ledger.csv",
     "ai-disruption-ledger.csv",
-    "ai-disruption-scorecard.csv"
+    "ai-disruption-scorecard.csv",
+    "operator-census.csv",
+    "mechanism-ledger.csv",
+    "failure-case-ledger.csv",
+    "capital-and-ownership-ledger.csv"
   ],
   "exclusions": [
     "Traditional fashion and apparel",
@@ -51,6 +58,10 @@
     "Practitioner evidence comes from attributed public interviews, panels, and podcasts rather than interviews conducted for this project.",
     "Platform announcements establish shopping-agent and merchant-feed capabilities but do not establish UK adoption, conversion, attribution, or publisher compensation.",
     "No first-party agent-referred traffic, assisted-conversion, merchant-feed, generated-content productivity, or correction cohort was available.",
+    "Private operator revenue, profit, retention, traffic concentration, marketplace liquidity, fraud loss, and category contribution remain largely undisclosed.",
+    "Acquisition consideration and divestment proceeds do not establish investor return without interim cash flows, investment, financing, tax, and strategic benefits.",
+    "A current operator page or product establishes availability and a first-party claim; it does not establish profitability or customer outcomes.",
+    "The PriceRunner damages decision was a first-instance court result on the observation date; finality and collection remain unknown.",
     "Trade-body and platform research has declared industry context and sample limitations and should not be treated as merchant-specific commercial validation."
   ]
 }

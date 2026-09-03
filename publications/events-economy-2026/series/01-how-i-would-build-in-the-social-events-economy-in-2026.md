@@ -102,6 +102,8 @@ The baskets are deliberately not added together. London terms can overlap the na
 
 The useful conclusion is directional: explicit offline-dating demand is larger than friendship-event demand, but friendship has enough discovery activity to test a focused proposition. Search should not be the only acquisition channel because people often discover communities through referrals, venues, local media and social feeds rather than category keywords.
 
+A second regional pull compared nine verified city targets with the same friendship, interest-led and dating baskets. Birmingham produced the largest non-London local-geo comparison basket at 2,250 average monthly searches. Manchester produced the largest non-London explicit city-modified basket at 9,370. Bristol returned 1,060 and 5,980 respectively, while the current Timeleft city list omits Bristol. The [city opportunity scorecard](./26-city-opportunity-scorecard-and-launch-cells.md) therefore recommends Bristol as the cleanest learning cell, Birmingham as the scale-demand test and Manchester as the incumbent stress test. These overlapping baskets are comparison signals rather than addressable-market totals.
+
 ## What would the commercial model be?
 
 The [43-part revenue playbook](../evidence/revenue-playbook.csv) shows many possibilities, but the launch company should earn four layers in sequence.
@@ -195,6 +197,8 @@ These are proposed management gates, not industry benchmarks. They exist to forc
 ## The final recommendation
 
 Start with **one interest-led regional programme**, one service area, two weekday venue relationships and a small host/facilitator bench. Use a lecture, reading, game, sport or portable making format as the public front door. Offer the most engaged attendees a related dinner, salon, course or cohort. Sell tickets and seasons first; add capped membership only when cross-format return and contribution are understood.
+
+If the founder has no pre-existing geographic advantage, obtain comparable venue quotes and paid-intent evidence in Bristol, Birmingham and Manchester before selecting the first cell. Do not average those cities into a national launch. Choose one, deliver six paid events and make the programme repeat before opening another.
 
 Keep dating separate. A platonic or activity product loses trust if every room feels like covert matchmaking; a dating product fails if it refuses to manage attraction, rejection and composition. A company may eventually operate both, but they require different promises, rules and safety design.
 

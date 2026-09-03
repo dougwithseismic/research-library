@@ -1,0 +1,10 @@
+city,criterionId,canonicalName,targetType,status
+London,1006886,"London, England, United Kingdom",City,Active
+Birmingham,1006524,"Birmingham, West Midlands, England, United Kingdom",City,Active
+Manchester,1006912,"Manchester, Manchester, England, United Kingdom",City,Active
+Leeds,1006864,"Leeds, West Yorkshire, England, United Kingdom",City,Active
+Bristol,1006567,"Bristol, England, United Kingdom",City,Active
+Nottingham,1006965,"Nottingham, Nottingham, England, United Kingdom",City,Active
+Southampton,1007089,"Southampton, Southampton, England, United Kingdom",City,Active
+Reading,1007009,"Reading, Reading, England, United Kingdom",City,Active
+Edinburgh,1007326,"Edinburgh, Scotland, United Kingdom",City,Active
