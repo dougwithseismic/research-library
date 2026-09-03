@@ -1,5 +1,21 @@
 # Dating incumbents and the offline turn
 
+## What is event-led dating?
+
+Event-led dating makes a real-world gathering the primary unit of romantic discovery. A conventional dating app sells access to profiles, filters, visibility and messaging; an event operator sells a bounded occasion in which potential partners are physically present. Hybrids such as Tinder Events connect the two systems.
+
+The category includes several distinct products:
+
+- a large singles mixer with light facilitation;
+- speed dating with timed rotations and post-event match exchange;
+- a curated dinner or activity with a smaller cohort;
+- an app-organised venue event with digital identity before and messaging after;
+- a recurring singles membership with included and premium events.
+
+The customer job is not simply “meet singles”. It is to enter a room where romantic intent is legible, participation feels safe and the composition is plausible enough to justify the time and emotional cost. The operator must therefore manage identity, age or interest promises, capacity, cancellations, gender and orientation dynamics, intoxication, safeguarding and post-event contact together.
+
+This makes event-led dating commercially vivid but operationally unforgiving. A sold ticket is not a successful unit if the buyer arrives to the wrong room, cannot participate or leaves feeling misled. The useful comparison with dating incumbents is not software revenue versus ticket revenue; it is how each model creates, prices and governs a credible opportunity to connect.
+
 ## Online dating is changing, not disappearing
 
 The lazy category story is that users hate swiping and are abandoning dating apps for events. Current evidence does not support that as a complete account.
@@ -8,12 +24,12 @@ Ofcom's May 2025 UK adult audience estimates placed Tinder and Hinge at roughly 
 
 Match Group's 2025 filing shows the same divergence:
 
-| Metric         | Tinder 2025 | Year-on-year | Hinge 2025 | Year-on-year |
-| -------------- | ----------: | -----------: | ---------: | -----------: |
-| Direct revenue |    $1.863bn |          −4% |    $690.9m |         +26% |
-| Payers         |      9.026m |          −7% |     1.801m |         +18% |
+| Metric         |          Tinder 2025 | Year-on-year |       Hinge 2025 | Year-on-year |
+| -------------- | -------------------: | -----------: | ---------------: | -----------: |
+| Direct revenue | $1.863bn (~£1.321bn) |          −4% | $690.9m (~£490m) |         +26% |
+| Payers         |               9.026m |          −7% |           1.801m |         +18% |
 
-Match Group total revenue was $3.487 billion. The figures are global company metrics, not UK estimates. [Match Group 2025 Form 10-K](https://www.sec.gov/Archives/edgar/data/891103/000089110326000025/mtch-20251231.htm)
+Match Group total revenue was $3.487 billion (approximately £2.473 billion at the report's September 2026 reference rate). The figures are global company metrics, not UK estimates. [Match Group 2025 Form 10-K](https://www.sec.gov/Archives/edgar/data/891103/000089110326000025/mtch-20251231.htm)
 
 Bumble reported 3.672 million total payers in 2025, down from 4.149 million, and 2.434 million Bumble-app payers, down from 2.807 million. Average revenue per payer increased. The rebuilt standalone BFF product launched in September 2025 and had generated no revenue by year end. [Bumble FY2025 results](https://ir.bumble.com/news/news-details/2026/Bumble-Inc--Announces-Fourth-Quarter-and-Full-Year-2025-Results/)
 
@@ -36,7 +52,7 @@ An event-first challenger should assume Tinder can subsidise acquisition and lea
 
 ## Hinge: relationship brand, gathering infrastructure
 
-Hinge's product is still digital matching, but the company has treated social gathering as part of the relationship ecosystem. Its published _One More Hour_ material describes a recurring $1 million fund supporting in-person groups and community organisers. [Hinge, _One More Hour_](https://files.hinge.co/a2390d888244eb611a93c1ca6dee7f71cfd5a268.pdf/HWDT-v2-Book-Design-R2-20240624.pdf)
+Hinge's product is still digital matching, but the company has treated social gathering as part of the relationship ecosystem. Its published _One More Hour_ material describes a recurring $1 million fund—approximately £709,000 at the report's reference rate—supporting in-person groups and community organisers. [Hinge, _One More Hour_](https://files.hinge.co/a2390d888244eb611a93c1ca6dee7f71cfd5a268.pdf/HWDT-v2-Book-Design-R2-20240624.pdf)
 
 Hinge's growth shows that swipe dissatisfaction does not automatically move customers offline; a different digital brand and product can capture them. An entrant must make the event itself better, not merely position against apps.
 

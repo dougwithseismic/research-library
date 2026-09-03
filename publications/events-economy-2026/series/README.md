@@ -45,7 +45,7 @@ The economic product is therefore not simply an event listing. It is a **reliabl
 
 ## What is being built now?
 
-The market is active but fragmented. The [44-company operator atlas](./18-forty-two-company-operator-atlas.md) shows five overlapping directions:
+The market is active but fragmented. The [52-operator atlas](./18-forty-two-company-operator-atlas.md) shows five overlapping directions:
 
 1. **Managed social calendars.** Dinners With Friends, Timeleft and 222 organise the occasion and take responsibility for composition, attendance and the experience rather than merely listing it.
 2. **Dating moves into events.** Thursday and Bored of Dating Apps begin with IRL events, while Tinder, Hinge and Bumble increasingly treat offline participation as part of their product rather than a marketing extra.
@@ -93,32 +93,33 @@ Most event marketplaces optimise discovery and checkout. Dating apps optimise pr
 
 ## The series
 
-| Document                                                                                                                      | Purpose                                                        |
-| ----------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
-| [01 — How I would build in the social events economy in 2026](./01-how-i-would-build-in-the-social-events-economy-in-2026.md) | The complete thesis and recommendation                         |
-| [02 — Research method and evidence boundaries](./02-research-method-and-evidence-boundaries.md)                               | Definitions, calculations and source limitations               |
-| [03 — Why now](./03-why-now-the-demand-for-structured-connection.md)                                                          | Demand, loneliness, app fatigue and hospitality context        |
-| [04 — The structured social leisure economy](./17-the-structured-social-leisure-economy.md)                                   | UK activity demand and international mechanism tests           |
-| [05 — Landscape](./04-landscape-and-business-model-archetypes.md)                                                             | Operators, substitutes and commercial archetypes               |
-| [06 — Forty-four-company operator atlas](./18-forty-two-company-operator-atlas.md)                                            | Company census, patterns, crowding and whitespace              |
-| [07 — Dinners With Friends](./05-dinners-with-friends-local-trust-as-the-product.md)                                          | Local hosted dining and its operating economics                |
-| [08 — Timeleft](./06-timeleft-city-liquidity-as-the-product.md)                                                               | Scaled city orchestration and subscription logic               |
-| [09 — Dating incumbents](./07-dating-incumbents-and-the-offline-turn.md)                                                      | Tinder, Hinge, Bumble and event-first challengers              |
-| [10 — Intellectual nightlife](./19-intellectual-nightlife-and-the-lecture-business.md)                                        | Lectures on Tap, Seed Talks and the lecture economics          |
-| [11 — Pottery, games, reading and social sport](./20-pottery-games-reading-and-social-sport.md)                               | Activity models, revenue stacks and operating constraints      |
-| [12 — Discovery platforms](./21-liiiv-and-the-local-discovery-layer.md)                                                       | Liiiv, Ocio, Fever and the platform route                      |
-| [13 — Where to play](./08-where-to-play-customer-segments-and-scorecard.md)                                                   | Segment choice and weighted scorecard                          |
-| [14 — Founder strategy](./23-the-revised-founder-strategy.md)                                                                 | Two-speed product, bootstrap route, fundraise gates and future |
-| [15 — Commercials](./09-commercial-model-and-unit-economics.md)                                                               | Revenue architecture and sensitivity cases                     |
-| [16 — Forty-three-part revenue playbook](./22-the-forty-three-part-revenue-playbook.md)                                       | Revenue mechanisms, sequencing and scenario economics          |
-| [17 — Product and operations](./10-product-operations-and-city-liquidity.md)                                                  | Attendance, hosts, venues, matching and density                |
-| [18 — Launch plan](./11-go-to-market-and-twelve-month-launch-plan.md)                                                         | Twelve-month sequence and decision gates                       |
-| [19 — Trust and safety](./12-trust-safety-compliance-and-failure-modes.md)                                                    | Safeguarding, privacy, consumer terms and failure modes        |
-| [20 — How event companies destroy value](./24-how-event-companies-destroy-value.md)                                           | Working capital, real-estate and scaling failure cases         |
-| [21 — Primary research](./13-primary-research-programme.md)                                                                   | Interviews and field tests still required                      |
-| [22 — Bootstrap versus venture](./14-bootstrap-versus-venture-capital.md)                                                     | How each capital model changes the product and company         |
-| [23 — The market from 2027 to 2030](./15-the-market-from-2027-to-2030.md)                                                     | Future scenarios, incumbent moves and durable advantages       |
-| [24 — The optimal route](./16-the-optimal-capital-and-company-building-route.md)                                              | Capital sequence, raise gates, budgets and endgames            |
+| Document                                                                                                                           | Purpose                                                                             |
+| ---------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| [01 — How I would build in the social events economy in 2026](./01-how-i-would-build-in-the-social-events-economy-in-2026.md)      | The complete thesis and recommendation                                              |
+| [02 — Research method and evidence boundaries](./02-research-method-and-evidence-boundaries.md)                                    | Definitions, calculations and source limitations                                    |
+| [03 — Why now](./03-why-now-the-demand-for-structured-connection.md)                                                               | Demand, loneliness, app fatigue and hospitality context                             |
+| [04 — The structured social leisure economy](./17-the-structured-social-leisure-economy.md)                                        | UK activity demand and international mechanism tests                                |
+| [05 — Landscape](./04-landscape-and-business-model-archetypes.md)                                                                  | Operators, substitutes and commercial archetypes                                    |
+| [06 — Fifty-two-operator atlas](./18-forty-two-company-operator-atlas.md)                                                          | Company census, patterns, crowding and whitespace                                   |
+| [07 — Dinners With Friends](./05-dinners-with-friends-local-trust-as-the-product.md)                                               | Local hosted dining and its operating economics                                     |
+| [08 — Timeleft](./06-timeleft-city-liquidity-as-the-product.md)                                                                    | Scaled city orchestration and subscription logic                                    |
+| [09 — Dating incumbents](./07-dating-incumbents-and-the-offline-turn.md)                                                           | Tinder, Hinge, Bumble and event-first challengers                                   |
+| [10 — Intellectual nightlife](./19-intellectual-nightlife-and-the-lecture-business.md)                                             | Lectures on Tap, Seed Talks and the lecture economics                               |
+| [11 — Pottery, games, reading and social sport](./20-pottery-games-reading-and-social-sport.md)                                    | Activity models, revenue stacks and operating constraints                           |
+| [12 — Discovery platforms](./21-liiiv-and-the-local-discovery-layer.md)                                                            | Liiiv, Ocio, Fever and the platform route                                           |
+| [13 — Where to play](./08-where-to-play-customer-segments-and-scorecard.md)                                                        | Segment choice and weighted scorecard                                               |
+| [14 — Founder strategy](./23-the-revised-founder-strategy.md)                                                                      | Two-speed product, bootstrap route, fundraise gates and future                      |
+| [15 — Commercials](./09-commercial-model-and-unit-economics.md)                                                                    | Revenue architecture and sensitivity cases                                          |
+| [16 — Forty-three-part revenue playbook](./22-the-forty-three-part-revenue-playbook.md)                                            | Revenue mechanisms, sequencing and scenario economics                               |
+| [17 — Product and operations](./10-product-operations-and-city-liquidity.md)                                                       | Attendance, hosts, venues, matching and density                                     |
+| [18 — Launch plan](./11-go-to-market-and-twelve-month-launch-plan.md)                                                              | Twelve-month sequence and decision gates                                            |
+| [19 — Trust and safety](./12-trust-safety-compliance-and-failure-modes.md)                                                         | Safeguarding, privacy, consumer terms and failure modes                             |
+| [20 — How event companies destroy value](./24-how-event-companies-destroy-value.md)                                                | Working capital, real-estate and scaling failure cases                              |
+| [21 — Primary research](./13-primary-research-programme.md)                                                                        | Interviews and field tests still required                                           |
+| [22 — Bootstrap versus venture](./14-bootstrap-versus-venture-capital.md)                                                          | How each capital model changes the product and company                              |
+| [23 — The market from 2027 to 2030](./15-the-market-from-2027-to-2030.md)                                                          | Future scenarios, incumbent moves and durable advantages                            |
+| [24 — The optimal route](./16-the-optimal-capital-and-company-building-route.md)                                                   | Capital sequence, raise gates, budgets and endgames                                 |
+| [25 — AI content, synthetic companionship and the physical moat](./25-ai-content-synthetic-companionship-and-the-physical-moat.md) | Generated supply, organiser leverage, digital substitution and durable event assets |
 
 ## How to read the evidence
 
@@ -131,6 +132,6 @@ The report keeps four evidence classes separate:
 
 Search volume is not obtainable traffic. CPC is not customer-acquisition cost. A platform claim is not an audited result. A restaurant's gross table spend is not its profit. Companies House registration would not establish service quality or buying intent.
 
-The evidence pack contains the [138-source ledger](../evidence/sources.csv), [44-company operator census](../evidence/operator-census.csv), [43-part revenue playbook](../evidence/revenue-playbook.csv), [UK activity keyword ledger](../evidence/activity-keyword-ledger.csv), [intellectual-events keyword ledger](../evidence/intellectual-events-keyword-ledger.csv), [format-economics scenarios](../evidence/format-economics-scenarios.csv), [original commercial keyword ledger](../evidence/commercial-keyword-ledger.csv), [opportunity scorecard](../evidence/opportunity-scorecard.csv), [unit-economics scenarios](../evidence/unit-economics-scenarios.csv), [capital-plan scenarios](../evidence/capital-plan-scenarios.csv), [seat-revenue scale model](../evidence/seat-revenue-scale-model.csv), [future-scenario register](../evidence/future-scenarios.csv) and [research manifest](../evidence/manifest.json).
+The evidence pack contains the [159-source ledger](../evidence/sources.csv), [52-operator census](../evidence/operator-census.csv), [43-part revenue playbook](../evidence/revenue-playbook.csv), [UK activity keyword ledger](../evidence/activity-keyword-ledger.csv), [intellectual-events keyword ledger](../evidence/intellectual-events-keyword-ledger.csv), [format-economics scenarios](../evidence/format-economics-scenarios.csv), [intellectual-nightlife economics](../evidence/intellectual-nightlife-economics.csv), [foreign-exchange reference rates](../evidence/foreign-exchange-rates.csv), [AI-disruption ledger](../evidence/ai-disruption-ledger.csv), [AI scorecard](../evidence/ai-disruption-scorecard.csv), [original commercial keyword ledger](../evidence/commercial-keyword-ledger.csv), [opportunity scorecard](../evidence/opportunity-scorecard.csv), [unit-economics scenarios](../evidence/unit-economics-scenarios.csv), [capital-plan scenarios](../evidence/capital-plan-scenarios.csv), [seat-revenue scale model](../evidence/seat-revenue-scale-model.csv), [future-scenario register](../evidence/future-scenarios.csv) and [research manifest](../evidence/manifest.json).
 
-No campaign was launched, no operator or venue was contacted, no event was purchased, no production system was changed and no Supabase query was performed. The files are local and uncommitted.
+No campaign was launched, no operator or venue was contacted, no event was purchased, no production system was changed and no Supabase query was performed. The generated update remains local until a separate publication request.

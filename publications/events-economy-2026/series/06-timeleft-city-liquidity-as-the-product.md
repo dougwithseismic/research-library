@@ -1,5 +1,20 @@
 # Timeleft: city liquidity as the product
 
+## What is a managed social calendar?
+
+A managed social calendar is a recurring service that decides enough of a person's offline social life to make participation easy. Instead of asking the member to search a feed, recruit friends, negotiate a date and make a booking, the operator maintains local inventory and assembles the occasion.
+
+It is a different business from a one-off event promoter. The customer is buying continuity: confidence that there will be another viable occasion next week, that the other participants will broadly fit the promise and that a failed night will not end the relationship with the service. That shifts the operating unit from an isolated ticket to a **member-month inside one city cell**.
+
+Four systems have to work together:
+
+- recurring local demand dense enough to form complete groups;
+- venues and formats available at the times members actually want them;
+- matching and attendance controls that protect room quality;
+- a subscription or pack whose utilisation remains valuable to the member and affordable to the operator.
+
+The attraction is recurring revenue and the chance to broaden one trusted relationship into dinners, drinks, sport, talks and coffee. The danger is selling an apparently abundant calendar before the city has sufficient people and supply. A national signup total cannot repair a thin local Wednesday night.
+
 ## What Timeleft has become
 
 Timeleft describes itself as a friendship app that arranges real-world meetings rather than online chat. Its live site reports more than 3 million members across more than 200 cities in 52 countries. The UK city list includes Birmingham, Edinburgh, Leeds, London and Manchester. [Timeleft](https://timeleft.com/), [about](https://timeleft.com/about/)

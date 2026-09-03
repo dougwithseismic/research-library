@@ -1,5 +1,20 @@
 # Dinners With Friends: local trust as the product
 
+## What is hosted friendship dining?
+
+Hosted friendship dining is a managed small-group service in which people buy a place at a table assembled for platonic connection. It sits between a supper club, a friendship app and a facilitated community group, but it is not identical to any of them. The meal is the social container; the product is the reduction of uncertainty around arriving alone, who else will be there and whether the conversation will work.
+
+The customer is hiring the operator to perform four jobs:
+
+1. gather enough suitable people at the same time and within a realistic travel radius;
+2. choose a venue where a group can hear, pay and leave comfortably;
+3. make entry into the room socially safe through a host or a clear ritual;
+4. provide enough structure for strangers to become familiar without promising friendship as an outcome.
+
+The category has three common economic shapes. A promoter can take a reservation fee while diners pay the restaurant; it can sell an all-inclusive meal and carry food, tax and cancellation exposure; or it can charge a recurring membership for access to a calendar. The first is lightest to bootstrap. The last can produce better cash flow only after local frequency and fill make membership useful.
+
+The key unit is therefore not a national member. It is a successfully completed local table. Revenue, trust, venue value and repeat behaviour are all created—or damaged—at that level.
+
 ## What the live product is
 
 Dinners With Friends is a Devon-based hosted dining service for people seeking friendship rather than dating. The current site lists events in locations including Exeter, Torquay, Exmouth and surrounding areas. A typical event has ten to twelve places, a named host and a stated age band; the reservation is commonly 15 credits, and food and drink are purchased directly from the venue. [Dinners With Friends](https://dinnerswithfriends.co.uk/), [example event](https://dinnerswithfriends.co.uk/events/voco-zeal-exeter-sep-2026)

@@ -2,7 +2,7 @@
   "slug": "events-economy-2026",
   "title": "Building in the Social Events Economy in 2026",
   "shortTitle": "Social Events Economy 2026",
-  "summary": "A decision-grade UK research series on structured social leisure: friendship, dating, talks, craft, games, sport and local discovery, with company landscape, economics, revenue plays, capital routes and where a founder can win.",
+  "summary": "A decision-grade UK research series on structured social leisure: friendship, dating, talks, craft, games, sport, AI-generated content, synthetic companionship and the physical assets a founder can own.",
   "eyebrow": "Commercial research series",
   "geography": "UK; selected European and US comparators",
   "observedAt": "2026-09-03",
@@ -68,9 +68,9 @@
       "output": "18-forty-two-company-operator-atlas.html",
       "number": "06",
       "section": "The market",
-      "shortTitle": "44-company atlas",
-      "title": "Forty-Four-Company Operator Atlas",
-      "description": "A sourced operator census, model patterns, competitive crowding and commercial whitespace."
+      "shortTitle": "52-operator atlas",
+      "title": "Fifty-Two-Operator Atlas",
+      "description": "A sourced census of companies, institutions and networks, with model patterns, competitive crowding and commercial whitespace."
     },
     {
       "source": "05-dinners-with-friends-local-trust-as-the-product.md",
@@ -79,7 +79,7 @@
       "section": "Company and format studies",
       "shortTitle": "Dinners With Friends",
       "title": "Dinners With Friends: Local Trust as the Product",
-      "description": "A live case study of hosted platonic dining, credits, venue value and operational constraints."
+      "description": "What hosted friendship dining is, followed by a live case study of credits, venue value and operational constraints."
     },
     {
       "source": "06-timeleft-city-liquidity-as-the-product.md",
@@ -88,7 +88,7 @@
       "section": "Company and format studies",
       "shortTitle": "Timeleft",
       "title": "Timeleft: City Liquidity as the Product",
-      "description": "The scaled social-calendar model, subscription economics, orchestration and brand revenue."
+      "description": "What a managed social calendar is, followed by subscription economics, orchestration and brand revenue at scale."
     },
     {
       "source": "07-dating-incumbents-and-the-offline-turn.md",
@@ -97,7 +97,7 @@
       "section": "Company and format studies",
       "shortTitle": "Dating incumbents",
       "title": "Dating Incumbents and the Offline Turn",
-      "description": "Tinder, Hinge, Bumble, Thursday and what the move into IRL experiences validates."
+      "description": "What event-led dating is, then Tinder, Hinge, Bumble, Thursday and what the move into IRL validates."
     },
     {
       "source": "19-intellectual-nightlife-and-the-lecture-business.md",
@@ -106,7 +106,7 @@
       "section": "Company and format studies",
       "shortTitle": "Intellectual nightlife",
       "title": "Intellectual Nightlife and the Lecture Business",
-      "description": "Lectures on Tap, Seed Talks, touring, membership, content rights and lecture economics."
+      "description": "A sector study of UK intellectual nightlife: formats, audience jobs, operators, production, rights, revenue, economics and founder routes."
     },
     {
       "source": "20-pottery-games-reading-and-social-sport.md",
@@ -115,7 +115,7 @@
       "section": "Company and format studies",
       "shortTitle": "Activity-first models",
       "title": "Pottery, Games, Reading and Social Sport",
-      "description": "How activity constraints shape repeat, revenue, facilitator leverage, facilities and company design."
+      "description": "What activity-first social leisure is and how pottery, games, reading and sport shape repeat, revenue and company design."
     },
     {
       "source": "21-liiiv-and-the-local-discovery-layer.md",
@@ -124,7 +124,7 @@
       "section": "Company and format studies",
       "shortTitle": "Discovery platforms",
       "title": "Discovery Platforms: Liiiv, Ocio and Fever",
-      "description": "A European discovery comparator, UK credit model, global marketplace and the own-versus-aggregate decision."
+      "description": "What local discovery platforms do, followed by Liiiv, Ocio, Fever and the own-versus-aggregate decision."
     },
     {
       "source": "08-where-to-play-customer-segments-and-scorecard.md",
@@ -233,6 +233,15 @@
       "shortTitle": "The optimal route",
       "title": "The Optimal Capital and Company-Building Route",
       "description": "A staged bootstrap-to-proof plan, raise gates, capital scenarios and strategic endgames."
+    },
+    {
+      "source": "25-ai-content-synthetic-companionship-and-the-physical-moat.md",
+      "output": "25-ai-content-synthetic-companionship-and-the-physical-moat.html",
+      "number": "25",
+      "section": "AI disruption",
+      "shortTitle": "AI and physical events",
+      "title": "AI Content, Synthetic Companionship and the Physical Moat",
+      "description": "How generated programming, organiser tools, discovery agents and synthetic companionship change the value of physical social events."
     }
   ]
 }

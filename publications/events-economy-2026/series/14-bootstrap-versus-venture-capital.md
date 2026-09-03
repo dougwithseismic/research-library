@@ -170,21 +170,21 @@ The appropriate inference is not to ask for the average round. It is to construc
 
 ### Timeleft: capital supplied runway; the simple event found the product
 
-Timeleft's founder told Forbes France that the company raised $2 million for an earlier platform built around shared dreams. The concept then changed through several versions before its first stranger dinner in May 2023. [Forbes France](https://www.forbes.fr/technologie/maxime-barbier-fondateur-de-timeleft-chez-nous-les-rencontres-ne-se-font-jamais-en-ligne/)
+Timeleft's founder told Forbes France that the company raised $2 million—approximately £1.42 million at the report's September 2026 reference rate—for an earlier platform built around shared dreams. The concept then changed through several versions before its first stranger dinner in May 2023. [Forbes France](https://www.forbes.fr/technologie/maxime-barbier-fondateur-de-timeleft-chez-nous-les-rencontres-ne-se-font-jamais-en-ligne/)
 
-In a later founder interview, the dinner product is described as being validated with Typeform, WhatsApp and Stripe and scaling on Bubble and FlutterFlow to €1 million in monthly revenue before a traditional rebuild. The same account reports €18 million ARR and 150,000 monthly participants in 2025. These are company-reported figures rather than audited accounts. [Timeleft founder interview](https://timfrin.substack.com/p/inside-timelefts-journey-to-connecting)
+In a later founder interview, the dinner product is described as being validated with Typeform, WhatsApp and Stripe and scaling on Bubble and FlutterFlow to €1 million in monthly revenue—approximately £826,000—before a traditional rebuild. The same account reports €18 million ARR—approximately £14.88 million—and 150,000 monthly participants in 2025. These are company-reported figures rather than audited accounts. [Timeleft founder interview](https://timfrin.substack.com/p/inside-timelefts-journey-to-connecting)
 
 The lesson is subtle. Initial capital allowed several years of search, but the winning product did not require an advanced technical system to reveal itself. Capital became powerful after a simple, charged occasion worked.
 
 ### 222: a funded network thesis
 
-Y Combinator describes 222 as an AI social facilitator and IRL marketplace. In December 2025 it announced a $10.1 million Series A for a company then reported as operating in ten cities. [Y Combinator company profile](https://www.ycombinator.com/companies/222), [Y Combinator funding announcement](https://www.linkedin.com/posts/y-combinator_222-has-raised-a-101m-series-a-to-build-activity-7409278348771680256-OXjd)
+Y Combinator describes 222 as an AI social facilitator and IRL marketplace. In December 2025 it announced a $10.1 million Series A—approximately £7.16 million—for a company then reported as operating in ten cities. [Y Combinator company profile](https://www.ycombinator.com/companies/222), [Y Combinator funding announcement](https://www.linkedin.com/posts/y-combinator_222-has-raised-a-101m-series-a-to-build-activity-7409278348771680256-OXjd)
 
 This is the venture archetype: young users, several markets, a subscription product, venue economics and a proprietary matching narrative. The funding amount proves investor appetite for a particular company at a particular stage. It does not prove that a new local dinner business deserves the same capital or valuation.
 
 ### Thursday: the return promise becomes explicit
 
-Thursday's 2026 investor page says it is in discussions with institutional funds and is collecting community-round pledges. It presents 180-plus cities, 1.5 million people in its network and projected 2026 revenue of $20 million, while clearly labelling the investment calculator illustrative and the figures promotional. It states an ambition to build a multi-billion-dollar company. [Thursday investor page](https://invest.thursday.com/)
+Thursday's 2026 investor page says it is in discussions with institutional funds and is collecting community-round pledges. It presents 180-plus cities, 1.5 million people in its network and projected 2026 revenue of $20 million—approximately £14.18 million—while clearly labelling the investment calculator illustrative and the figures promotional. It states an ambition to build a multi-billion-dollar company. [Thursday investor page](https://invest.thursday.com/)
 
 The page makes the venture contract visible: events are the wedge, but the financed promise is a global IRL dating platform spanning dinners, trips and experiences. A local operator should not accept venture terms while intending to remain a local events business.
 

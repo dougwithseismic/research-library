@@ -1,5 +1,13 @@
 # Pottery, games, reading and social sport
 
+## What is activity-first social leisure?
+
+Activity-first social leisure sells a concrete thing to do and lets connection emerge through doing it. The customer can truthfully say “I am going to pottery”, “I joined a football league” or “I am playing D&D” rather than publicly buying help with loneliness or friendship. That makes the activity both the acquisition promise and the social interface.
+
+This category ranges from asset-light hosted rituals to studios, leagues and marketplaces. Its defining feature is that the activity supplies roles, conversation, progress or a shared object. It lowers the emotional risk of arriving alone because participation does not depend on being immediately charming to strangers.
+
+The commercial question is not whether an activity is sociable. It is what has to be present every time the product runs, what becomes scarce at scale and why the same person returns. A reading party may need little more than a host and a quiet room. Pottery needs consumables, work surfaces and firing. D&D depends on facilitator hours and a stable cohort. Team sport needs an exact number of players, a facility and a recurring fixture.
+
 ## The activity determines the business
 
 “Activity-led social” is not one model. Pottery, chess, reading, D&D and football differ in facilitator leverage, capacity, capital, risk, recurrence and what the customer takes home.
@@ -60,9 +68,9 @@ The Passport offer then turns events into membership:
 
 | Tier        | Current starting price | Core value                                          |
 | ----------- | ---------------------: | --------------------------------------------------- |
-| Global      |               $9/month | virtual parties, chat and recommendations           |
-| Avid Reader |              $19/month | unlimited local events, books and local chat        |
-| First Class |              $29/month | any-city access and a monthly bring-a-friend ticket |
+| Global      |      $9/month (~£6.38) | virtual parties, chat and recommendations           |
+| Avid Reader |    $19/month (~£13.48) | unlimited local events, books and local chat        |
+| First Class |    $29/month (~£20.57) | any-city access and a monthly bring-a-friend ticket |
 
 [Reading Rhythms Passport](https://readingrhythms.co/passport/)
 
@@ -90,7 +98,7 @@ The operational trap is assuming a pile of boxes creates hospitality. New player
 
 A Dungeons & Dragons table is a recurring small-group social product with unusually high facilitation. The game master prepares the world, teaches rules, manages attention, handles safety boundaries and makes absence survivable.
 
-StartPlaying provides evidence that people pay for this labour. Its current help centre states an average session price of $15–$20 and a 15% platform fee deducted from game-master bookings; a small player service fee may be added at checkout. [Player pricing](https://intercom.help/startplaying/en/articles/8959627-how-much-does-it-cost-to-play-on-startplaying), [platform fee](https://intercom.help/startplaying/en/articles/14724019-what-does-the-15-fee-cover)
+StartPlaying provides evidence that people pay for this labour. Its current help centre states an average session price of $15–$20 (approximately £10.64–£14.18) and a 15% platform fee deducted from game-master bookings; a small player service fee may be added at checkout. [Player pricing](https://intercom.help/startplaying/en/articles/8959627-how-much-does-it-cost-to-play-on-startplaying), [platform fee](https://intercom.help/startplaying/en/articles/14724019-what-does-the-15-fee-cover)
 
 The report's live scenario uses six players at £30 for a premium in-person session: £180 revenue and £46 contribution after assumed game-master, room, materials, acquisition and payment costs. It remains capped by the game master's hours. The more attractive business may be a campaign pass paid in four- or six-session blocks, with substitute-player rules and a trained bench of facilitators.
 
@@ -126,7 +134,7 @@ The strategic lesson is that sport does not need a generic discovery layer first
 
 Urban Sports Club and Wellhub sell access through employers. ClassPass uses consumer credits and also serves corporate customers. These businesses are not primarily friendship companies, yet they show how recurring physical participation can be funded by wellbeing and employee-benefit budgets rather than only discretionary consumer spend.
 
-Urban Sports Club's current German corporate page lists a €28 company service fee plus selectable employer contributions per enrolled employee. Its product spans thousands of partner locations and more than fifty activities. Counts and terms vary by market. [Urban Sports Club](https://urbansportsclub.com/corporate)
+Urban Sports Club's current German corporate page lists a €28 company service fee (approximately £23.14) plus selectable employer contributions per enrolled employee. Its product spans thousands of partner locations and more than fifty activities. Counts and terms vary by market. [Urban Sports Club](https://urbansportsclub.com/corporate)
 
 The founder implication is not “sell HR a social app”. It is that a sufficiently reliable network of classes, games and experiences can eventually become an employee benefit. That requires broad usable supply, invoicing, eligibility, privacy and account management. It is a later distribution engine, not launch revenue.
 

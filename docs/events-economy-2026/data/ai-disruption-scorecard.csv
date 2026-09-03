@@ -1,0 +1,12 @@
+dimension,score,weight,weightedScore,confidence,supportingImpactIds,unknowns,interpretation
+substitution-risk,3,1,3,medium,EAI03,"UK paid-event substitution behaviour","Companionship is a plausible but directionally uncertain substitute"
+generated-content-supply,5,1,5,high,EAI01,"Effect on category listing volume and quality","Event marketing and generic programmes are abundant"
+discovery-disruption,3,1,3,medium,EAI04,"Agent-referred UK booking share","Coordination may improve while interface ownership shifts"
+agent-bypass-risk,2,1,2,low,EAI05,"Autonomous booking adoption","High for aggregators but lower for owned programmes"
+operating-leverage,4,1,4,high,EAI02,"Net time saving after review","Strong bounded administrative potential"
+proprietary-data-potential,4,1,4,medium,EAI06,"Cohort depth consent and causal usefulness","Participation outcomes can become distinctive"
+physical-world-moat,5,1,5,high,EAI07,"Whether contribution survives delivery cost","The delivered event remains physical"
+trust-liability-moat,4,1,4,high,EAI08,"Attendee response to provenance disclosures","Rights safety and authenticity require accountability"
+relationship-moat,5,1,5,high,EAI09,"Host venue and attendee retention","Local networks are central to repeat"
+platform-dependency,4,1,4,medium,EAI10,"Future source concentration","Discovery remains exposed without direct return"
+defensibility-2028,4,1,4,medium,EAI11,"Live proof of density repeat and contribution","Strong if the company owns the programme and participation"

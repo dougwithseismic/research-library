@@ -17,7 +17,7 @@ Three historical cases make the risks concrete. They are not perfect comparables
 
 ## Pollen: ticket demand did not make the company safe
 
-Pollen sold destination event experiences and raised more than $200 million. A detailed Pragmatic Engineer investigation based on documents and interviews with twenty former employees reports that the company entered administration in August 2022 after rapid hiring, unpaid vendors, delayed refunds, missed pension contributions and unpaid staff. It also reports that $3.2 million of not-yet-due instalments were charged across roughly 16,000 bookings during the crisis. [Investigation](https://blog.pragmaticengineer.com/pollen/)
+Pollen sold destination event experiences and raised more than $200 million—approximately £142 million at the report's reference rate. A detailed Pragmatic Engineer investigation based on documents and interviews with twenty former employees reports that the company entered administration in August 2022 after rapid hiring, unpaid vendors, delayed refunds, missed pension contributions and unpaid staff. It also reports that $3.2 million—approximately £2.27 million—of not-yet-due instalments were charged across roughly 16,000 bookings during the crisis. [Investigation](https://blog.pragmaticengineer.com/pollen/)
 
 This is secondary investigative reporting rather than an insolvency filing, and the article includes company responses to disputed points. The lesson does not depend on adjudicating every allegation:
 
@@ -35,7 +35,7 @@ Controls for a new operator:
 
 ## Spacious: partner value did not survive ownership and cost structure
 
-Spacious turned restaurants that were empty during the day into paid coworking spaces. WeWork acquired it in August 2019 and shut it by the end of that year. Contemporary reporting described dozens of restaurant and retail locations and membership from a $20 day pass to $129 monthly, while the closure was tied to WeWork's retrenchment and questions over Spacious's own expenses relative to revenue. [Acquisition](https://techcrunch.com/2019/08/27/wework-acquires-co-working-rival-spacious/), [closure](https://www.restaurantdive.com/news/wework-shutters-restaurant-coworking-startup-spacious/569018/)
+Spacious turned restaurants that were empty during the day into paid coworking spaces. WeWork acquired it in August 2019 and shut it by the end of that year. Contemporary reporting described dozens of restaurant and retail locations and membership from a $20 day pass (approximately £14.18) to $129 monthly (approximately £91.49), while the closure was tied to WeWork's retrenchment and questions over Spacious's own expenses relative to revenue. [Acquisition](https://techcrunch.com/2019/08/27/wework-acquires-co-working-rival-spacious/), [closure](https://www.restaurantdive.com/news/wework-shutters-restaurant-coworking-startup-spacious/569018/)
 
 The adjacency is instructive. Using off-peak hospitality capacity can create real partner revenue, but it does not automatically create a durable platform. The operator still needs sufficient member density, favourable space economics and strategic control.
 
@@ -50,7 +50,7 @@ Controls:
 
 ## The Wing: identity and a waitlist did not cover fixed assets
 
-The Wing combined coworking, community and events in designed physical spaces. Fortune reported that it closed its six remaining locations in August 2022 because it had not recovered enough active membership and event activity for a financially sustainable operation. The business had once reached a reported $365 million valuation and a 35,000-person waiting list. [Fortune closure report](https://fortune.com/2022/08/31/coworking-space-the-wing-shuttering-6-remaining-locations-girlboss/)
+The Wing combined coworking, community and events in designed physical spaces. Fortune reported that it closed its six remaining locations in August 2022 because it had not recovered enough active membership and event activity for a financially sustainable operation. The business had once reached a reported $365 million valuation—approximately £259 million—and a 35,000-person waiting list. [Fortune closure report](https://fortune.com/2022/08/31/coworking-space-the-wing-shuttering-6-remaining-locations-girlboss/)
 
 The pandemic materially affected the case, and the company had governance and cultural controversies beyond this report's scope. The relevant economic lesson is narrower:
 

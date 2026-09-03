@@ -1,5 +1,21 @@
 # Discovery platforms: Liiiv, Ocio and Fever
 
+## What is a local discovery platform?
+
+A local discovery platform helps a person turn an open block of time into a real booking or visit across third-party events, venues and activities. It is not primarily the event producer. Its product is a faster, more confident decision from fragmented local supply.
+
+The category spans several different businesses that are often collapsed into “things to do”:
+
+- a media guide earns advertising or sponsorship from attention;
+- a listing marketplace earns commission when a ticket transacts;
+- a credit membership buys or negotiates access and resells it inside a monthly allowance;
+- an organiser operating system earns software and processing fees before adding discovery;
+- an original-experience platform uses discovery data to produce its own higher-margin formats.
+
+The consumer job is occasional but urgent: _what should I do tonight, with these people, at this price, in this part of the city?_ The supply-side job is continuous: keep inventory current, prove incremental demand, attribute bookings and settle money. That asymmetry is why a beautiful feed can have abundant listings but weak habit and weak revenue.
+
+The core unit is not an app download or an event page view. It is a completed, attributable participation that improves the next decision and gives the organiser a reason to remain in the system.
+
 ## Liiiv is a different company from Timeleft
 
 Timeleft assembles people into operator-designed events. Liiiv helps a person decide which third-party event, venue or creator fits their evening. Conflating them produces the wrong product, capital plan and metrics.

@@ -15,7 +15,9 @@ The public product would be a recurring night people want for its own sake: expe
 
 I would begin with per-event tickets and a bounded season or cohort. Membership would come only after customers demonstrate repeat attendance across one or more formats. The initial product would collect the minimum delivery data needed—life stage where relevant, availability, travel radius, experience level, language and accessibility—then learn from attendance, comfort, cross-format booking and rebooking rather than asking for an invasive personality dossier.
 
-The research covers 44 operators across friendship, dating, talks, craft, reading, games, sport and local discovery. Dinner remains an unusually strong relationship format for adults in their mid-thirties through retirement, especially outside London. It should be the smaller room customers enter after the brand has earned trust, not the only acquisition and margin engine.
+The research covers 52 operators across friendship, dating, talks, craft, reading, games, sport and local discovery. Dinner remains an unusually strong relationship format for adults in their mid-thirties through retirement, especially outside London. It should be the smaller room customers enter after the brand has earned trust, not the only acquisition and margin engine.
+
+AI strengthens the case for owning the delivered programme and weakens every claim based on content production or a matching wrapper. Listings, images, schedules, prompts and campaign variants are cheap to generate, and conversational systems compete for some social and entertainment time. Hosts, venues, physical attendance, consent, local density and repeat behaviour remain scarce. The operating rule is therefore to use AI for supervised administration while measuring its time, corrections and downstream event quality; [the AI-disruption chapter](./25-ai-content-synthetic-companionship-and-the-physical-moat.md) treats generated content and synthetic companionship as separate mechanisms.
 
 ## What is the actual product?
 
@@ -42,7 +44,7 @@ The algorithm is one component. The programme, attendance and hosting system is 
 
 The UK activity search lens reinforces this. `pottery painting near me` returned 40,500 average monthly searches, `padel near me` 49,500, `board game cafe` 12,100 and `book club near me` 4,400. These overlapping phrases are not a market-size total and contain mixed intent. They show that people already know how to ask for the activity.
 
-The market definition is in [The Structured Social Leisure Economy](./17-the-structured-social-leisure-economy.md) and the [Forty-Four-Company Operator Atlas](./18-forty-two-company-operator-atlas.md).
+The market definition is in [The Structured Social Leisure Economy](./17-the-structured-social-leisure-economy.md) and the [52-Operator Atlas](./18-forty-two-company-operator-atlas.md).
 
 ## Why this wedge rather than young London singles?
 
@@ -75,7 +77,7 @@ No. The evidence is more interesting than “people are deleting the apps.”
 
 Ofcom measured roughly 1.5 million UK adult visitors to both Tinder and Hinge in May 2025. Tinder had declined by about 400,000 year on year while Hinge had grown by roughly 200,000. Bumble reached about 1.1 million. [Ofcom Online Nation 2025](https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/online-research/online-nation/2025/online-nations-report-2025.pdf)
 
-Match Group's 2025 revenue was $3.49 billion. Tinder direct revenue declined 4% to $1.86 billion and payers fell 7%; Hinge direct revenue rose 26% to $691 million and payers rose 18%. [Match Group 2025 Form 10-K](https://www.sec.gov/Archives/edgar/data/891103/000089110326000025/mtch-20251231.htm)
+Match Group's 2025 revenue was $3.49 billion (approximately £2.48 billion at the report's September 2026 reference rate). Tinder direct revenue declined 4% to $1.86 billion (approximately £1.32 billion) and payers fell 7%; Hinge direct revenue rose 26% to $691 million (approximately £490 million) and payers rose 18%. [Match Group 2025 Form 10-K](https://www.sec.gov/Archives/edgar/data/891103/000089110326000025/mtch-20251231.htm)
 
 Those figures show rotation within online dating, not its disappearance. The strategic signal is that Tinder now operates free and ticketed Events with venue partners, in-app interest and post-event connection. Bumble has rebuilt BFF around groups and community activity. Hinge has funded recurring in-person gatherings. The incumbents are treating IRL as product infrastructure rather than a marketing stunt.
 

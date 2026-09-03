@@ -12,6 +12,15 @@
   },
   "network": "Google Search",
   "currency": "GBP",
+  "foreignCurrencyReference": {
+    "basis": "FCDO September 2026 consular reference rates",
+    "unitsPerGBP": {
+      "USD": 1.41,
+      "EUR": 1.21,
+      "INR": 134
+    },
+    "usage": "Approximate current sterling comparisons rather than historical transaction-date or accounting conversions"
+  },
   "googleAdsApiVersion": "v25",
   "methods": [
     "Google Ads GenerateKeywordHistoricalMetrics through the repository's authenticated read-only runner",
@@ -26,11 +35,15 @@
     "Weighted archetype scorecard used as a decision aid rather than an empirical forecast",
     "Bottom-up capital budgets raise gates and dilution illustrations used as planning scenarios rather than financing advice",
     "2027 to 2030 scenario planning used to test which present-day assets remain useful across divergent futures",
-    "Current-company census across 44 managed event activity platform and infrastructure operators",
+    "Current-operator census across 52 managed event activity platform institutional and infrastructure examples",
     "Second Google Ads historical-metrics pull for UK activity categories",
     "Selected European and North American operators used as mechanism comparators rather than UK demand evidence",
     "Cross-format contribution scenarios with every non-observed price capacity and cost marked as an assumption",
-    "Revenue mechanisms sequenced by the audience format rights venue or network asset required"
+    "Revenue mechanisms sequenced by the audience format rights venue or network asset required",
+    "FCDO September 2026 reference rates used to provide approximate GBP equivalents for every foreign-currency amount",
+    "Intellectual-nightlife sensitivity model covering event fill break-even city cadence and a ten-city network",
+    "Mechanism-level AI-disruption analysis covering generated event content, organiser tooling, synthetic companionship, discovery agents, physical delivery, and provenance",
+    "AI scores use a zero-to-five exposure or advantage scale by dimension and are not summed into one recommendation"
   ],
   "includedArtifacts": [
     "commercial-keyword-ledger.csv",
@@ -44,7 +57,11 @@
     "revenue-playbook.csv",
     "activity-keyword-ledger.csv",
     "format-economics-scenarios.csv",
-    "intellectual-events-keyword-ledger.csv"
+    "intellectual-events-keyword-ledger.csv",
+    "intellectual-nightlife-economics.csv",
+    "foreign-exchange-rates.csv",
+    "ai-disruption-ledger.csv",
+    "ai-disruption-scorecard.csv"
   ],
   "exclusions": [
     "Current-month Google Ads traffic forecasts",
@@ -75,8 +92,13 @@
     "No event was attended and no checkout registration campaign production mutation or Supabase query was performed.",
     "Activity keywords overlap and include family tourist retail informational and commercial intent so they are not summed into a market size.",
     "Selected international operators demonstrate mechanisms and are not evidence of UK demand price or transferability.",
-    "The operator census is a mechanism map rather than proof that all 44 products are profitable or direct competitors.",
+    "The operator census is a mechanism map rather than proof that all 52 products are profitable or direct competitors.",
     "Cross-format contribution cases are planning scenarios and should not be read as operator benchmarks.",
-    "Liiiv public terms disclose monetisation mechanisms but its live price list take rate active users GMV and revenue remain unknown."
+    "Liiiv public terms disclose monetisation mechanisms but its live price list take rate active users GMV and revenue remain unknown.",
+    "GBP equivalents use one September 2026 reference basis and are not historical transaction-date conversions accounting values or executable rates.",
+    "The intellectual-nightlife model assumes every listed direct cost and excludes central overhead founder labour VAT insurance tax and portfolio failures.",
+    "Eventbrite AI feature and roadmap statements are first-party platform evidence and direct page retrieval was rate limited during this update.",
+    "The chatbot study is a US adult preprint with no no-chatbot control and does not establish UK event substitution or willingness to pay.",
+    "No first-party AI-assisted event operations, agent-referred booking, attendee, non-returner, host, venue, or repeat cohort was available."
   ]
 }

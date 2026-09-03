@@ -41,6 +41,18 @@ Several live sources contain inconsistencies. The Dinners With Friends homepage,
 
 Timeleft's UK subscription price is shown only during signup. Historical prices from other countries were excluded from the UK unit model.
 
+## Foreign-currency normalisation
+
+Every monetary amount stated in US dollars, euros or Indian rupees is followed by an approximate sterling equivalent. The conversions use the UK Foreign, Commonwealth & Development Office's September 2026 consular reference rates: £1 equals $1.41, €1.21 or ₹134. [FCDO September 2026 rates](https://www.gov.uk/csv-preview/6a92a2219a177a1decf97bab/consular-exchange-rates-September-2026.csv)
+
+The original currency remains the observed fact. Sterling is a derived comparison calculated as:
+
+```text
+GBP equivalent = foreign-currency amount ÷ foreign-currency units per £1
+```
+
+Small prices are normally shown to the nearest penny; large company, funding and market values are rounded to a sensible £1,000, £10,000 or £1 million. These are present-day comparisons, not historical transaction-date conversions, accounting values or executable exchange rates. Full rates and formulae are retained in the [foreign-exchange file](../evidence/foreign-exchange-rates.csv).
+
 ## Google Ads historical metrics
 
 The keyword evidence was gathered through the repository's authenticated, read-only Google Ads historical-metrics runner with:
@@ -124,7 +136,7 @@ The scorecard covers ten archetypes. The highest-ranked model is an interest-led
 
 ## Operator census and revenue playbook
 
-The company atlas includes 44 selected operators and products. Inclusion means the operator exposes a useful current or historical commercial mechanism; it does not mean equivalent scale, direct competition, profitability or service quality. Each row retains a source identifier, evidence class and unresolved commercial fact.
+The company atlas includes 52 selected operators, institutions, networks and products. Inclusion means the operator exposes a useful current or historical commercial mechanism; it does not mean equivalent scale, direct competition, profitability or service quality. Each row retains a source identifier, evidence class and unresolved commercial fact.
 
 The revenue playbook contains 43 mechanisms. “Observed example” means a named operator currently presents that mechanism; it does not establish realised revenue, margin or applicability to the proposed company. Launch-stage recommendations are the report's inference.
 

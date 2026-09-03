@@ -74,7 +74,7 @@ An average can hide a small cohort that consumes most capacity.
 
 ### Access-only membership
 
-Lectures on Tap's $49.99 membership is strategically important because tickets remain separate. The member buys priority and belonging rather than event consumption. This can have excellent gross margin, but only if the event is genuinely scarce and the perks remain meaningful.
+Lectures on Tap's $49.99 membership—approximately £35.45—is strategically important because tickets remain separate. The member buys priority and belonging rather than event consumption. This can have excellent gross margin, but only if the event is genuinely scarce and the perks remain meaningful.
 
 ### Cohort programme
 

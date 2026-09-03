@@ -4,7 +4,7 @@
 
 A customer who wants a better evening can use a dating app, join a Meetup group, buy an Eventbrite ticket, attend a speed-dating night, subscribe to Timeleft, book a Dinners With Friends table, hear a Seed Talk, paint a pot, join a sports game, play D&D, browse Liiiv or ask a colleague to the pub. The relevant market is the set of alternatives for creating a credible occasion with other people.
 
-The [44-company atlas](./18-forty-two-company-operator-atlas.md) supplies the company-level evidence behind this landscape; the [structured-social-leisure chapter](./17-the-structured-social-leisure-economy.md) defines the market being compared.
+The [52-operator atlas](./18-forty-two-company-operator-atlas.md) supplies the company-level evidence behind this landscape; the [structured-social-leisure chapter](./17-the-structured-social-leisure-economy.md) defines the market being compared.
 
 The operators differ on three axes:
 
@@ -56,7 +56,7 @@ This substitutes human labour for product automation. It is valuable where digit
 
 ## Event marketplaces: picks and shovels
 
-Eventbrite handled 4.6 million free and paid events, 258 million tickets and more than $3.0 billion in gross ticket sales in 2025 before its March 2026 acquisition by Bending Spoons. [Eventbrite 2025 Form 10-K](https://www.sec.gov/Archives/edgar/data/1475115/000147511526000005/eb-20251231.htm)
+Eventbrite handled 4.6 million free and paid events, 258 million tickets and more than $3.0 billion in gross ticket sales—approximately £2.13 billion at the report's reference rate—in 2025 before its March 2026 acquisition by Bending Spoons. [Eventbrite 2025 Form 10-K](https://www.sec.gov/Archives/edgar/data/1475115/000147511526000005/eb-20251231.htm)
 
 Its UK fee page lists a 6.95% plus £0.59 service fee per paid ticket, with an optional 2% organiser fee for selected tools. [Eventbrite UK pricing](https://www.eventbrite.co.uk/help/en-ca/articles/755615/how-much-does-it-cost-for-organizers-to-use-eventbrite/)
 
@@ -64,9 +64,9 @@ The marketplace is enabling infrastructure and a distribution competitor. A new 
 
 ## Community platforms: supply without a quality guarantee
 
-Meetup charges organisers rather than primarily charging attendees. Its current Standard plan starts at $29.99 monthly or $174.99 annually for up to three groups; Pro starts at $55 per group per month. Organisers can add dues or event fees. [Meetup organiser pricing](https://help.meetup.com/hc/en-us/articles/28677808413197-Organizer-subscription-prices-overview)
+Meetup charges organisers rather than primarily charging attendees. Its current Standard plan starts at $29.99 monthly (approximately £21.27) or $174.99 annually (approximately £124.11) for up to three groups; Pro starts at $55 (approximately £39.01) per group per month. Organisers can add dues or event fees. [Meetup organiser pricing](https://help.meetup.com/hc/en-us/articles/28677808413197-Organizer-subscription-prices-overview)
 
-Locals combines subscriptions and events with creator tooling. Its public pricing lists Pro at $69.99 per month plus 3% transaction fees and Business at $249.99 plus 1.5%. [Locals pricing](https://locals.org/pricing)
+Locals combines subscriptions and events with creator tooling. Its public pricing lists Pro at $69.99 per month (approximately £49.64) plus 3% transaction fees and Business at $249.99 (approximately £177.30) plus 1.5%. [Locals pricing](https://locals.org/pricing)
 
 These models scale supply creation by pushing curation, conduct and event quality to organisers. A managed social-events company does the opposite: it owns more quality and therefore more cost.
 

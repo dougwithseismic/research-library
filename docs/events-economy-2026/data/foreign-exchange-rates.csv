@@ -1,0 +1,4 @@
+currency,currency_name,foreign_units_per_gbp,gbp_per_foreign_unit,valid_from,valid_to,source_id,method,limitations
+USD,US dollar,1.41,0.7092198582,2026-09-01,2026-09-30,S141,GBP equivalent equals original amount divided by 1.41,Reference comparison only and not an accounting or executable rate
+EUR,euro,1.21,0.8264462810,2026-09-01,2026-09-30,S141,GBP equivalent equals original amount divided by 1.21,Reference comparison only and not an accounting or executable rate
+INR,Indian rupee,134.00,0.0074626866,2026-09-01,2026-09-30,S141,GBP equivalent equals original amount divided by 134.00,Reference comparison only and not an accounting or executable rate

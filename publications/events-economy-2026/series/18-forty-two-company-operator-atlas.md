@@ -1,25 +1,25 @@
-# Forty-four-company operator atlas
+# Fifty-two-operator atlas
 
 ## What the operator census contains
 
-The [operator census](../evidence/operator-census.csv) covers 44 active or strategically relevant companies and products across managed friendship, dating events, talks, reading, games, craft, sport, discovery, marketplaces and creator infrastructure.
+The [operator census](../evidence/operator-census.csv) covers 52 active or strategically relevant companies, institutions, networks and products across managed friendship, dating events, talks, reading, games, craft, sport, discovery, marketplaces and creator infrastructure.
 
 This is a commercial atlas, not a claim that every operator is a direct competitor. Each row records its customer job, payer, observed revenue layers, evidence class, source IDs, useful strategic read and the most important unknown. A live page proves that an offer exists; it does not prove profitability, retention or service quality.
 
 ## The landscape at a glance
 
-| System being built             | Companies in the census                                               | Scarce asset                                    | Natural revenue centre                      |
-| ------------------------------ | --------------------------------------------------------------------- | ----------------------------------------------- | ------------------------------------------- |
-| Managed relationship network   | Dinners With Friends, Timeleft, 222, Adventure Solos                  | trusted attendance and repeat cohorts           | seat, pack or membership                    |
-| Singles network                | Thursday, BODA, Original Dating, DEIGHT, Tinder Events                | balanced intent and safe romantic participation | ticket, membership and premium format       |
-| Intellectual event house       | Lectures on Tap, Seed Talks, Pint of View, 5x15, Intelligence Squared | speakers, programming and returning audience    | ticket, access, media, education and B2B    |
-| Ritual community               | Reading Rhythms, Knightcap, The Moth, Daybreaker, Sofar, Offline Club | repeatable format and local hosts               | ticket, membership, sponsor and licensing   |
-| Activity venue or operator     | Social Pottery, Pottery Cafe, Brush Party, Otter Chaos, GoodRec       | equipment, facilitator and bookable capacity    | experience, object, course and private hire |
-| Social sport operator          | GO Mammoth, GoodRec                                                   | facility slots, completed teams and seasons     | league fee, fixture and corporate event     |
-| Vertical network and software  | Playtomic, SweatPals, StartPlaying                                    | supply workflow plus participant discovery      | SaaS, processing and marketplace take       |
-| Multi-category discovery layer | Liiiv, Ocio, Fever, Airbnb Experiences, Eatwith, ClassBento           | local inventory, taste graph and transaction    | credits, commission, promotion and B2B      |
-| Activity-benefit network       | ClassPass, Urban Sports Club, Wellhub                                 | employer or subscriber demand across venues     | recurring membership and partner spread     |
-| Enabling platforms             | Eventbrite, Meetup, Locals                                            | generic ticketing, group and creator tooling    | transaction and organiser subscription      |
+| System being built             | Companies in the census                                                                                                                                    | Scarce asset                                    | Natural revenue centre                                          |
+| ------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- | --------------------------------------------------------------- |
+| Managed relationship network   | Dinners With Friends, Timeleft, 222, Adventure Solos                                                                                                       | trusted attendance and repeat cohorts           | seat, pack or membership                                        |
+| Singles network                | Thursday, BODA, Original Dating, DEIGHT, Tinder Events                                                                                                     | balanced intent and safe romantic participation | ticket, membership and premium format                           |
+| Intellectual event house       | Lectures on Tap, Seed Talks, How To Academy, Royal Institution, Gresham College, Nerd Nite, CreativeMornings, The School of Life, New Scientist Live, TEDx | speakers, programming and returning audience    | ticket, access, media, education, institutional support and B2B |
+| Ritual community               | Reading Rhythms, Knightcap, The Moth, Daybreaker, Sofar, Offline Club                                                                                      | repeatable format and local hosts               | ticket, membership, sponsor and licensing                       |
+| Activity venue or operator     | Social Pottery, Pottery Cafe, Brush Party, Otter Chaos, GoodRec                                                                                            | equipment, facilitator and bookable capacity    | experience, object, course and private hire                     |
+| Social sport operator          | GO Mammoth, GoodRec                                                                                                                                        | facility slots, completed teams and seasons     | league fee, fixture and corporate event                         |
+| Vertical network and software  | Playtomic, SweatPals, StartPlaying                                                                                                                         | supply workflow plus participant discovery      | SaaS, processing and marketplace take                           |
+| Multi-category discovery layer | Liiiv, Ocio, Fever, Airbnb Experiences, Eatwith, ClassBento                                                                                                | local inventory, taste graph and transaction    | credits, commission, promotion and B2B                          |
+| Activity-benefit network       | ClassPass, Urban Sports Club, Wellhub                                                                                                                      | employer or subscriber demand across venues     | recurring membership and partner spread                         |
+| Enabling platforms             | Eventbrite, Meetup, Locals                                                                                                                                 | generic ticketing, group and creator tooling    | transaction and organiser subscription                          |
 
 The census does not count individual studios, running clubs, pub quizzes, university public programmes, adult-education colleges, libraries, local sports leagues or thousands of Meetup and Eventbrite organisers. Those fragmented providers are the long tail against which platforms aggregate supply.
 
@@ -27,7 +27,7 @@ The census does not count individual studios, running clubs, pub quizzes, univer
 
 ### 1. Lectures on Tap: content as nightlife
 
-Its sequence—twenty minutes to arrive and socialise, an interactive opener, a 45-minute expert lecture, Q&A and post-talk conversation—is deliberately more social than a theatre seat and more substantive than a mixer. It sells tickets through Eventbrite and a $49.99 monthly access membership that explicitly excludes tickets. [Format](https://lecturesontap.com/), [membership](https://lecturesontap.com/members)
+Its sequence—twenty minutes to arrive and socialise, an interactive opener, a 45-minute expert lecture, Q&A and post-talk conversation—is deliberately more social than a theatre seat and more substantive than a mixer. It sells tickets through Eventbrite and a $49.99 monthly access membership—approximately £35.45—that explicitly excludes tickets. [Format](https://lecturesontap.com/), [membership](https://lecturesontap.com/members)
 
 The important invention is not “professor in bar”. It is making intellectual identity a reason to go out.
 
@@ -63,7 +63,7 @@ The model matters because software improves supply before the marketplace demand
 
 ### 7. SweatPals: community entrepreneurs as supply
 
-SweatPals gives fitness hosts tickets, check-in, memberships, class packs, messaging, waivers, analytics and discovery. Its current page lists no monthly subscription, a 7% Starter or 3% Pro service fee, $0.99 plus 2.9% processing and 20% discovery commission. [SweatPals](https://www.sweatpals.com/lp)
+SweatPals gives fitness hosts tickets, check-in, memberships, class packs, messaging, waivers, analytics and discovery. Its current page lists no monthly subscription, a 7% Starter or 3% Pro service fee, $0.99 (approximately £0.70) plus 2.9% processing and 20% discovery commission. [SweatPals](https://www.sweatpals.com/lp)
 
 Separating the ordinary service fee from the higher discovery commission is an elegant alignment device: the platform earns more when it supplies the customer.
 
@@ -93,7 +93,7 @@ The commercial asset is the completed recurring fixture: venue, officials, equip
 
 ### 12. ClassPass: perishable capacity as the economic substrate
 
-ClassPass tells partners it may pay less than a direct visit because it is intended to sell capacity that would otherwise expire. It agrees a confidential floor, adjusts member credits dynamically and in most cases compensates eligible late cancellations. Its FAQ says it has paid $3.1 billion to partners, a first-party cumulative claim. [Partner payouts](https://classpass.com/partners/blog/classpass-payouts-pricing-policies-rates), [partner FAQ](https://classpass.com/partners/faqs)
+ClassPass tells partners it may pay less than a direct visit because it is intended to sell capacity that would otherwise expire. It agrees a confidential floor, adjusts member credits dynamically and in most cases compensates eligible late cancellations. Its FAQ says it has paid $3.1 billion to partners—approximately £2.20 billion—a first-party cumulative claim. [Partner payouts](https://classpass.com/partners/blog/classpass-payouts-pricing-policies-rates), [partner FAQ](https://classpass.com/partners/faqs)
 
 The lesson is not to copy its scale. It is to identify which social-leisure capacity is perishable and can be opened without displacing direct customers.
 
@@ -134,6 +134,6 @@ Discovery products know what was booked. Managed social products know who attend
 
 ## What not to infer from the atlas
 
-Forty-four operators do not prove forty-four successful businesses. A long city list can contain thin activity. A sold-out event can lose money. A free app install can be inactive. A corporate product page can have no meaningful sales. An operator's attendee count may be registrations, tickets or cumulative people and may include repeats.
+Fifty-two operators do not prove fifty-two successful businesses. A long city list can contain thin activity. A sold-out event can lose money. A free app install can be inactive. A corporate product page can have no meaningful sales. An operator's attendee count may be registrations, tickets or cumulative people and may include repeats.
 
 The atlas is most useful as a library of mechanisms. The founder's job is to select a coherent combination rather than imitate the company with the loudest scale claim.

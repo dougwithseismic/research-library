@@ -1,0 +1,8 @@
+scenario,cities,events_per_city_per_year,capacity_per_event,fill_rate,paid_attendees_per_event,average_ticket_gbp,ticket_gross_gbp,fixed_direct_cost_per_event_gbp,variable_reserve_rate,direct_cost_gbp,direct_contribution_gbp,direct_margin,method,limitations
+One event at 50 percent fill,1,1,100,50%,50,20,1000,1150,12%,1270,-270,-27.0%,Gross less fixed direct cost and 12 percent reserve,Planning assumptions exclude central overhead founder labour VAT insurance and tax
+One event near break even,1,1,100,66%,66,20,1320,1150,12%,1308,12,0.9%,Gross less fixed direct cost and 12 percent reserve,Planning assumptions exclude central overhead founder labour VAT insurance and tax
+One event at 80 percent fill,1,1,100,80%,80,20,1600,1150,12%,1342,258,16.1%,Gross less fixed direct cost and 12 percent reserve,Planning assumptions exclude central overhead founder labour VAT insurance and tax
+One sold-out base event,1,1,100,100%,100,20,2000,1150,12%,1390,610,30.5%,Gross less fixed direct cost and 12 percent reserve,Planning assumptions exclude central overhead founder labour VAT insurance and tax
+One-city monthly programme,1,12,100,100%,100,20,24000,1150,12%,16680,7320,30.5%,Twelve repetitions of sold-out base event,Assumes every event reaches base case and excludes portfolio failures and central overhead
+One-city four-event monthly programme,1,48,100,100%,100,20,96000,1150,12%,66720,29280,30.5%,Forty-eight repetitions of sold-out base event,Assumes every event reaches base case and excludes portfolio failures and central overhead
+Ten-city network at four monthly events,10,48,100,100%,100,20,960000,1150,12%,667200,292800,30.5%,Four hundred and eighty repetitions of sold-out base event,Excludes central team travel city launches weak events tax and working capital
