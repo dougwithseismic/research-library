@@ -19,27 +19,46 @@ function run(...args) {
 }
 
 test("validates the research programme and initialized workstreams", () => {
-  assert.match(run("check"), /Research programme valid: \d+ workstreams/);
+  assert.match(
+    run("check"),
+    /Research programme valid: \d+ existing-series retrofits; \d+ new workstreams/,
+  );
 });
 
 test("selects the highest-priority eligible workstream", () => {
+  const retrofit = [...PROGRAM.existingSeriesRetrofits]
+    .sort((a, b) => a.priority - b.priority)
+    .find((candidate) => ["queued", "in-progress"].includes(candidate.status));
   const complete = new Set(
     PROGRAM.workstreams
       .filter((workstream) => workstream.status === "complete")
       .map((workstream) => workstream.id),
   );
-  const expected = [...PROGRAM.workstreams]
-    .sort((a, b) => a.priority - b.priority)
-    .find(
-      (workstream) =>
-        ["queued", "in-progress"].includes(workstream.status) &&
-        (workstream.dependsOn ?? []).every((dependency) =>
-          complete.has(dependency),
-        ),
-    );
+  const expected =
+    retrofit ??
+    [...PROGRAM.workstreams]
+      .sort((a, b) => a.priority - b.priority)
+      .find(
+        (workstream) =>
+          ["queued", "in-progress"].includes(workstream.status) &&
+          (workstream.dependsOn ?? []).every((dependency) =>
+            complete.has(dependency),
+          ),
+      );
   const actual = JSON.parse(run("next", "--json"));
 
   assert.equal(actual.id, expected.id);
+});
+
+test("refuses to initialise an existing-series retrofit", () => {
+  const retrofit = PROGRAM.existingSeriesRetrofits[0];
+  const result = spawnSync(process.execPath, [SCRIPT, "init", retrofit.id], {
+    cwd: ROOT,
+    encoding: "utf8",
+  });
+
+  assert.notEqual(result.status, 0);
+  assert.match(result.stderr, /must be edited in place/);
 });
 
 test("dry-run initialization reports files without creating a publication", () => {

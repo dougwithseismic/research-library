@@ -31,6 +31,11 @@
       "question": "How much of the customer's desired outcome can a model or agent produce without this business?"
     },
     {
+      "id": "generated-content-supply",
+      "label": "Generated-content supply",
+      "question": "How does cheap synthetic text, imagery, audio, or video change supply, trust, discovery costs, and the value of original evidence?"
+    },
+    {
       "id": "discovery-disruption",
       "label": "Discovery disruption",
       "question": "Can AI answers, recommendations, or summaries remove the visit, enquiry, or comparison step the business currently monetises?"
@@ -106,6 +111,98 @@
       "exitCriterion": "Artifacts parse, calculations reconcile, consequential links are checked, secrets are absent, and unknowns remain visible."
     }
   ],
+  "existingSeriesRetrofits": [
+    {
+      "id": "rank-and-rent-ai-retrofit",
+      "priority": 1,
+      "type": "existing-series-retrofit",
+      "title": "AI disruption in UK rank-and-rent and local lead generation",
+      "publicationSlug": "rank-and-rent-uk-2026",
+      "status": "complete",
+      "decision": "Test whether the local-demand thesis survives AI answers, generated-content abundance, lead agents, platform encroachment, and commoditised operator tooling.",
+      "aiFocus": [
+        "substitution-risk",
+        "generated-content-supply",
+        "discovery-disruption",
+        "agent-bypass-risk",
+        "operating-leverage",
+        "proprietary-data-potential",
+        "physical-world-moat",
+        "trust-liability-moat",
+        "relationship-moat",
+        "platform-dependency",
+        "defensibility-2028"
+      ],
+      "requiredArtifacts": [
+        "evidence/ai-disruption-ledger.csv",
+        "evidence/ai-disruption-scorecard.csv"
+      ],
+      "humanSeams": [
+        "First-party query and conversion cohorts across classic and generative search",
+        "Buyer interviews and controlled acquisition tests"
+      ]
+    },
+    {
+      "id": "product-aggregator-ai-retrofit",
+      "priority": 2,
+      "type": "existing-series-retrofit",
+      "title": "AI disruption in product aggregation",
+      "publicationSlug": "product-aggregator-2026",
+      "status": "complete",
+      "decision": "Test whether a decision-led product business retains value when shopping agents can compare merchant feeds and generated content makes generic buying guides abundant.",
+      "aiFocus": [
+        "substitution-risk",
+        "generated-content-supply",
+        "discovery-disruption",
+        "agent-bypass-risk",
+        "operating-leverage",
+        "proprietary-data-potential",
+        "physical-world-moat",
+        "trust-liability-moat",
+        "relationship-moat",
+        "platform-dependency",
+        "defensibility-2028"
+      ],
+      "requiredArtifacts": [
+        "evidence/ai-disruption-ledger.csv",
+        "evidence/ai-disruption-scorecard.csv"
+      ],
+      "humanSeams": [
+        "Merchant and buyer interviews",
+        "First-party agent-referred conversion and attribution cohorts"
+      ]
+    },
+    {
+      "id": "events-economy-ai-retrofit",
+      "priority": 3,
+      "type": "existing-series-retrofit",
+      "title": "AI disruption in the social events economy",
+      "publicationSlug": "events-economy-2026",
+      "status": "complete",
+      "decision": "Test whether physical social programming becomes more or less valuable as event content becomes cheap to generate, organisers gain similar AI tools, and synthetic companionship competes for attention.",
+      "aiFocus": [
+        "substitution-risk",
+        "generated-content-supply",
+        "discovery-disruption",
+        "agent-bypass-risk",
+        "operating-leverage",
+        "proprietary-data-potential",
+        "physical-world-moat",
+        "trust-liability-moat",
+        "relationship-moat",
+        "platform-dependency",
+        "defensibility-2028"
+      ],
+      "requiredArtifacts": [
+        "evidence/ai-disruption-ledger.csv",
+        "evidence/ai-disruption-scorecard.csv"
+      ],
+      "humanSeams": [
+        "Attendee, non-returner, venue, and host fieldwork",
+        "Observed ticket, attendance, repeat, and contribution cohorts"
+      ]
+    }
+  ],
   "workstreams": [
     {
       "id": "commercial-premises-compliance-ai",
@@ -114,7 +211,7 @@
       "title": "The UK Commercial-Premises Compliance Economy",
       "workingSubtitle": "What must be done, what must be bought, and what AI can actually change",
       "slug": "commercial-premises-compliance-ai-2026",
-      "status": "in-progress",
+      "status": "queued",
       "decision": "Determine whether a defensible business should generate demand, manage compliance workflows, partner with accredited providers, acquire an operator, or remain out of the category.",
       "inputs": [
         "publications/rank-and-rent-uk-2026",
@@ -122,6 +219,7 @@
       ],
       "aiFocus": [
         "substitution-risk",
+        "generated-content-supply",
         "operating-leverage",
         "proprietary-data-potential",
         "physical-world-moat",
@@ -165,6 +263,7 @@
       ],
       "aiFocus": [
         "substitution-risk",
+        "generated-content-supply",
         "discovery-disruption",
         "operating-leverage",
         "physical-world-moat",
@@ -207,6 +306,7 @@
         "publications/product-aggregator-2026/series/07-land-and-smallholding-equipment.md"
       ],
       "aiFocus": [
+        "generated-content-supply",
         "discovery-disruption",
         "agent-bypass-risk",
         "operating-leverage",
@@ -254,6 +354,7 @@
       "dependsOn": ["commercial-premises-compliance-ai"],
       "aiFocus": [
         "substitution-risk",
+        "generated-content-supply",
         "operating-leverage",
         "proprietary-data-potential",
         "physical-world-moat",
@@ -299,6 +400,7 @@
       ],
       "aiFocus": [
         "substitution-risk",
+        "generated-content-supply",
         "discovery-disruption",
         "agent-bypass-risk",
         "operating-leverage",
@@ -344,6 +446,7 @@
       "dependsOn": [],
       "blockedReason": "No qualifying first-party property history is currently available in this repository.",
       "aiFocus": [
+        "generated-content-supply",
         "discovery-disruption",
         "agent-bypass-risk",
         "proprietary-data-potential",

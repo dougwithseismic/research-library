@@ -59,6 +59,7 @@ Allowed mechanisms:
 - `replacement`: AI supplies the customer outcome without the incumbent step;
 - `compression`: AI reduces time, labour, or price but does not remove the step;
 - `augmentation`: AI improves a human or physical workflow;
+- `supply-expansion`: AI increases the volume of text, imagery, audio, video, listings, offers, or competing products and changes their marginal cost or trust value;
 - `interface-shift`: discovery or transaction moves to an agent or answer layer;
 - `new-demand`: AI creates a new need, workflow, risk, or purchase;
 - `no-material-impact`: evidence supports little consequential change.
@@ -102,6 +103,7 @@ For each scenario show:
 Before synthesis, answer:
 
 - What if the model capability is commoditized across every competitor?
+- What if generated content makes the visible information layer abundant and destroys its acquisition or pricing value?
 - What if the incumbent owns the customer interface?
 - What if customers keep the savings rather than the operator?
 - What if trust, regulation, or workflow integration prevents adoption?

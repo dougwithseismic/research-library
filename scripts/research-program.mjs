@@ -21,6 +21,7 @@ const REQUIRED_ARTIFACTS = [
 ];
 const REQUIRED_DIMENSIONS = [
   "substitution-risk",
+  "generated-content-supply",
   "discovery-disruption",
   "agent-bypass-risk",
   "operating-leverage",
@@ -75,6 +76,12 @@ function validate(program) {
   }
   if (!Array.isArray(program.workstreams) || program.workstreams.length === 0) {
     errors.push("workstreams must be a non-empty array");
+  }
+  if (
+    !Array.isArray(program.existingSeriesRetrofits) ||
+    program.existingSeriesRetrofits.length === 0
+  ) {
+    errors.push("existingSeriesRetrofits must be a non-empty array");
   }
 
   const dimensionIds = new Set(
@@ -162,6 +169,75 @@ function validate(program) {
         errors.push(
           `Workstream ${label} is missing required artifact: ${artifact}`,
         );
+      }
+    }
+  }
+
+  const retrofitIds = new Set();
+  const retrofitPriorities = new Set();
+  for (const retrofit of program.existingSeriesRetrofits ?? []) {
+    const label = retrofit.id ?? "<unknown>";
+    if (!nonEmptyString(retrofit.id)) {
+      errors.push("Every existing-series retrofit requires an id");
+    } else if (retrofitIds.has(retrofit.id)) {
+      errors.push(`Duplicate existing-series retrofit id: ${retrofit.id}`);
+    }
+    retrofitIds.add(retrofit.id);
+
+    if (!Number.isInteger(retrofit.priority) || retrofit.priority < 1) {
+      errors.push(`Retrofit ${label} requires a positive integer priority`);
+    } else if (retrofitPriorities.has(retrofit.priority)) {
+      errors.push(`Duplicate retrofit priority: ${retrofit.priority}`);
+    }
+    retrofitPriorities.add(retrofit.priority);
+
+    for (const field of [
+      "type",
+      "title",
+      "publicationSlug",
+      "status",
+      "decision",
+    ]) {
+      if (!nonEmptyString(retrofit[field])) {
+        errors.push(`Retrofit ${label} requires ${field}`);
+      }
+    }
+    if (retrofit.type !== "existing-series-retrofit") {
+      errors.push(`Retrofit ${label} must use type existing-series-retrofit`);
+    }
+    if (!ALLOWED_STATUSES.has(retrofit.status)) {
+      errors.push(`Retrofit ${label} has invalid status: ${retrofit.status}`);
+    }
+    for (const field of ["aiFocus", "requiredArtifacts", "humanSeams"]) {
+      if (!Array.isArray(retrofit[field]) || retrofit[field].length === 0) {
+        errors.push(`Retrofit ${label} requires a non-empty ${field} array`);
+      }
+    }
+    for (const dimension of retrofit.aiFocus ?? []) {
+      if (!dimensionIds.has(dimension)) {
+        errors.push(
+          `Retrofit ${label} references unknown AI dimension: ${dimension}`,
+        );
+      }
+    }
+
+    const directory = join(
+      ROOT,
+      "publications",
+      retrofit.publicationSlug ?? "",
+    );
+    if (!existsSync(directory)) {
+      errors.push(
+        `Retrofit ${label} references a missing publication directory`,
+      );
+      continue;
+    }
+    if (!existsSync(join(directory, "publication.json"))) {
+      errors.push(`Retrofit ${label} references an unpublished series`);
+    }
+    for (const artifact of retrofit.requiredArtifacts ?? []) {
+      if (!existsSync(join(directory, artifact))) {
+        errors.push(`Retrofit ${label} is missing ${artifact}`);
       }
     }
   }
@@ -264,12 +340,18 @@ function validate(program) {
 
   return {
     workstreams: program.workstreams.length,
+    retrofits: program.existingSeriesRetrofits.length,
     gates: program.gates.length,
     dimensions: program.aiDimensions.length,
   };
 }
 
 function nextWorkstream(program) {
+  const retrofit = [...program.existingSeriesRetrofits]
+    .sort((a, b) => a.priority - b.priority)
+    .find((candidate) => ["queued", "in-progress"].includes(candidate.status));
+  if (retrofit) return retrofit;
+
   const complete = new Set(
     program.workstreams
       .filter((workstream) => workstream.status === "complete")
@@ -374,7 +456,7 @@ const result = validate(program);
 
 if (command === "check") {
   console.log(
-    `Research programme valid: ${result.workstreams} workstreams; ${result.gates} gates; ${result.dimensions} AI dimensions`,
+    `Research programme valid: ${result.retrofits} existing-series retrofits; ${result.workstreams} new workstreams; ${result.gates} gates; ${result.dimensions} AI dimensions`,
   );
 } else if (command === "next") {
   const workstream = nextWorkstream(program);
@@ -391,6 +473,14 @@ if (command === "check") {
     usage();
     process.exitCode = 1;
   } else {
+    const retrofit = program.existingSeriesRetrofits.find(
+      (candidate) => candidate.id === id,
+    );
+    if (retrofit) {
+      throw new Error(
+        `Existing-series retrofit ${id} must be edited in place; init is only for new workstreams`,
+      );
+    }
     const workstream = program.workstreams.find(
       (candidate) => candidate.id === id,
     );

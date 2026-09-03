@@ -16,7 +16,7 @@ pnpm research:program check
 pnpm research:program next
 ```
 
-Read `research-program/program.json`, `research-program/EXECUTION_PLAN.md`, the selected workstream's declared inputs, and [references/research-contract.md](references/research-contract.md). If its unpublished working directory does not exist, inspect the dry run and initialise it:
+Read `research-program/program.json`, `research-program/EXECUTION_PLAN.md`, the selected workstream or retrofit's declared inputs, and [references/research-contract.md](references/research-contract.md). Existing-series retrofits come first and extend the published source series in place. If a new unpublished working directory does not exist, inspect the dry run and initialise it:
 
 ```sh
 pnpm research:program init <workstream-id> --dry-run
@@ -33,7 +33,7 @@ Use the gates in `program.json` in order:
 
 1. Frame the decision, buyer, geography, counterfactual, exclusions, time horizons, and stopping rule.
 2. Establish the present value chain before making claims about AI.
-3. Map disruption mechanisms and countervailing forces across the workstream's declared AI dimensions.
+3. Map disruption mechanisms and countervailing forces across the workstream's declared AI dimensions, including generated content as a supply and trust shock where material.
 4. Model conservative, base, and upside economics, including who captures savings and what agent bypass removes.
 5. Seek disconfirming evidence, credible incumbent responses, failure modes, and kill conditions.
 6. Make a build, test, defer, acquire, or reject decision with the next reversible action.
@@ -55,14 +55,14 @@ Do not query Supabase. Do not send outreach, submit forms, buy data, mutate acco
 Every material disruption claim needs:
 
 - affected actor and value-chain step;
-- mechanism: `replacement`, `compression`, `augmentation`, `interface-shift`, `new-demand`, or `no-material-impact`;
+- mechanism: `replacement`, `compression`, `augmentation`, `supply-expansion`, `interface-shift`, `new-demand`, or `no-material-impact`;
 - time horizon: current, 2028, or 2030;
 - evidence class and supporting claim IDs;
 - countervailing force or incumbent response;
 - leading indicator that could be observed;
 - implication for revenue, cost, defensibility, or rejection.
 
-Do not treat model capability as adoption, adoption as willingness to pay, automation as captured margin, or generated prose as proprietary intelligence. Distinguish technical feasibility, permitted use, operating reliability, economic adoption, and customer trust.
+Do not treat model capability as adoption, adoption as willingness to pay, automation as captured margin, or generated prose as proprietary intelligence. Treat generated text, imagery, audio, and video as economic supply whose cost, provenance, trust, and distribution effects must be tested. Distinguish technical feasibility, permitted use, operating reliability, economic adoption, and customer trust.
 
 ## Build to human seams
 
