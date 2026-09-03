@@ -18,6 +18,7 @@ if (!existsSync(join(OUTPUT, "index.html"))) {
 const outputFiles = files(OUTPUT);
 const htmlFiles = outputFiles.filter((file) => file.endsWith(".html"));
 const broken = [];
+const pagesMissingResearchCta = [];
 const editorialLeaks = [
   ["Supabase implementation note", /\bsupabase\b/i],
   ["API incident log", /\bRESOURCE_EXHAUSTED\b/],
@@ -44,6 +45,12 @@ const editorialLeakFiles = outputFiles.filter((file) =>
 
 for (const file of htmlFiles) {
   const html = readFileSync(file, "utf8");
+  if (
+    !html.includes('class="research-cta"') ||
+    !html.includes('href="https://withseismic.com"')
+  ) {
+    pagesMissingResearchCta.push(file);
+  }
   for (const match of html.matchAll(/(?:href|src)="([^"]+)"/g)) {
     const target = match[1];
     if (/^(https?:|mailto:|tel:|#|data:)/.test(target)) continue;
@@ -52,6 +59,12 @@ for (const file of htmlFiles) {
     const destination = resolve(dirname(file), withoutHash);
     if (!existsSync(destination)) broken.push(`${file}: ${target}`);
   }
+}
+
+if (pagesMissingResearchCta.length) {
+  throw new Error(
+    `Generated pages missing the custom-research CTA:\n${pagesMissingResearchCta.join("\n")}`,
+  );
 }
 
 if (broken.length) {

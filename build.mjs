@@ -17,6 +17,7 @@ const PUBLICATIONS = join(ROOT, "publications");
 const OUTPUT = join(ROOT, "docs");
 const SITE_URL = "https://dougwithseismic.github.io/research-library";
 const REPOSITORY_URL = "https://github.com/dougwithseismic/research-library";
+const WITHSEISMIC_URL = "https://withseismic.com";
 
 const escapeHtml = (value) =>
   String(value)
@@ -181,6 +182,14 @@ function tableOfContents(headings) {
     .join("")}</nav></aside>`;
 }
 
+function researchCtaMarkup() {
+  return `<aside class="research-cta" id="custom-research" aria-label="Custom research">
+    <p>Custom research</p>
+    <h2>Want to avoid costly mistakes in your startup?</h2>
+    <div><p>Get a decision-grade research package built around your market, product or next move.</p><a href="${WITHSEISMIC_URL}">Order your custom research package <span aria-hidden="true">↗</span></a></div>
+  </aside>`;
+}
+
 function extractFaqs(markdown) {
   const heading = /^## Frequently asked questions\s*$/im.exec(markdown);
   if (!heading) return [];
@@ -294,6 +303,7 @@ function pageTemplate({ publication, page, body, headings, faqs = [], index }) {
           <dl class="article-facts"><div><dt>Geography</dt><dd>${escapeHtml(publication.geography)}</dd></div><div><dt>Research date</dt><dd>${escapeHtml(publication.observedAt)}</dd></div><div><dt>Status</dt><dd>${escapeHtml(publication.status)}</dd></div></dl>
         </header>
         <div class="article-body">${body}</div>
+        ${researchCtaMarkup()}
         <footer class="article-footer"><p>This publication distinguishes observed evidence, derived calculations, commercial inference and unknowns.</p><a href="${inDataDirectory ? "sources.csv" : "data/sources.csv"}">Source register <span aria-hidden="true">↗</span></a></footer>
       </article>
       <nav class="chapter-pager" aria-label="Adjacent chapters">
@@ -477,6 +487,7 @@ function libraryHome(publications) {
       <header><p class="eyebrow">Published work</p><h2>Research series</h2></header>
       ${cards}
     </section>
+    ${researchCtaMarkup()}
   </main>
   <footer class="home-footer"><p>Research Library</p><p>Observed evidence · Derived calculations · Inference · Unknowns</p></footer>
 </body>
