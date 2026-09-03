@@ -1,0 +1,8 @@
+interface:
+  display_name: "Companies House Research"
+  short_description: "Verify UK companies and filings with lineage"
+  brand_color: "#C9FF5B"
+  default_prompt: "Use $companies-house-research to resolve and verify these companies, retain the registry evidence, and report material gaps."
+
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Google Ads Search Volume"
+  short_description: "Research keyword demand with Google Ads data"
+  default_prompt: "Use $google-ads-search-volume to compare search demand and CPC for these markets."

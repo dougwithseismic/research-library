@@ -1,0 +1,8 @@
+interface:
+  display_name: "Web Evidence Research"
+  short_description: "Verify current web claims with dated sources"
+  brand_color: "#C9FF5B"
+  default_prompt: "Use $web-evidence-research to investigate these companies or market claims and retain an evidence-led source record."
+
+policy:
+  allow_implicit_invocation: true

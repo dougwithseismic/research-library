@@ -1,0 +1,14 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+node_modules/
+
+# Local source captures and large registry datasets must never be published.
+private-data/*
+!private-data/README.md
+
+# Generated scratch output. Publishable site output lives in docs/.
+tmp/
+output/
+

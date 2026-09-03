@@ -1,0 +1,48 @@
+{
+  "name": "research-library",
+  "version": "1.0.0",
+  "description": "Evidence-led commercial research and publication tooling",
+  "private": true,
+  "scripts": {
+    "build": "node build.mjs",
+    "format": "prettier --write . --ignore-unknown",
+    "format:check": "prettier --check . --ignore-unknown",
+    "google-ads:auth": "node scripts/google-ads-oauth.mjs",
+    "google-ads:volume": "node scripts/google-ads-search-volume.mjs",
+    "companies-house:leads": "node scripts/companies-house-virtual-office-leads.mjs",
+    "companies-house:city-agencies": "node scripts/companies-house-city-agency-census.mjs",
+    "companies-house:export": "tsx --tsconfig tooling/companies-house/server/tsconfig.json tooling/companies-house/server/src/jobs/export-report-financials.ts",
+    "companies-house:enrich-csv": "node scripts/enrich-company-evidence-csv.mjs",
+    "companies-house:validate-csv": "node scripts/validate-company-evidence-csv.mjs",
+    "test": "node --test scripts/google-ads.test.mjs scripts/companies-house-city-agency-census.test.mjs",
+    "test:companies-house:core": "vitest run tooling/companies-house/server/src/lib/companies-house",
+    "check-types": "tsc --noEmit -p tooling/companies-house/server/tsconfig.json",
+    "verify:site": "node scripts/verify-site.mjs",
+    "verify:secrets": "node scripts/verify-secrets.mjs",
+    "verify": "pnpm format:check && pnpm test && pnpm test:companies-house:core && pnpm check-types && pnpm build && pnpm verify:site && pnpm verify:secrets"
+  },
+  "keywords": [
+    "market-research",
+    "google-ads",
+    "companies-house",
+    "github-pages"
+  ],
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "decimal.js": "^10.6.0",
+    "fast-xml-parser": "^5.11.1",
+    "pdf-parse": "^2.4.5",
+    "unzipper": "^0.12.5"
+  },
+  "devDependencies": {
+    "@types/node": "^26.4.1",
+    "@types/unzipper": "^0.10.11",
+    "github-slugger": "^2.0.0",
+    "marked": "^18.0.11",
+    "prettier": "^3.9.6",
+    "tsx": "^4.23.13",
+    "typescript": "^7.0.2",
+    "vitest": "^4.1.11"
+  }
+}

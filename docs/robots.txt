@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dougwithseismic.github.io/research-library/sitemap.xml

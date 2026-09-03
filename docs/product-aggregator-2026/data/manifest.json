@@ -1,0 +1,50 @@
+{
+  "title": "How I would build a product aggregator in 2026",
+  "observedAt": "2026-09-03",
+  "decision": "Choose and design a UK product-aggregation vertical with explicit commercial search demand, relatively low paid-search CPC, high order values, and enough breadth to support a durable editorial and comparison brand.",
+  "geography": {
+    "name": "United Kingdom",
+    "googleAdsCriterionId": "2826"
+  },
+  "language": {
+    "name": "English",
+    "googleAdsCriterionId": "1000"
+  },
+  "network": "Google Search",
+  "currency": "GBP",
+  "googleAdsApiVersion": "v25",
+  "methods": [
+    "Google Ads GenerateKeywordHistoricalMetrics through Leadmap's authenticated read-only runner",
+    "Commercial-intent keyword construction using for sale, buy, price, cost, quote, and inherently transactional made-to-measure phrases",
+    "Canonical keyword selection by product family to avoid adding identical or close-variant metrics twice",
+    "Live-web verification of merchant programmes, retailer pricing, platform documentation, competitor purchase paths, and UK guidance",
+    "Current industry reports covering UK affiliate investment and international publisher compensation preferences",
+    "Named public practitioner interviews and panels representing publishers, advertisers, agencies, networks, and tracking specialists",
+    "Public-company annual reports and current comparison-platform commercial documentation for adjacent revenue-model evidence",
+    "Volume-weighted CPC calculated as sum(searches multiplied by CPC) divided by sum(searches)"
+  ],
+  "includedArtifacts": [
+    "commercial-keyword-ledger.csv",
+    "scorecard.csv",
+    "sources.csv",
+    "practitioner-evidence-ledger.csv"
+  ],
+  "exclusions": [
+    "Traditional fashion and apparel",
+    "Broad informational head terms from commercial-demand totals",
+    "Current-month traffic forecasts",
+    "Organic ranking-difficulty claims",
+    "Unverified merchant conversion rates",
+    "Unverified average order values inferred only from visible product prices"
+  ],
+  "limitations": [
+    "Average monthly searches are rounded trailing historical averages, not obtainable traffic.",
+    "Google Ads may group close variants; the scored baskets use one canonical phrase per product family.",
+    "Paid competition and CPC describe the advertising auction, not organic SEO difficulty.",
+    "For-sale machinery searches can mix new, used, private-sale, dealer, and hire intent.",
+    "Affiliate programme acceptance, product-feed access, commission groups, attribution, validation, and PPC permission require direct confirmation before launch.",
+    "Public interviews, panels, and podcasts were reviewed, but no original first-party interview was conducted for this project.",
+    "Trade-body and platform research has declared industry context and sample limitations and should not be treated as merchant-specific commercial validation.",
+    "No live campaign, outreach, purchase, form submission, account mutation, or Supabase query was performed."
+  ]
+}

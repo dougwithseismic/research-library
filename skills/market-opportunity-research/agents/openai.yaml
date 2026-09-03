@@ -1,0 +1,8 @@
+interface:
+  display_name: "Market Opportunity Research"
+  short_description: "Compare markets with retained commercial evidence"
+  brand_color: "#C9FF5B"
+  default_prompt: "Use $market-opportunity-research to compare these niches and locations and recommend which opportunity to test first."
+
+policy:
+  allow_implicit_invocation: true

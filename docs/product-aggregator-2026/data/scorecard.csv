@@ -1,0 +1,6 @@
+rank,vertical,commercial_searches_per_month,weighted_average_cpc_gbp,demand_score_5,cpc_efficiency_score_5,aov_evidence_score_5,decision_complexity_score_5,merchant_breadth_score_5,model_fit_score_5,risk_score_5,weighted_score_100,confidence,decision
+1,Premium garden and outdoor systems,27440,0.94,5,4,5,5,4,5,3,92,high,build-first
+2,Private games and leisure rooms,9670,0.84,3,5,5,4,3,5,4,82,high,pure-affiliate-runner-up
+3,Serious maker studios,4940,0.32,2,5,5,5,3,4,4,79,medium-high,editorial-moat-runner-up
+4,Land and smallholding equipment,11850,0.59,4,5,5,5,2,2,2,78,medium,separate-listings-and-lead-model
+5,Standalone home wellness,2830,1.63,2,2,5,4,4,4,3,69,medium,fold-into-garden

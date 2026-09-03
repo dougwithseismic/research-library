@@ -1,0 +1,65 @@
+vertical,lane,included_in_scored_basket,keyword,average_monthly_searches,competition,competition_index,average_cpc_gbp,low_top_page_bid_gbp,high_top_page_bid_gbp,note
+premium-garden,product,yes,robotic mower for sale,480,HIGH,100,1.059293,0.388638,1.934719,Canonical robot-mower purchase term
+premium-garden,product,yes,ride on mower for sale,1900,HIGH,100,0.908608,0.229922,0.698493,Purchase term; used intent may be present
+premium-garden,product,yes,awnings for sale,880,HIGH,100,1.054415,0.287583,1.894720,Product-led awning lane
+premium-garden,product,yes,greenhouse for sale,9900,HIGH,100,1.004422,0.264044,1.119538,Canonical greenhouse purchase term
+premium-garden,product,yes,pergola for sale,2900,HIGH,100,1.208464,0.304228,1.515617,Canonical pergola purchase term
+premium-garden,product,yes,hot tubs for sale,9900,HIGH,100,0.750271,0.294093,1.284717,Canonical hot-tub purchase term
+premium-garden,product,yes,swim spa prices,480,HIGH,100,0.703425,0.336035,0.820924,Price-led intent; cost returned identical metrics and was not added
+premium-garden,product,yes,outdoor sauna for sale,1000,HIGH,100,1.442193,0.718996,1.871666,Canonical outdoor-sauna purchase term
+premium-garden,project,no,made to measure awnings,140,HIGH,100,2.266125,0.762688,2.611610,Commercial project intent but not low-CPC wedge
+premium-garden,project,no,awning quote,10,HIGH,76,13.201066,3.463851,8.083331,High-value lead intent with expensive auction
+premium-garden,project,no,garden room cost,880,HIGH,100,2.011766,0.774980,2.242367,Installed-project lane
+premium-garden,project,no,log cabins for sale,6600,HIGH,100,1.928949,0.596841,3.931323,Higher-CPC extension lane
+premium-garden,validation,no,robot lawn mower price,170,HIGH,100,0.568920,0.120294,0.761022,Supporting price term not added to canonical family total
+premium-garden,validation,no,buy greenhouse,720,HIGH,100,1.254386,0.318006,1.240920,Supporting buy term not added to canonical family total
+premium-garden,validation,no,greenhouse prices,140,HIGH,100,5.942331,0.279048,14.835000,Price term with unusually high CPC
+premium-garden,validation,no,garden room prices,590,HIGH,100,2.409098,0.774754,2.480144,Supporting installed-project term
+premium-garden,validation,no,garden office prices,140,HIGH,100,2.524363,0.962887,3.365655,Supporting installed-project term
+maker-studios,product,yes,pottery kiln for sale,720,HIGH,100,0.257642,0.059271,0.628092,Buy pottery kiln returned identical metrics and was not added
+maker-studios,product,yes,pottery wheel for sale,1900,HIGH,100,0.218432,0.060230,0.307332,Canonical wheel purchase term
+maker-studios,product,yes,laser cutter price,170,HIGH,100,2.771169,0.849060,1.594770,Digital-fabrication CPC outlier
+maker-studios,product,yes,laser engraver for sale,40,HIGH,100,0.430697,0.093360,1.064607,Low-volume extension
+maker-studios,product,yes,cnc router for sale,90,HIGH,99,1.352322,0.881030,2.342935,Digital-fabrication extension
+maker-studios,product,yes,wood lathe for sale,590,HIGH,100,0.175869,0.020369,0.392690,Purchase term; used intent may be present
+maker-studios,product,yes,metal lathe for sale,260,HIGH,100,0.133174,0.021986,0.766587,Purchase term; used intent may be present
+maker-studios,product,yes,milling machine for sale,390,HIGH,100,0.143432,0.114588,0.930399,Purchase term; used intent may be present
+maker-studios,product,yes,planer thicknesser for sale,390,HIGH,100,0.299963,0.082062,0.883378,Canonical workshop purchase term
+maker-studios,product,yes,etching press for sale,110,HIGH,100,0.241938,0.023049,0.591149,Printmaking equipment
+maker-studios,product,yes,weaving loom for sale,170,HIGH,100,0.178226,0.039859,0.424699,Textile studio equipment; not apparel aggregation
+maker-studios,product,yes,glass kiln for sale,110,HIGH,100,0.201264,0.090485,0.847499,Specialist kiln extension
+maker-studios,validation,no,ceramic kiln for sale,50,HIGH,100,0.184194,0.088952,0.932017,Overlaps pottery-kiln family
+maker-studios,validation,no,buy pottery wheel,110,HIGH,100,0.245808,0.099864,0.372494,Supporting buy term
+maker-studios,validation,no,laser cutter for sale,70,HIGH,100,2.282100,1.078463,2.868220,Confirms high CPC for laser cutter lane
+private-leisure,product,yes,pool table for sale,4400,HIGH,100,1.238864,0.186438,1.006674,Canonical cue-sports purchase term
+private-leisure,product,yes,pool dining table for sale,90,HIGH,100,1.154497,0.429636,1.460664,Space-efficient premium table subtype
+private-leisure,product,yes,pinball machine for sale,1300,HIGH,100,0.230073,0.033199,0.705907,High-ticket collector purchase term
+private-leisure,product,yes,arcade machine for sale,1600,HIGH,100,0.425268,0.052818,0.909189,High-ticket home and commercial purchase term
+private-leisure,product,yes,jukebox for sale,1600,HIGH,100,0.242692,0.059250,0.527263,New and restored purchase intent may mix
+private-leisure,product,yes,shuffleboard table for sale,90,HIGH,100,1.156331,0.122686,1.177189,Premium room extension
+private-leisure,product,yes,golf simulator price,590,HIGH,100,1.863065,0.699149,1.582957,Higher-CPC premium installation/product lane
+private-leisure,validation,no,buy pool table,590,HIGH,100,1.530542,0.342600,1.570647,Supporting buy term not added to canonical family total
+private-leisure,validation,no,pinball machine price,10,HIGH,100,1.031143,0.000000,0.000000,Low-volume supporting price term
+private-leisure,validation,no,arcade machine price,90,HIGH,98,1.869946,0.209746,12.364013,Supporting price term with high bid spread
+land-smallholding,high-ticket,yes,compact tractor for sale,480,HIGH,100,0.094696,0.059675,0.495061,Dealer and used intent likely
+land-smallholding,high-ticket,yes,mini digger for sale,5400,HIGH,100,0.429310,0.274447,1.059830,Dealer private-sale and used intent likely
+land-smallholding,high-ticket,yes,wood chipper for sale,1900,HIGH,100,0.918015,0.167837,1.312398,New and used intent may mix
+land-smallholding,high-ticket,yes,log splitter for sale,3600,HIGH,100,0.769352,0.125498,0.983175,New and used intent may mix
+land-smallholding,high-ticket,yes,freeze dryer for sale,90,HIGH,100,0.666434,0.588842,1.277105,Specialist preservation equipment
+land-smallholding,high-ticket,yes,livestock trailer for sale,170,HIGH,100,0.040395,0.020194,0.280359,Dealer and used intent likely
+land-smallholding,high-ticket,yes,plant trailer for sale,210,HIGH,100,0.216244,0.081592,1.046405,Dealer and used intent likely
+land-smallholding,adjacent,no,polytunnel for sale,1600,HIGH,100,0.572479,0.205916,0.873918,AOV varies too widely for high-ticket basket
+land-smallholding,adjacent,no,chicken coop for sale,3600,HIGH,100,0.835375,0.185315,1.057084,AOV varies too widely for high-ticket basket
+home-wellness,product,yes,pilates reformer for sale,390,HIGH,100,1.063292,0.446189,1.459499,Standalone wellness basket
+home-wellness,product,yes,home sauna for sale,140,HIGH,100,1.603121,0.713845,1.779683,Standalone wellness basket
+home-wellness,product,yes,infrared sauna for sale,210,HIGH,100,2.354837,0.846988,2.148499,Standalone CPC above target
+home-wellness,product,yes,massage chair price,720,HIGH,100,1.660144,0.506495,1.473062,Standalone CPC above target
+home-wellness,product,yes,ice bath for sale,880,HIGH,100,1.613870,0.406682,1.760307,Standalone CPC above target
+home-wellness,product,yes,commercial treadmill for sale,170,HIGH,95,1.933529,0.598426,1.890900,High-AOV qualifier but expensive CPC
+home-wellness,product,yes,commercial gym equipment for sale,320,HIGH,100,1.639684,0.364533,1.604428,High-AOV qualifier but expensive CPC
+overlanding,screened-out,no,roof tent for sale,390,HIGH,100,0.563143,0.141038,1.040734,Commercial but vertical basket too small
+overlanding,screened-out,no,electric outboard motor for sale,140,HIGH,100,0.593965,0.128215,1.010540,Commercial but weak fit with road overlanding
+overlanding,screened-out,no,campervan awning for sale,170,HIGH,100,0.506884,0.089148,0.489137,Commercial extension
+overlanding,screened-out,no,motorhome awning for sale,260,HIGH,100,0.302604,0.059958,0.322004,Commercial extension
+overlanding,screened-out,no,portable power station for sale,30,HIGH,100,1.208588,0.726572,2.044599,Low explicit purchase volume
+overlanding,screened-out,no,campervan conversion kit for sale,0,UNSPECIFIED,0,0.000000,0.000000,0.000000,No reportable volume returned

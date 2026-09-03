@@ -1,0 +1,148 @@
+{
+  "slug": "product-aggregator-2026",
+  "title": "Building a Product Aggregator in 2026",
+  "shortTitle": "Product Aggregator 2026",
+  "summary": "A decision-grade UK research series on high-order-value product aggregation: commercial demand, vertical selection, product architecture, revenue models and practitioner evidence.",
+  "eyebrow": "Commercial research series",
+  "geography": "United Kingdom",
+  "observedAt": "2026-09-03",
+  "status": "Published research",
+  "accent": "#d6ff55",
+  "pages": [
+    {
+      "source": "README.md",
+      "output": "index.html",
+      "number": "00",
+      "section": "Start here",
+      "shortTitle": "Overview",
+      "title": "Building a Product Aggregator in 2026",
+      "description": "The verdict, candidate verticals and evidence map for the complete research series."
+    },
+    {
+      "source": "01-how-i-would-build-a-product-aggregator-in-2026.md",
+      "output": "01-how-i-would-build-a-product-aggregator-in-2026.html",
+      "number": "01",
+      "section": "Start here",
+      "shortTitle": "The complete thesis",
+      "title": "How I Would Build a Product Aggregator in 2026",
+      "description": "The answer-first strategic argument and recommended UK launch model."
+    },
+    {
+      "source": "02-research-method-and-evidence-boundaries.md",
+      "output": "02-research-method-and-evidence-boundaries.html",
+      "number": "02",
+      "section": "Start here",
+      "shortTitle": "Research method",
+      "title": "Research Method and Evidence Boundaries",
+      "description": "Definitions, calculations, commercial-intent rules and limitations."
+    },
+    {
+      "source": "03-opportunity-landscape-and-scorecard.md",
+      "output": "03-opportunity-landscape-and-scorecard.html",
+      "number": "03",
+      "section": "Start here",
+      "shortTitle": "Opportunity scorecard",
+      "title": "Opportunity Landscape and Scorecard",
+      "description": "A comparable ranking of the four surviving verticals and the rejected alternatives."
+    },
+    {
+      "source": "04-premium-garden-and-outdoor-systems.md",
+      "output": "04-premium-garden-and-outdoor-systems.html",
+      "number": "04",
+      "section": "Verticals",
+      "shortTitle": "Premium garden",
+      "title": "Premium Garden and Outdoor Systems",
+      "description": "The recommended first business and its connected product and installation lanes."
+    },
+    {
+      "source": "05-serious-maker-studios.md",
+      "output": "05-serious-maker-studios.html",
+      "number": "05",
+      "section": "Verticals",
+      "shortTitle": "Maker studios",
+      "title": "Serious Maker Studios",
+      "description": "A specialist decision brand for kilns, pottery wheels, workshop machinery and studio packages."
+    },
+    {
+      "source": "06-private-games-and-leisure-rooms.md",
+      "output": "06-private-games-and-leisure-rooms.html",
+      "number": "06",
+      "section": "Verticals",
+      "shortTitle": "Games and leisure",
+      "title": "Private Games and Leisure Rooms",
+      "description": "The cleanest conventional high-ticket affiliate opportunity in the screen."
+    },
+    {
+      "source": "07-land-and-smallholding-equipment.md",
+      "output": "07-land-and-smallholding-equipment.html",
+      "number": "07",
+      "section": "Verticals",
+      "shortTitle": "Land and smallholding",
+      "title": "Land and Smallholding Equipment",
+      "description": "A promising search market whose natural model is dealer inventory and qualified enquiries."
+    },
+    {
+      "source": "08-business-model-and-unit-economics.md",
+      "output": "08-business-model-and-unit-economics.html",
+      "number": "08",
+      "section": "Operating model",
+      "shortTitle": "Unit economics",
+      "title": "Business Model and Unit Economics",
+      "description": "Revenue equations, sensitivity ranges, break-even rules and the two meanings of CPC."
+    },
+    {
+      "source": "09-product-catalogue-and-data-architecture.md",
+      "output": "09-product-catalogue-and-data-architecture.html",
+      "number": "09",
+      "section": "Operating model",
+      "shortTitle": "Product and data",
+      "title": "Product Catalogue and Data Architecture",
+      "description": "The canonical product graph, offer history, feed pipeline and publishing controls."
+    },
+    {
+      "source": "10-go-to-market-and-twelve-month-launch-plan.md",
+      "output": "10-go-to-market-and-twelve-month-launch-plan.html",
+      "number": "10",
+      "section": "Operating model",
+      "shortTitle": "Launch plan",
+      "title": "Go-to-Market and Twelve-Month Launch Plan",
+      "description": "The build sequence, experiments, metrics and stop-or-go gates."
+    },
+    {
+      "source": "11-trust-compliance-and-operating-controls.md",
+      "output": "11-trust-compliance-and-operating-controls.html",
+      "number": "11",
+      "section": "Operating model",
+      "shortTitle": "Trust and controls",
+      "title": "Trust, Compliance and Operating Controls",
+      "description": "Disclosure, review integrity, tracking, price truth and editorial independence."
+    },
+    {
+      "source": "12-industry-evidence-public-interviews-and-watchlist.md",
+      "output": "12-industry-evidence-public-interviews-and-watchlist.html",
+      "number": "12",
+      "section": "Commercial evidence",
+      "shortTitle": "Industry evidence",
+      "title": "Industry Evidence and Public Interviews",
+      "description": "UK market research and named publisher, advertiser, network and platform perspectives."
+    },
+    {
+      "source": "13-revenue-architecture-cpa-cpc-cpl-tenancy-and-beyond.md",
+      "output": "13-revenue-architecture-cpa-cpc-cpl-tenancy-and-beyond.html",
+      "number": "13",
+      "section": "Commercial evidence",
+      "shortTitle": "Revenue architecture",
+      "title": "Revenue Architecture: CPA, CPC, CPL, Tenancy and Beyond",
+      "description": "The direct choice between performance commission, leads, tenancy, click fees and later revenue."
+    },
+    {
+      "source": "14-primary-interview-programme.md",
+      "output": "14-primary-interview-programme.html",
+      "number": "14",
+      "section": "Commercial evidence",
+      "shortTitle": "Interview programme",
+      "title": "Primary Interview Programme",
+      "description": "A fourteen-seat plan to replace the largest commercial assumptions with first-party evidence."
+    }
+  ]
+}

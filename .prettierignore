@@ -1,0 +1,5 @@
+docs/
+node_modules/
+private-data/
+pnpm-lock.yaml
+

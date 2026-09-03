@@ -1,0 +1,522 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Product Catalogue and Data Architecture — Research Library</title>
+  <meta name="description" content="The canonical product graph, offer history, feed pipeline and publishing controls.">
+  <meta name="theme-color" content="#111713">
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Product Catalogue and Data Architecture">
+  <meta property="og:description" content="The canonical product graph, offer history, feed pipeline and publishing controls.">
+  <meta property="og:url" content="https://dougwithseismic.github.io/research-library/product-aggregator-2026/09-product-catalogue-and-data-architecture.html">
+  <link rel="canonical" href="https://dougwithseismic.github.io/research-library/product-aggregator-2026/09-product-catalogue-and-data-architecture.html">
+  <link rel="icon" href="../assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="../assets/styles.css">
+  <script type="application/ld+json">[{"@context":"https://schema.org","@type":"Article","headline":"Product Catalogue and Data Architecture","description":"The canonical product graph, offer history, feed pipeline and publishing controls.","datePublished":"2026-09-03","dateModified":"2026-09-03","author":{"@type":"Organization","name":"Research Library"},"publisher":{"@type":"Organization","name":"Research Library"},"mainEntityOfPage":"https://dougwithseismic.github.io/research-library/product-aggregator-2026/09-product-catalogue-and-data-architecture.html","isPartOf":{"@type":"CreativeWorkSeries","name":"Building a Product Aggregator in 2026","url":"https://dougwithseismic.github.io/research-library/product-aggregator-2026/"}}]</script>
+  <script src="../assets/site.js" defer></script>
+</head>
+<body data-page="09-product-catalogue-and-data-architecture.html">
+  <a class="skip-link" href="#content">Skip to content</a>
+  <div class="reading-progress" aria-hidden="true"><span></span></div>
+  <header class="mobile-bar">
+    <a href="../index.html" class="mobile-brand">Research Library</a>
+    <button class="menu-button" type="button" aria-expanded="false" aria-controls="site-nav"><span></span><span></span><span></span><span class="sr-only">Open navigation</span></button>
+  </header>
+  <div class="nav-backdrop" aria-hidden="true"></div>
+  <div class="site-shell">
+    <aside class="site-nav" id="site-nav">
+      <div class="nav-header">
+        <a class="library-mark" href="../index.html"><span>R</span><strong>Research<br>Library</strong></a>
+        <p>Decision-grade commercial research with the evidence left attached.</p>
+      </div>
+      <div class="publication-label"><span>Commercial research series</span><strong>Product Aggregator 2026</strong></div>
+      <label class="nav-search"><span class="sr-only">Filter chapters</span><input type="search" placeholder="Filter chapters…" autocomplete="off"></label>
+      <nav class="chapter-nav" aria-label="Research chapters"><p class="nav-section">Start here</p><a class="nav-link" href="index.html"><span>00</span>Overview</a>
+<a class="nav-link" href="01-how-i-would-build-a-product-aggregator-in-2026.html"><span>01</span>The complete thesis</a>
+<a class="nav-link" href="02-research-method-and-evidence-boundaries.html"><span>02</span>Research method</a>
+<a class="nav-link" href="03-opportunity-landscape-and-scorecard.html"><span>03</span>Opportunity scorecard</a>
+<p class="nav-section">Verticals</p><a class="nav-link" href="04-premium-garden-and-outdoor-systems.html"><span>04</span>Premium garden</a>
+<a class="nav-link" href="05-serious-maker-studios.html"><span>05</span>Maker studios</a>
+<a class="nav-link" href="06-private-games-and-leisure-rooms.html"><span>06</span>Games and leisure</a>
+<a class="nav-link" href="07-land-and-smallholding-equipment.html"><span>07</span>Land and smallholding</a>
+<p class="nav-section">Operating model</p><a class="nav-link" href="08-business-model-and-unit-economics.html"><span>08</span>Unit economics</a>
+<a class="nav-link is-active" href="09-product-catalogue-and-data-architecture.html" aria-current="page"><span>09</span>Product and data</a>
+<a class="nav-link" href="10-go-to-market-and-twelve-month-launch-plan.html"><span>10</span>Launch plan</a>
+<a class="nav-link" href="11-trust-compliance-and-operating-controls.html"><span>11</span>Trust and controls</a>
+<p class="nav-section">Commercial evidence</p><a class="nav-link" href="12-industry-evidence-public-interviews-and-watchlist.html"><span>12</span>Industry evidence</a>
+<a class="nav-link" href="13-revenue-architecture-cpa-cpc-cpl-tenancy-and-beyond.html"><span>13</span>Revenue architecture</a>
+<a class="nav-link" href="14-primary-interview-programme.html"><span>14</span>Interview programme</a></nav>
+      <div class="nav-footer"><a href="data/index.html">Download evidence</a><a href="https://github.com/dougwithseismic/research-library/blob/main/publications/product-aggregator-2026/series/09-product-catalogue-and-data-architecture.md">View Markdown</a></div>
+    </aside>
+    <main class="main-column" id="content">
+      <article class="research-article">
+        <header class="article-header">
+          <p class="eyebrow">Commercial research series <span>/</span> 09</p>
+          <h1>Product Catalogue and Data Architecture</h1>
+          <p class="dek">The canonical product graph, offer history, feed pipeline and publishing controls.</p>
+          <dl class="article-facts"><div><dt>Geography</dt><dd>United Kingdom</dd></div><div><dt>Research date</dt><dd>2026-09-03</dd></div><div><dt>Status</dt><dd>Published research</dd></div></dl>
+        </header>
+        <div class="article-body"><h2 id="what-should-the-system-model"><a class="heading-anchor" href="#what-should-the-system-model">What should the system model?<span aria-hidden="true">#</span></a></h2>
+<p>The system should model decisions, evidence and money—not just products.</p>
+<p>At minimum it needs four connected graphs:</p>
+<ol>
+<li><strong>Product graph:</strong> canonical products, variants, category attributes, compatibility and evidence.</li>
+<li><strong>Offer graph:</strong> merchants, programmes, prices, stock, delivery, commission eligibility and observations over time.</li>
+<li><strong>Project graph:</strong> buyer constraints, rooms or spaces, calculations, shortlists and recommendations.</li>
+<li><strong>Attribution graph:</strong> outbound clicks, transactions, validation, commission, creator allocation and corrections.</li>
+</ol>
+<p>Installed projects add a fifth graph for leads, partners, service areas, qualification, acceptance and outcomes. Used machinery adds individual assets, condition and sellers.</p>
+<pre><code class="language-text">raw feeds ──→ canonical products ──→ category attributes ──→ comparisons
+    │                 │                        │                   │
+    └──→ offers ──→ offer observations         └──→ rules ──→ project shortlist
+                      │                                        │
+                      └──→ tracked click ──→ transaction ──→ commission ledger
+
+project specification ──→ eligible installer/dealer ──→ accepted lead ──→ outcome
+</code></pre>
+<h2 id="which-entities-are-required"><a class="heading-anchor" href="#which-entities-are-required">Which entities are required?<span aria-hidden="true">#</span></a></h2>
+<h3 id="catalogue-entities"><a class="heading-anchor" href="#catalogue-entities">Catalogue entities<span aria-hidden="true">#</span></a></h3>
+<p><code>Category</code></p>
+<ul>
+<li>Stable platform category.</li>
+<li>Parent and child relationships.</li>
+<li>Attribute schema version.</li>
+<li>Publication and review policy.</li>
+</ul>
+<p><code>Product</code></p>
+<ul>
+<li>Canonical manufacturer product.</li>
+<li>Brand, model, identifiers and lifecycle status.</li>
+<li>Category assignment.</li>
+<li>Canonical description written by the platform.</li>
+<li>Primary evidence and verification state.</li>
+</ul>
+<p><code>ProductVariant</code></p>
+<ul>
+<li>A true manufacturer variant such as capacity, voltage, size or finish.</li>
+<li>Parent product.</li>
+<li>Variant-specific identifiers and attributes.</li>
+</ul>
+<p><code>AttributeDefinition</code></p>
+<ul>
+<li>Stable key, label, data type and unit.</li>
+<li>Applicability by category.</li>
+<li>Allowed values or validation bounds.</li>
+<li>Comparison and filter behaviour.</li>
+<li>Evidence requirement.</li>
+</ul>
+<p><code>AttributeValue</code></p>
+<ul>
+<li>Product or variant.</li>
+<li>Normalised value and original source value.</li>
+<li>Unit conversion.</li>
+<li>Source and observation time.</li>
+<li>confidence, verification and conflict state.</li>
+</ul>
+<p><code>CompatibilityRule</code></p>
+<ul>
+<li>Inputs, condition and outcome.</li>
+<li>Version.</li>
+<li>Explanation shown to the user.</li>
+<li>Evidence or expert approval.</li>
+</ul>
+<h3 id="offer-entities"><a class="heading-anchor" href="#offer-entities">Offer entities<span aria-hidden="true">#</span></a></h3>
+<p><code>Merchant</code></p>
+<ul>
+<li>Operating brand and domain.</li>
+<li>Country, delivery area and support routes.</li>
+<li>Trust and service observations.</li>
+<li>Programme relationships.</li>
+</ul>
+<p><code>AffiliateProgramme</code></p>
+<ul>
+<li>Network and programme identifier.</li>
+<li>relationship status;</li>
+<li>attribution window;</li>
+<li>commission groups;</li>
+<li>PPC and content permissions;</li>
+<li>validation and de-duplication rules;</li>
+<li>feed availability;</li>
+<li>effective dates.</li>
+</ul>
+<p><code>Offer</code></p>
+<ul>
+<li>Merchant-specific sellable item.</li>
+<li>Product or variant identity.</li>
+<li>Merchant SKU and URL.</li>
+<li>condition;</li>
+<li>delivery model;</li>
+<li>finance and installation flags;</li>
+<li>affiliate eligibility.</li>
+</ul>
+<p><code>OfferObservation</code></p>
+<ul>
+<li>Offer, timestamp and source feed version.</li>
+<li>active price, previous price and currency.</li>
+<li>delivery cost and restrictions.</li>
+<li>stock status and quantity where available.</li>
+<li>lead time.</li>
+<li>observed affiliate URL.</li>
+<li>validation flags.</li>
+</ul>
+<p>The current price is a view over observations, not a field that destroys history.</p>
+<h3 id="editorial-and-evidence-entities"><a class="heading-anchor" href="#editorial-and-evidence-entities">Editorial and evidence entities<span aria-hidden="true">#</span></a></h3>
+<p><code>EvidenceSource</code></p>
+<ul>
+<li>URL or captured source.</li>
+<li>source type and owner.</li>
+<li>published, updated and observed dates.</li>
+<li>status: live, redirected, blocked, archived or dead.</li>
+<li>supported field and limitation.</li>
+</ul>
+<p><code>TestProtocol</code></p>
+<ul>
+<li>Category, procedure, equipment and conditions.</li>
+<li>version and author.</li>
+<li>repeatability and limitations.</li>
+</ul>
+<p><code>ProductTest</code></p>
+<ul>
+<li>Product, protocol and tester.</li>
+<li>raw observations.</li>
+<li>results, media and date.</li>
+<li>supplied, borrowed or purchased status.</li>
+<li>commercial relationship.</li>
+</ul>
+<p><code>EditorialAssessment</code></p>
+<ul>
+<li>use case and audience;</li>
+<li>positive and negative evidence;</li>
+<li>recommendation and exclusions;</li>
+<li>author and reviewer;</li>
+<li>last verified date;</li>
+<li>affiliate and sponsorship disclosure.</li>
+</ul>
+<h3 id="project-entities"><a class="heading-anchor" href="#project-entities">Project entities<span aria-hidden="true">#</span></a></h3>
+<p><code>Project</code></p>
+<ul>
+<li>User or anonymous session.</li>
+<li>Vertical-specific type.</li>
+<li>Location at the minimum precision needed.</li>
+<li>constraints, budget and timing.</li>
+<li>consent state.</li>
+</ul>
+<p><code>ProjectMeasurement</code></p>
+<ul>
+<li>Dimension, service capacity or environmental condition.</li>
+<li>value, unit and confidence.</li>
+<li>user-supplied, measured, calculated or externally sourced.</li>
+</ul>
+<p><code>RecommendationRun</code></p>
+<ul>
+<li>Project snapshot.</li>
+<li>rule and model versions.</li>
+<li>eligible and excluded products.</li>
+<li>reasons and scores.</li>
+<li>timestamp.</li>
+</ul>
+<p><code>Shortlist</code></p>
+<ul>
+<li>Products and offers saved by the user.</li>
+<li>notes and comparison state.</li>
+<li>price-alert preferences.</li>
+</ul>
+<h3 id="attribution-and-finance-entities"><a class="heading-anchor" href="#attribution-and-finance-entities">Attribution and finance entities<span aria-hidden="true">#</span></a></h3>
+<p><code>OutboundClick</code></p>
+<ul>
+<li>opaque public click identifier;</li>
+<li>product, offer, merchant and placement;</li>
+<li>project, creator and content context where permitted;</li>
+<li>source and campaign;</li>
+<li>timestamp and privacy-safe session association.</li>
+</ul>
+<p><code>MerchantTransaction</code></p>
+<ul>
+<li>network transaction identifier;</li>
+<li>click/sub-ID match;</li>
+<li>merchant, order value, commission and currency;</li>
+<li>pending, approved, declined or corrected state;</li>
+<li>transaction and validation dates.</li>
+</ul>
+<p><code>CommissionJournal</code></p>
+<ul>
+<li>immutable debit and credit entries;</li>
+<li>transaction and correction references;</li>
+<li>platform and creator allocation;</li>
+<li>funding and payout state;</li>
+<li>idempotency key.</li>
+</ul>
+<h3 id="installed-project-entities"><a class="heading-anchor" href="#installed-project-entities">Installed-project entities<span aria-hidden="true">#</span></a></h3>
+<p><code>Partner</code></p>
+<ul>
+<li>Installer or dealer.</li>
+<li>operating evidence and service categories.</li>
+<li>postcode or area coverage.</li>
+<li>capacity and minimum project.</li>
+<li>lead terms and response commitment.</li>
+</ul>
+<p><code>QualifiedLead</code></p>
+<ul>
+<li>frozen project specification.</li>
+<li>explicit contact and data-sharing consent.</li>
+<li>eligibility result.</li>
+<li>duplicate and fraud checks.</li>
+<li>partner assignment.</li>
+</ul>
+<p><code>LeadOutcome</code></p>
+<ul>
+<li>accepted, rejected, booked, sold or lost.</li>
+<li>reason and timestamp.</li>
+<li>commercial charge and dispute state.</li>
+</ul>
+<h2 id="how-should-feed-ingestion-work"><a class="heading-anchor" href="#how-should-feed-ingestion-work">How should feed ingestion work?<span aria-hidden="true">#</span></a></h2>
+<p>Awin describes feeds containing deep links, names, descriptions, prices, discounts, delivery, images and additional vertical attributes. It provides a feed list with last-update time and recommends downloading only changed feeds. <a href="https://help.awin.com/developers/docs/product-feed-publisher-guide-intro" class="external" rel="noreferrer">Awin publisher feed guide</a></p>
+<p>The ingestion process should be staged:</p>
+<h3 id="1-discover-and-authorise"><a class="heading-anchor" href="#1-discover-and-authorise">1. Discover and authorise<span aria-hidden="true">#</span></a></h3>
+<ul>
+<li>Verify programme relationship and feed permission.</li>
+<li>Record programme terms and effective date.</li>
+<li>Obtain feed identifier without exposing API keys.</li>
+<li>Register expected format, delimiter, compression and update behaviour.</li>
+</ul>
+<h3 id="2-capture-raw"><a class="heading-anchor" href="#2-capture-raw">2. Capture raw<span aria-hidden="true">#</span></a></h3>
+<ul>
+<li>Download the immutable source file.</li>
+<li>Record checksum, byte size, row count, headers and source timestamp.</li>
+<li>Store access-controlled raw data with retention appropriate to terms.</li>
+<li>Never log feed keys in job output or error reporting.</li>
+</ul>
+<h3 id="3-validate-structure"><a class="heading-anchor" href="#3-validate-structure">3. Validate structure<span aria-hidden="true">#</span></a></h3>
+<ul>
+<li>Parse with strict column-width and encoding checks.</li>
+<li>Validate URLs and currencies.</li>
+<li>Validate numeric prices and delivery fields.</li>
+<li>reject impossible dates and negative stock;</li>
+<li>quarantine duplicate merchant product IDs;</li>
+<li>measure missing identifier and attribute rates.</li>
+</ul>
+<h3 id="4-stage-source-rows"><a class="heading-anchor" href="#4-stage-source-rows">4. Stage source rows<span aria-hidden="true">#</span></a></h3>
+<ul>
+<li>Preserve merchant values without overwriting canonical fields.</li>
+<li>Attach source feed and row lineage.</li>
+<li>Convert units into normalised fields while retaining originals.</li>
+<li>Mark unknown rather than fabricating defaults.</li>
+</ul>
+<h3 id="5-resolve-identity"><a class="heading-anchor" href="#5-resolve-identity">5. Resolve identity<span aria-hidden="true">#</span></a></h3>
+<p>Use a hierarchy:</p>
+<ol>
+<li>Exact valid GTIN or other global identifier.</li>
+<li>Exact brand plus manufacturer part number.</li>
+<li>Controlled brand, model and variant fingerprint.</li>
+<li>Manually approved match.</li>
+</ol>
+<p>Never auto-merge from title similarity alone in high-value categories. <code>Rohde Ecotop 60</code>, a controller bundle and a similarly named larger-capacity model can appear close while being commercially different.</p>
+<p>Potential matches should carry scores and reasons, with thresholds for auto-match, human review and rejection.</p>
+<h3 id="6-map-attributes"><a class="heading-anchor" href="#6-map-attributes">6. Map attributes<span aria-hidden="true">#</span></a></h3>
+<ul>
+<li>Map source columns to typed category attributes.</li>
+<li>Extract specifications only into a review queue unless the source format is trusted.</li>
+<li>convert units;</li>
+<li>detect conflicts;</li>
+<li>record evidence and observation date;</li>
+<li>recompute filters and compatibility.</li>
+</ul>
+<h3 id="7-create-offer-observations"><a class="heading-anchor" href="#7-create-offer-observations">7. Create offer observations<span aria-hidden="true">#</span></a></h3>
+<p>Every accepted row creates a time-bounded observation. The system should never rewrite yesterday&#39;s price into oblivion.</p>
+<h3 id="8-publish-safely"><a class="heading-anchor" href="#8-publish-safely">8. Publish safely<span aria-hidden="true">#</span></a></h3>
+<p>Publish only if:</p>
+<ul>
+<li>product identity is resolved;</li>
+<li>price and currency are valid;</li>
+<li>affiliate URL is eligible and safe;</li>
+<li>stock or availability is recent enough;</li>
+<li>required comparison attributes meet the category threshold;</li>
+<li>no unresolved severe conflict exists;</li>
+<li>merchant and programme remain active.</li>
+</ul>
+<h2 id="how-fresh-should-the-catalogue-be"><a class="heading-anchor" href="#how-fresh-should-the-catalogue-be">How fresh should the catalogue be?<span aria-hidden="true">#</span></a></h2>
+<p>Awin recommends updating feeds at least every 24 hours because mismatched prices reduce conversion. <a href="https://help.awin.com/developers/docs/en/managing-your-feed" class="external" rel="noreferrer">Feed management guidance</a></p>
+<p>The platform should define category-level freshness budgets:</p>
+<div class="table-scroll"><table>
+<thead>
+<tr>
+<th>Data</th>
+<th align="right">Freshness target</th>
+<th>Stale behaviour</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Price and stock</td>
+<td align="right">24 hours where feed permits</td>
+<td>Hide price or label last checked; suppress unavailable offer</td>
+</tr>
+<tr>
+<td>Delivery and lead time</td>
+<td align="right">24–72 hours</td>
+<td>Label timestamp and avoid ranking on stale promise</td>
+</tr>
+<tr>
+<td>Commission and programme terms</td>
+<td align="right">Daily API plus manual term review</td>
+<td>Stop paid acquisition or creator promise on uncertainty</td>
+</tr>
+<tr>
+<td>Manufacturer specifications</td>
+<td align="right">Review on model update</td>
+<td>Preserve previous evidence; flag conflict</td>
+</tr>
+<tr>
+<td>Editorial test</td>
+<td align="right">Versioned, no artificial expiry</td>
+<td>Show test date and model version</td>
+</tr>
+<tr>
+<td>Installer coverage</td>
+<td align="right">Confirm at least monthly</td>
+<td>Do not route leads to unconfirmed areas</td>
+</tr>
+</tbody></table></div>
+<p>Feed health should be visible in operations:</p>
+<ul>
+<li>last successful fetch;</li>
+<li>last source update;</li>
+<li>row-count change;</li>
+<li>new, removed and changed offers;</li>
+<li>invalid-row rate;</li>
+<li>identity-match rate;</li>
+<li>price anomaly count;</li>
+<li>stale published offer count;</li>
+<li>link health;</li>
+<li>programme eligibility state.</li>
+</ul>
+<h2 id="how-should-recommendations-be-generated"><a class="heading-anchor" href="#how-should-recommendations-be-generated">How should recommendations be generated?<span aria-hidden="true">#</span></a></h2>
+<p>The first recommendation engine should be deterministic and explainable.</p>
+<pre><code class="language-text">hard constraints → eligible set → suitability scoring → offer ranking
+</code></pre>
+<p>Hard constraints exclude products that cannot work. Suitability scoring ranks the remaining products for the stated use case. Offer ranking then compares merchant price, delivery, installation, service and availability.</p>
+<p>Commission must not enter product suitability. If commercial value affects an offer placement, label it and keep an uncommercialised relevance order available.</p>
+<p>Every recommendation run should persist:</p>
+<ul>
+<li>inputs;</li>
+<li>rule version;</li>
+<li>product and attribute versions;</li>
+<li>exclusions and reasons;</li>
+<li>resulting order;</li>
+<li>commercial placement context.</li>
+</ul>
+<p>This allows corrections and audits when an attribute changes.</p>
+<p>Machine-learning ranking should wait until the platform has enough clean outcome data. A model trained on affiliate clicks will learn merchant creative and commission effects, not necessarily product suitability.</p>
+<h2 id="how-should-search-and-filtering-work"><a class="heading-anchor" href="#how-should-search-and-filtering-work">How should search and filtering work?<span aria-hidden="true">#</span></a></h2>
+<p>Search should resolve buyer language to platform entities:</p>
+<ul>
+<li>synonyms and common misspellings;</li>
+<li>brand, model and manufacturer number;</li>
+<li>project language such as “steep lawn” or “13 amp kiln”;</li>
+<li>attribute ranges and units;</li>
+<li>availability and service geography;</li>
+<li>new, used and restored condition.</li>
+</ul>
+<p>Filters should be generated from typed attributes, never parsed ad hoc from titles at request time. Counts should reflect currently eligible offers and products.</p>
+<p>The index should support:</p>
+<ul>
+<li>product search;</li>
+<li>project guides;</li>
+<li>merchant and brand pages;</li>
+<li>compatibility and use-case landing pages;</li>
+<li>saved search and price alerts;</li>
+<li>operations search over conflicts and stale data.</li>
+</ul>
+<h2 id="what-structured-data-should-the-public-site-use"><a class="heading-anchor" href="#what-structured-data-should-the-public-site-use">What structured data should the public site use?<span aria-hidden="true">#</span></a></h2>
+<p>Google distinguishes merchant listings from editorial product snippets. Merchant listing experiences require that the shopper can purchase on the marked-up page; an affiliate aggregator that sends buyers elsewhere is not the seller. <a href="https://developers.google.com/search/docs/appearance/structured-data/merchant-listing" class="external" rel="noreferrer">Google merchant-listing guidance</a></p>
+<p>The aggregator should therefore use:</p>
+<ul>
+<li><code>Product</code> structured data on specific canonical product pages;</li>
+<li><code>AggregateOffer</code> where the page genuinely aggregates several merchant offers for one product;</li>
+<li><code>Review</code> only for a real, visible editorial assessment with a named person or team;</li>
+<li><code>positiveNotes</code> and <code>negativeNotes</code> that match visible pros and cons;</li>
+<li><code>ItemList</code> for ranked or compared collections where appropriate;</li>
+<li><code>BreadcrumbList</code> for category hierarchy;</li>
+<li><code>Article</code> for editorial guides.</li>
+</ul>
+<p>Google&#39;s product-snippet documentation explicitly supports <code>AggregateOffer</code> for a product sold by several merchants and warns not to use it for product variants. <a href="https://developers.google.com/search/docs/appearance/structured-data/product-snippet" class="external" rel="noreferrer">Product snippet guidance</a></p>
+<p>Do not mark affiliate pages as merchant listings or invent aggregate ratings. Affiliate links should use <code>rel=&quot;sponsored&quot;</code> as Google requests. <a href="https://developers.google.com/search/blog/2021/07/link-tagging-and-link-spam-update" class="external" rel="noreferrer">Google affiliate-link guidance</a></p>
+<h2 id="what-should-the-application-topology-be"><a class="heading-anchor" href="#what-should-the-application-topology-be">What should the application topology be?<span aria-hidden="true">#</span></a></h2>
+<p>The existing multi-surface shape is appropriate:</p>
+<ul>
+<li><strong>Public web:</strong> anonymous, cacheable editorial, category, product and comparison pages.</li>
+<li><strong>Application:</strong> saved projects, shortlists, price alerts and creator tools.</li>
+<li><strong>Admin:</strong> catalogue review, offer health, attribution, finance and lead operations.</li>
+<li><strong>API:</strong> authentication, authorisation and the only browser-facing route to persistent data.</li>
+<li><strong>Worker:</strong> feed sync, link health, transaction polling, reconciliation, alerts and scheduled publication checks.</li>
+<li><strong>Redirect service:</strong> low-latency tracked outbound links with durable event capture.</li>
+</ul>
+<p>The public site should degrade gracefully if the application or admin surface is unavailable. A comparison page may show last-verified offers, but it must not show a fabricated live price when the feed pipeline is down.</p>
+<h2 id="what-events-should-be-instrumented"><a class="heading-anchor" href="#what-events-should-be-instrumented">What events should be instrumented?<span aria-hidden="true">#</span></a></h2>
+<p>Core decision events:</p>
+<ul>
+<li><code>project_started</code>;</li>
+<li><code>constraint_answered</code>;</li>
+<li><code>recommendation_run</code>;</li>
+<li><code>product_excluded_viewed</code>;</li>
+<li><code>comparison_started</code>;</li>
+<li><code>product_added_to_shortlist</code>;</li>
+<li><code>offer_selected</code>;</li>
+<li><code>merchant_click_created</code>;</li>
+<li><code>price_alert_created</code>;</li>
+<li><code>project_specification_submitted</code>;</li>
+<li><code>lead_consent_recorded</code>.</li>
+</ul>
+<p>Commercial events:</p>
+<ul>
+<li><code>transaction_ingested</code>;</li>
+<li><code>transaction_matched</code>;</li>
+<li><code>transaction_approved</code>;</li>
+<li><code>transaction_declined</code>;</li>
+<li><code>commission_funded</code>;</li>
+<li><code>creator_payable_created</code>;</li>
+<li><code>creator_paid</code>;</li>
+<li><code>lead_accepted</code>;</li>
+<li><code>lead_rejected</code>;</li>
+<li><code>survey_booked</code>;</li>
+<li><code>project_sold</code>.</li>
+</ul>
+<p>Events should carry opaque IDs, schema versions and only the minimum personal data required. Analytics state must never become the financial ledger.</p>
+<h2 id="what-should-be-built-first"><a class="heading-anchor" href="#what-should-be-built-first">What should be built first?<span aria-hidden="true">#</span></a></h2>
+<h3 id="mvp"><a class="heading-anchor" href="#mvp">MVP<span aria-hidden="true">#</span></a></h3>
+<ul>
+<li>One vertical and one decision ontology.</li>
+<li>50–100 canonical products.</li>
+<li>At least two eligible offers on the most important products.</li>
+<li>One deterministic selector.</li>
+<li>Product, comparison and project-guide pages.</li>
+<li>Saved shortlist.</li>
+<li>Tracked outbound links.</li>
+<li>Transaction ingest and reconciliation.</li>
+<li>Feed health and manual catalogue review.</li>
+<li>Visible evidence, timestamp and affiliate disclosure.</li>
+</ul>
+<h3 id="after-product-market-evidence"><a class="heading-anchor" href="#after-product-market-evidence">After product-market evidence<span aria-hidden="true">#</span></a></h3>
+<ul>
+<li>Price history and alerts.</li>
+<li>Creator project collections.</li>
+<li>Second and third category ontology.</li>
+<li>Installed-project lead routing.</li>
+<li>Merchant self-service inventory and corrections.</li>
+<li>Personalised recommendation ranking.</li>
+<li>Native mobile surfaces.</li>
+<li>Data products.</li>
+</ul>
+<p>The first technical milestone is not “ingest an entire feed.” It is “resolve, compare, recommend and attribute a small serious catalogue correctly.”</p>
+</div>
+        <footer class="article-footer"><p>This publication distinguishes observed evidence, derived calculations, commercial inference and unknowns.</p><a href="data/sources.csv">Source register <span aria-hidden="true">↗</span></a></footer>
+      </article>
+      <nav class="chapter-pager" aria-label="Adjacent chapters">
+        <a class="previous" href="08-business-model-and-unit-economics.html"><span>Previous</span><strong>Unit economics</strong></a>
+        <a class="next" href="10-go-to-market-and-twelve-month-launch-plan.html"><span>Next</span><strong>Launch plan</strong></a>
+      </nav>
+    </main>
+    <aside class="page-toc" aria-label="On this page"><p>On this page</p><nav><a href="#what-should-the-system-model">What should the system model?</a><a href="#which-entities-are-required">Which entities are required?</a><a href="#how-should-feed-ingestion-work">How should feed ingestion work?</a><a href="#how-fresh-should-the-catalogue-be">How fresh should the catalogue be?</a><a href="#how-should-recommendations-be-generated">How should recommendations be generated?</a><a href="#how-should-search-and-filtering-work">How should search and filtering work?</a><a href="#what-structured-data-should-the-public-site-use">What structured data should the public site use?</a><a href="#what-should-the-application-topology-be">What should the application topology be?</a><a href="#what-events-should-be-instrumented">What events should be instrumented?</a><a href="#what-should-be-built-first">What should be built first?</a></nav></aside>
+  </div>
+</body>
+</html>

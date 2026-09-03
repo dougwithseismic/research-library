@@ -1,0 +1,8 @@
+interface:
+  display_name: "Build Company Evidence Report"
+  short_description: "Research and present sourced company hitlists"
+  brand_color: "#C9FF5B"
+  default_prompt: "Use $build-company-evidence-report to research this market and create a standalone report with one complete evidence and financial slide per company."
+
+policy:
+  allow_implicit_invocation: true
