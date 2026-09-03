@@ -8,7 +8,7 @@ The actual UK market includes search engines, Local Services Ads, maps, verified
 
 That reframing matters because it changes the investable asset. A site is one acquisition surface. The business is the system that can create, qualify, route, reconcile and improve local demand.
 
-The full [32-operator atlas](../evidence/operator-atlas.csv) covers every layer from Google to direct appointment suppliers and lead-routing software.
+The full [40-product operator atlas](../evidence/operator-atlas.csv) covers every layer from Google and independent publishers through owned-media groups, direct appointment suppliers, lead-routing software and fulfilment platforms. It counts products rather than independent legal entities and identifies related brands in the analysis. The [participant map](../evidence/market-participants.csv) separately shows who performs the work inside that system.
 
 ## The demand-to-job chain
 
@@ -23,6 +23,8 @@ There are seven economic steps:
 7. **Fulfilment and proof.** The job is delivered, paid, reviewed and potentially produces repeat or referral demand.
 
 Traditional rank-and-rent concentrates on steps two and four. That is exactly where search platforms can compress value. The harder-to-copy value sits in steps three, five, six and seven: structured property facts, credential evidence, live availability, routing, buyer outcome data and a reliable feedback loop.
+
+Current UK operators make the middle of the chain concrete. Leads 2 Trade describes an in-house call centre that qualifies requests and books surveys. Boiler Guide describes adviser follow-up before a request is released to up to three professionals. iLeads describes phone verification, duplicate checks, postcode routing, prepaid billing and credits. The point is not that these first-party systems are proven best. It is that a commercial “lead” is produced by labour, rules and software between the page view and the provider's quote. [Leads 2 Trade](https://leads2trade.co.uk/about/how-we-generate-leads/) [Boiler Guide](https://www.boilerguide.co.uk/trade/blog/how-we-qualify-our-leads/) [iLeads](https://www.ileads.co.uk/)
 
 ## The UK supply base is large but not automatically addressable
 
@@ -40,18 +42,21 @@ Those numbers establish fragmentation, not a 885,000-customer market. Many entit
 
 This is why buyer interviews precede content investment. A 10,000-search keyword does not compensate for an incapable or non-existent buyer.
 
-## The eight competitive layers
+## The eleven competitive layers
 
-| Layer                     | Examples                                              | What is sold                               | Defensible input                              | Weakness                                            |
-| ------------------------- | ----------------------------------------------------- | ------------------------------------------ | --------------------------------------------- | --------------------------------------------------- |
-| Search and maps           | Google Search, GBP, Local Services Ads                | clicks, calls, messages and verified leads | intent distribution and platform data         | policy dependence and auction cost                  |
-| Verified directories      | Checkatrade, TrustATrader, Which Trusted Traders, FMB | trust, profile visibility and enquiries    | identity, reviews and brand                   | member value depends on consumer demand             |
-| Job marketplaces          | MyBuilder, Rated People, Bark                         | contact with posted demand                 | liquidity and routing                         | contact races, variable quality and disputes        |
-| Transaction marketplaces  | Airtasker, Taskrabbit                                 | match, booking and payment                 | observed completion and repeat usage          | support, payments and local liquidity cost          |
-| Direct lead suppliers     | Watts, Trade Leads UK, Sales Fuel                     | leads or attended appointments             | qualification process and buyer relationships | performance claims are difficult to verify publicly |
-| Marketing agencies        | Yell, BuildSprout, ElevateOne, Strive                 | owned acquisition and managed pipeline     | service depth and account knowledge           | labour-heavy and difficult to standardise           |
-| Trade and quality schemes | TrustMark, FMB                                        | credentials and consumer trust             | standards and institutional recognition       | not designed primarily around lead yield            |
-| Infrastructure            | CallRail, LeadByte, WhatConverts                      | attribution, routing and workflow          | embedded operational data                     | software alone creates no demand                    |
+| Layer                       | Examples                                              | What is sold                                | Defensible input                                | Weakness                                            |
+| --------------------------- | ----------------------------------------------------- | ------------------------------------------- | ----------------------------------------------- | --------------------------------------------------- |
+| Search and maps             | Google Search, GBP, Local Services Ads                | clicks, calls, messages and verified leads  | intent distribution and platform data           | policy dependence and auction cost                  |
+| Verified directories        | Checkatrade, TrustATrader, Which Trusted Traders, FMB | trust, profile visibility and enquiries     | identity, reviews and brand                     | member value depends on consumer demand             |
+| Job marketplaces            | MyBuilder, Rated People, Bark                         | contact with posted demand                  | liquidity and routing                           | contact races, variable quality and disputes        |
+| Transaction marketplaces    | Airtasker, Taskrabbit                                 | match, booking and payment                  | observed completion and repeat usage            | support, payments and local liquidity cost          |
+| Vertical comparison media   | Boiler Guide, GreenMatch                              | guidance, qualification and bounded quotes  | category authority and specialist buyer pool    | related brands can obscure group concentration      |
+| Owned-media groups          | Leads.io                                              | portfolio demand and shared lead operations | acquired authority and operating infrastructure | asset-level economics are rarely public             |
+| Direct lead suppliers       | Watts, Trade Leads UK, Sales Fuel                     | leads or attended appointments              | qualification process and buyer relationships   | performance claims are difficult to verify publicly |
+| Marketing agencies          | Yell, BuildSprout, ElevateOne, Strive                 | owned acquisition and managed pipeline      | service depth and account knowledge             | labour-heavy and difficult to standardise           |
+| Trade and quality schemes   | TrustMark, FMB                                        | credentials and consumer trust              | standards and institutional recognition         | not designed primarily around lead yield            |
+| Infrastructure              | CallRail, LeadByte, WhatConverts                      | attribution, routing and workflow           | embedded operational data                       | software alone creates no demand                    |
+| Fulfilment and subscription | Fantastic Services, British Gas HomeCare              | booked work, recurring cover and completion | customer relationship and delivery capacity     | operational liability and workforce complexity      |
 
 Google belongs in the marketplace row as well as the search row. In the UK, Local Services Ads offer eligible providers leads through calls, messages and bookings, with category-specific checks, and charge for the lead rather than a click. [Google's UK Local Services Ads guide](https://support.google.com/localservices/answer/6224841?co=GENIE.CountryCode%3DGB&hl=en) A new publisher is not competing around Google; it is competing with a lead product owned by Google.
 

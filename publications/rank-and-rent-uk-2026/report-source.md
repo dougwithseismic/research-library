@@ -9,6 +9,62 @@ status: "published research"
 
 # UK rank-and-rent: a complete investment thesis for 2026
 
+## Start with the job, not the website
+
+A boiler fails in Edinburgh. A restaurant operator in Manchester needs a fire-risk assessment. A Bristol homeowner finds water backing up through a drain. Each person has a local problem, limited knowledge of the supplier market and a reason to act. Somewhere nearby, a qualified provider has the skills to help and may have spare capacity. The commercial opportunity is to connect those two facts reliably.
+
+“Rank and rent” is one way of acquiring that demand. Traditionally, an operator builds a website for a service and place, ranks it in search, captures calls or forms and rents the resulting enquiries to a local business. The label makes the website sound like the product. It is only the front door.
+
+The complete business has to create useful demand, state who the intermediary is, collect a serviceable brief and permission to share it, confirm the request, find a provider with the right credentials and capacity, route it, handle rejection and then learn whether the provider quoted and won the work. Search visibility without those operations is traffic speculation. Operations without a reliable source of demand are an agency or call centre waiting for work.
+
+The unit used throughout this report is therefore a **market cell**:
+
+```text
+one service × one geography × one intent state × one purchasing unit × one fulfilment standard
+```
+
+“Drainage” is a topic. “An exclusive, connected call for an urgent blocked drain inside selected Bristol postcodes, answered now by a provider with capacity” is a commercial cell. Keeping the unit this narrow prevents national demand, a local buyer, a generic lead price and several kinds of job from being collapsed into one attractive but meaningless number.
+
+## The people in the chain
+
+The passive-income version removes the labour. Current UK operator evidence shows the opposite.
+
+| Person or system                       | What happens before the job is complete                                  | What has to be evidenced                                                   |
+| -------------------------------------- | ------------------------------------------------------------------------ | -------------------------------------------------------------------------- |
+| Consumer or premises decision-maker    | defines the problem, property, timing, access and contact preference     | a specific request and permission for the disclosed handoff                |
+| Research, content and acquisition team | builds the useful page or campaign and attracts the right problem        | original value, truthful identity, source attribution and acquisition cost |
+| Qualification person or system         | verifies contact details, job fit, location, timing and readiness        | script, status, rejection rule and consent record                          |
+| Buyer or account manager               | sets service radius, capacity, price, acceptance, credits and reporting  | a named economic buyer and written commercial definition                   |
+| Routing and measurement system         | delivers the request, logs attempts and reconciles outcomes              | auditable event history, buyer rules and failure alerts                    |
+| Field provider                         | answers, diagnoses, visits, quotes, completes and supports the work      | credentials, availability, job outcome and complaint route                 |
+| Trust and consumer-protection layer    | verifies relevant claims and sets review, privacy and service boundaries | current register evidence, checking method and clear consumer terms        |
+
+Leads 2 Trade says its UK call centre speaks to incoming home-improvement enquiries and can coordinate survey appointments before a lead reaches installers. Boiler Guide describes collecting property and service details, calling the consumer, confirming permission to speak with up to three professionals and withholding the lead where the consumer is not ready. iLeads describes phone verification, duplicate checks, postcode routing, prepaid billing and invalid-lead credits. These are first-party descriptions, not audited proof of performance, but they demonstrate the operating work that the landlord metaphor hides. [Leads 2 Trade](https://leads2trade.co.uk/about/how-we-generate-leads/) [Boiler Guide](https://www.boilerguide.co.uk/trade/blog/how-we-qualify-our-leads/) [iLeads](https://www.ileads.co.uk/)
+
+The [participant map](./evidence/market-participants.csv) expands this into twelve recurring roles with their minimum proof requirements. One founder can perform several of them during a test. None disappears because the payroll is small.
+
+## What the customer is trying to buy
+
+The customer is not shopping for an SEO lead. They are trying to reduce uncertainty around a real job: what is wrong, how urgent it is, what it may cost, who is competent, when someone can attend and what happens if the work fails.
+
+That decision often combines independent research with provider judgement. In the Department for Energy Security and Net Zero's winter 2025 survey, 49% of 3,279 UK respondents selected their own research, including online search and reviews, as a trusted source of heating-system advice; 46% selected a tradesperson. It was a multi-select trust question, not a record of completed purchases, but it shows the two halves of the product: useful decision support and credible fulfilment. [DESNZ Public Attitudes Tracker](https://www.gov.uk/government/statistics/desnz-public-attitudes-tracker-winter-2025/desnz-public-attitudes-tracker-heat-and-energy-use-in-the-home-winter-2025-uk)
+
+The trust burden is practical. Current government guidance tells consumers to inspect how recommendation sites verify and monitor traders, handle complaints and sanctions, and police reviews. Citizens Advice recommends checking that a trader is genuine and qualified and trying to obtain three written quotes for home-improvement work. An independent lead operator does not have to become a full marketplace, but it needs to make its role, provider selection, data handoff and complaint route clear. [CMA trader-site guidance](https://www.gov.uk/government/publications/what-to-consider-when-using-trader-recommendation-sites/what-to-consider-when-using-trader-recommendation-sites) [Citizens Advice](https://www.citizensadvice.org.uk/wales/consumer/getting-home-improvements-done/before-you-get-building-work-done/)
+
+## How the business gets paid
+
+Money can attach at progressively deeper points in the journey:
+
+```text
+visibility → connected call → accepted lead → booked appointment → won job → recurring service
+```
+
+A fixed website tenancy pays for access to the asset. Pay-per-call and pay-per-lead move the charge to a defined request. Appointment pricing adds qualification and diary work. A base-plus-performance contract shares volume risk. A transaction, franchise or owned-service model captures more value but also takes on more responsibility for delivery.
+
+The current UK market uses all of these shapes. Lead Pronto publicly offers delivered leads, booked appointments and buyer-branded managed campaigns. Boiler Guide uses pay-as-you-go leads. Fantastic Services combines central acquisition and software with franchise fulfilment. British Gas sells recurring cover and one-off service directly. Their public prices and performance statements are not treated as benchmarks; their relevance is that a contractor can already buy at several points in the chain. [Lead Pronto](https://leadpronto.co.uk/home-improvement-leads/) [Boiler Guide trade](https://www.boilerguide.co.uk/trade/sign-up/) [Fantastic Services](https://www.fantasticservices.com/franchise-opportunities/) [British Gas HomeCare](https://www.britishgas.co.uk/cover/guides/homecare-explained.html)
+
+That is the market into which the investment decision now enters.
+
 ## Executive decision
 
 There is a real UK business here, but the familiar “digital landlord” story is the wrong operating model for 2026.
@@ -36,7 +92,9 @@ The decision is therefore conditional: **build it if buyer demand, fulfilment qu
 
 The evidence base now reaches beyond a niche-and-city screen:
 
-- **32 UK-relevant operators** mapped across search, Local Services Ads, directories, job marketplaces, transaction marketplaces, direct appointment suppliers, agencies, trust schemes and infrastructure;
+- **40 UK-relevant products** mapped across search, Local Services Ads, directories, job marketplaces, transaction marketplaces, owned-media groups, direct appointment suppliers, agencies, trust schemes, infrastructure and fulfilment, with related brands kept distinct from independent companies;
+- **twelve participant roles** mapped from consumer request through acquisition, qualification, routing, field delivery, outcome reporting and consumer protection;
+- current UK consumer evidence added to explain why independent research, provider competence, comparison and redress belong in the product rather than sitting outside the lead funnel;
 - **seven filed operating entities** compared across revenue, result, employee and capital disclosures, with five latest-period turnover figures totalling £298.8 million across non-comparable products and periods;
 - **33 returned buyer-acquisition keyword rows**, including direct demand for trade leads, roofing leads, boiler leads and SEO for plumbers;
 - **99 new service-cluster observations** across the four priority cells and 17 platform-brand observations;
@@ -45,9 +103,9 @@ The evidence base now reaches beyond a niche-and-city screen:
 - **40 revenue architectures**, from connected calls and attended appointments through verification, software, transactions and owned fulfilment;
 - a **lead operating-system specification**, five capital scenarios, ten portfolio failure modes and a primary research programme.
 
-The additions change the category definition. This is not a contest between an independent SEO site and a directory. Google sells verified local leads; platforms sell subscriptions, contact credits, shortlist fees, sponsored placement or transaction access; direct suppliers sell appointments; agencies sell protected-area acquisition systems; software vendors sell attribution and routing. The founder must outperform the buyer's next-best acquisition product on accepted opportunity and measured contribution.
+The additions change the category definition. This is not a contest between an independent SEO site and a directory. Google sells verified local leads; platforms sell subscriptions, contact credits, shortlist fees, sponsored placement or transaction access; vertical groups acquire owned media and connect it to shared qualification infrastructure; direct suppliers sell appointments; agencies sell protected-area acquisition systems; software vendors sell attribution and routing; and fulfilment platforms own the booking or recurring service. The founder must produce a better consumer journey and outperform the buyer's next-best acquisition product on accepted opportunity and measured contribution.
 
-The detailed expansion is published as chapters [12 through 21](./12-market-structure-and-value-chain.md), with the underlying [operator atlas](./evidence/operator-atlas.csv), [platform financial comparison](./evidence/platform-financial-comparison.csv), [buyer-intent screen](./evidence/google-ads-buyer-intent-screen.csv), [market dossiers](./evidence/market-dossier-economics.csv), [revenue playbook](./evidence/revenue-playbook.csv), [AI-disruption ledger](./evidence/ai-disruption-ledger.csv), [AI scorecard](./evidence/ai-disruption-scorecard.csv) and [capital scenarios](./evidence/portfolio-capital-scenarios.csv).
+The detailed expansion is published as chapters [12 through 21](./12-market-structure-and-value-chain.md), with the underlying [participant map](./evidence/market-participants.csv), [operator atlas](./evidence/operator-atlas.csv), [platform financial comparison](./evidence/platform-financial-comparison.csv), [buyer-intent screen](./evidence/google-ads-buyer-intent-screen.csv), [market dossiers](./evidence/market-dossier-economics.csv), [revenue playbook](./evidence/revenue-playbook.csv), [AI-disruption ledger](./evidence/ai-disruption-ledger.csv), [AI scorecard](./evidence/ai-disruption-scorecard.csv) and [capital scenarios](./evidence/portfolio-capital-scenarios.csv).
 
 ## What “rank and rent” means after the old playbook is removed
 

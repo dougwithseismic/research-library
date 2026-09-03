@@ -103,9 +103,13 @@ Published derived files exclude officers and people with significant control. Th
 
 Most small-company filings do not disclose turnover or a profit-and-loss account. Missing values remain blank, not zero. Three PDF or XHTML accounts required manual transcription of selected headline metrics, and that method is stated row by row. Companies House states that it does not independently verify the accuracy of company-filed information. The registry establishes legal and filing evidence; it does not establish service quality, geographic coverage, buying intent or present financial performance. [Companies House quality and methods guide](https://www.gov.uk/government/publications/incorporated-companies-in-the-uk-by-jurisdiction-and-month-quality-and-methods-guide/quality-and-methods-guide)
 
-## Landscape and financial comparison method
+## Consumer, participant and landscape method
 
-The 32-operator atlas is a purposive strategic sample, not a census. Operators were selected to expose different layers and charging units. Public product and pricing pages establish what each operator says it sells; they do not verify retention, conversion or customer results.
+The consumer-journey pass uses current government and Citizens Advice guidance plus the DESNZ winter 2025 Public Attitudes Tracker. Guidance establishes the checks a prudent journey should support; it does not prove actual behaviour. The DESNZ result is a multi-select trust measure for heating-system advice, not a hiring funnel or conversion rate.
+
+The [participant map](../evidence/market-participants.csv) is an analytical map of twelve recurring roles. It distinguishes who creates demand, qualifies it, buys it, fulfils it, verifies claims and records outcomes. It is not an employment census, and one person or company may perform several roles.
+
+The 40-product operator atlas is a purposive strategic sample, not a census of independent companies. Products were selected to expose different layers and charging units. Related products such as Leads.io, Boiler Guide and GreenMatch are kept separate where they demonstrate different parts of one group, with the relationship stated. Public product and pricing pages establish what each operator says it sells; they do not verify retention, conversion or customer results.
 
 The platform financial comparison normalises latest available filed figures where disclosure permits. Turnover is never replaced with a balance-sheet proxy. Period duration, year end, geography, company boundary, product mix, employee disclosure and manual extraction limitations are retained. Adding disclosed turnover is used only to demonstrate economic scale and is explicitly not market sizing.
 

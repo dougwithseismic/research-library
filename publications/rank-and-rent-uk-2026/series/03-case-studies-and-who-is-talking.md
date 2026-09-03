@@ -4,6 +4,8 @@
 
 The public evidence base is marketing-heavy and audit-light. No representative UK success rate, median payback period or portfolio return was found. The right conclusion is not that every success claim is false; it is that capital should not be underwritten from the public cases alone.
 
+This chapter separates two groups that the public conversation often mixes together. **Practitioners and educators talk about rank and rent as a method. Operating networks, marketplaces and service platforms reveal the work and commercial units around actual requests.** A course seller's case study can help explain a tactic; it cannot substitute for the buyer, consumer and operating evidence in the rest of the report.
+
 ## Case comparison
 
 | Case                             | Reported result                                             | What survives scrutiny                                                     | Main gap                                                                   |
@@ -62,6 +64,15 @@ buyer problem and capacity
 The usual rank-and-rent story reverses the first three steps and can strand the asset.
 
 ## The people and their incentives
+
+### Operating networks and service businesses
+
+- **Leads.io / Boiler Guide / GreenMatch:** related parent and consumer brands combining owned media, useful category content, structured requests, qualification and bounded provider matching.
+- **Leads 2 Trade:** home-improvement network describing in-house call qualification, live transfer and booked appointments.
+- **iLeads and Lead Pronto:** current lead suppliers exposing routing, credits and a commercial ladder from raw lead through appointment to managed buyer campaign.
+- **Fantastic Services and British Gas HomeCare:** downstream competitors that coordinate or own fulfilment and can retain the consumer relationship beyond one enquiry.
+
+These sources are still first-party. Their value is not that every claim should be believed; it is that they expose staff roles, handoffs, charging units and product depth that a rent figure hides. The full relationships and limitations sit in the [operator atlas](../evidence/operator-atlas.csv).
 
 ### UK operator ecosystem
 
