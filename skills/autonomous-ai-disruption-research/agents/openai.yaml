@@ -1,0 +1,8 @@
+interface:
+  display_name: "Autonomous AI-Disruption Research"
+  short_description: "Advance evidence-led AI disruption papers"
+  brand_color: "#D6FF55"
+  default_prompt: "Use $autonomous-ai-disruption-research to advance the next eligible paper to its next evidence gate."
+
+policy:
+  allow_implicit_invocation: true

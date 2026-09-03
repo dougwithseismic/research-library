@@ -1,0 +1,13 @@
+{
+  "workstreamId": "commercial-premises-compliance-ai",
+  "status": "framing",
+  "activeGate": "framing",
+  "completedGates": [],
+  "humanSeams": [
+    "Provider and buyer interviews",
+    "Professional legal or regulatory interpretation",
+    "Commercial terms with accredited providers",
+    "Any live acquisition or paid-demand test"
+  ],
+  "updatedAt": "2026-09-03"
+}

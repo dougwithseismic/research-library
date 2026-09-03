@@ -5,6 +5,7 @@ A reusable home for evidence-led commercial research, publication-ready document
 ## Structure
 
 - `publications/` contains one self-contained directory per research project.
+- `research-program/` contains the ordered AI-disruption research queue, decision gates and external evidence seams.
 - `skills/` contains the research contracts used to gather and interpret evidence.
 - `scripts/google-ads-*.mjs` and `scripts/lib/google-ads.mjs` contain the read-only historical keyword-metrics runner.
 - `tooling/companies-house/` contains registry discovery, enrichment and validation tools.
@@ -25,6 +26,9 @@ Never place a credential in a Markdown publication, CSV, generated HTML file or 
 
 ```sh
 pnpm google-ads:volume --help
+pnpm research:program check
+pnpm research:program next
+pnpm research:program init <workstream-id> --dry-run
 pnpm companies-house:leads --help
 pnpm companies-house:city-agencies --help
 pnpm companies-house:export --help

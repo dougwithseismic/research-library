@@ -1,0 +1,29 @@
+{
+  "workstreamId": "commercial-premises-compliance-ai",
+  "title": "The UK Commercial-Premises Compliance Economy",
+  "observedAt": "2026-09-03",
+  "decision": "Determine whether a defensible business should generate demand, manage compliance workflows, partner with accredited providers, acquire an operator, or remain out of the category.",
+  "geography": "United Kingdom",
+  "timeHorizons": ["current", "2028", "2030"],
+  "aiDimensions": [
+    "substitution-risk",
+    "operating-leverage",
+    "proprietary-data-potential",
+    "physical-world-moat",
+    "trust-liability-moat",
+    "defensibility-2028"
+  ],
+  "methods": [],
+  "includedArtifacts": [
+    "manifest.json",
+    "sources.csv",
+    "evidence-ledger.csv",
+    "ai-disruption-ledger.csv",
+    "ai-disruption-scorecard.csv"
+  ],
+  "exclusions": [],
+  "limitations": [
+    "Research is incomplete until every applicable programme gate is satisfied.",
+    "Human evidence seams are not represented as completed interviews, tests, contracts, or professional advice."
+  ]
+}

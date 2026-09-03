@@ -7,6 +7,7 @@
     "build": "node build.mjs",
     "format": "prettier --write . --ignore-unknown",
     "format:check": "prettier --check . --ignore-unknown",
+    "research:program": "node scripts/research-program.mjs",
     "google-ads:auth": "node scripts/google-ads-oauth.mjs",
     "google-ads:volume": "node scripts/google-ads-search-volume.mjs",
     "companies-house:leads": "node scripts/companies-house-virtual-office-leads.mjs",
@@ -14,12 +15,12 @@
     "companies-house:export": "tsx --tsconfig tooling/companies-house/server/tsconfig.json tooling/companies-house/server/src/jobs/export-report-financials.ts",
     "companies-house:enrich-csv": "node scripts/enrich-company-evidence-csv.mjs",
     "companies-house:validate-csv": "node scripts/validate-company-evidence-csv.mjs",
-    "test": "node --test scripts/google-ads.test.mjs scripts/companies-house-city-agency-census.test.mjs",
+    "test": "node --test scripts/google-ads.test.mjs scripts/companies-house-city-agency-census.test.mjs scripts/research-program.test.mjs",
     "test:companies-house:core": "vitest run tooling/companies-house/server/src/lib/companies-house",
     "check-types": "tsc --noEmit -p tooling/companies-house/server/tsconfig.json",
     "verify:site": "node scripts/verify-site.mjs",
     "verify:secrets": "node scripts/verify-secrets.mjs",
-    "verify": "pnpm format:check && pnpm test && pnpm test:companies-house:core && pnpm check-types && pnpm build && pnpm verify:site && pnpm verify:secrets"
+    "verify": "pnpm format:check && pnpm research:program check && pnpm test && pnpm test:companies-house:core && pnpm check-types && pnpm build && pnpm verify:site && pnpm verify:secrets"
   },
   "keywords": [
     "market-research",

@@ -34,6 +34,7 @@ Use the smallest set of relevant modules:
 - For Google Ads volumes, CPC, close variants, local geo targeting, or seasonality, read and follow `google-ads-search-volume`. Keep explicit place-name queries separate from generic queries inside a local geo.
 - For UK company search, legal-entity resolution, officers, PSCs, filings, accounts, charges, new-company screens, or raw registry evidence, read and follow `companies-house-research`.
 - For ordinary current company, competitor, product, price, regulation, claim, or website evidence, read and follow `web-evidence-research`. Use `deep-research` only when the user explicitly requests its deeper artifact workflow.
+- For a queued Research Library paper or a market decision whose central question is how AI changes substitution, discovery, operating leverage, or defensibility, read and follow `autonomous-ai-disruption-research` in addition to this skill.
 - For a polished company dossier or standalone HTML account pack, additionally read and follow `build-company-evidence-report`; do not force that presentation layer onto registry-only research.
 - For a keyword-only, registry-only, web-evidence-only, or company-report-only request, use the matching specialist skill directly instead of expanding into this full workflow.
 

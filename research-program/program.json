@@ -1,0 +1,375 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-09-03",
+  "thesis": "Find businesses whose value increases, rather than merely whose labour cost falls, as machine intelligence becomes abundant.",
+  "decision": "Choose, validate, and sequence UK business opportunities by combining commercial evidence with an explicit analysis of AI substitution, interface change, operating leverage, and durable real-world advantages.",
+  "defaults": {
+    "primaryGeography": "United Kingdom",
+    "timeHorizons": ["current", "2028", "2030"],
+    "evidenceClasses": [
+      "observed",
+      "derived",
+      "inference",
+      "unknown",
+      "contradicted"
+    ],
+    "sourceStatuses": [
+      "live-primary",
+      "live-secondary",
+      "redirected",
+      "blocked",
+      "dead",
+      "archived",
+      "discovery-only",
+      "conflicting"
+    ]
+  },
+  "aiDimensions": [
+    {
+      "id": "substitution-risk",
+      "label": "AI substitution risk",
+      "question": "How much of the customer's desired outcome can a model or agent produce without this business?"
+    },
+    {
+      "id": "discovery-disruption",
+      "label": "Discovery disruption",
+      "question": "Can AI answers, recommendations, or summaries remove the visit, enquiry, or comparison step the business currently monetises?"
+    },
+    {
+      "id": "agent-bypass-risk",
+      "label": "Agent bypass risk",
+      "question": "Can a purchasing or scheduling agent transact directly with suppliers and route around the proposed intermediary?"
+    },
+    {
+      "id": "operating-leverage",
+      "label": "AI operating leverage",
+      "question": "Which bounded workflows become faster, cheaper, or more reliable, and who retains the resulting margin?"
+    },
+    {
+      "id": "proprietary-data-potential",
+      "label": "Proprietary data potential",
+      "question": "Does operating the business create verified data unavailable from public sources or generic model training?"
+    },
+    {
+      "id": "physical-world-moat",
+      "label": "Physical-world moat",
+      "question": "Which parts depend on premises, equipment, logistics, inspection, attendance, or local delivery?"
+    },
+    {
+      "id": "trust-liability-moat",
+      "label": "Trust and liability moat",
+      "question": "Where do credentials, accountability, insurance, safety, or legal liability constrain automated substitution?"
+    },
+    {
+      "id": "relationship-moat",
+      "label": "Relationship moat",
+      "question": "How much value sits in repeat customers, suppliers, venues, dealers, buyers, or other relationships that an answer interface does not own?"
+    },
+    {
+      "id": "platform-dependency",
+      "label": "Platform dependency",
+      "question": "How exposed is the model to search engines, marketplaces, feeds, model providers, or a single acquisition channel?"
+    },
+    {
+      "id": "defensibility-2028",
+      "label": "Defensibility in 2028",
+      "question": "After plausible adoption by customers and incumbents, what scarce asset or capability remains?"
+    }
+  ],
+  "gates": [
+    {
+      "id": "framing",
+      "exitCriterion": "The decision unit, buyer, geography, time horizon, counterfactual, exclusions, and stopping rule are explicit."
+    },
+    {
+      "id": "baseline",
+      "exitCriterion": "The present value chain, demand, supply, economics, regulation, and evidence gaps are mapped without AI assumptions."
+    },
+    {
+      "id": "disruption",
+      "exitCriterion": "Every material AI impact has an actor, mechanism, time horizon, evidence class, countervailing force, and observable indicator."
+    },
+    {
+      "id": "economics",
+      "exitCriterion": "Conservative, base, and upside cases show who captures savings or new revenue and what changes under agent bypass."
+    },
+    {
+      "id": "adversarial",
+      "exitCriterion": "The strongest disconfirming evidence, incumbent response, failure modes, and kill conditions have been tested."
+    },
+    {
+      "id": "synthesis",
+      "exitCriterion": "The paper makes a clear build, test, defer, acquire, or reject decision and identifies the next reversible action."
+    },
+    {
+      "id": "validation",
+      "exitCriterion": "Artifacts parse, calculations reconcile, consequential links are checked, secrets are absent, and unknowns remain visible."
+    }
+  ],
+  "workstreams": [
+    {
+      "id": "commercial-premises-compliance-ai",
+      "priority": 1,
+      "type": "flagship-paper",
+      "title": "The UK Commercial-Premises Compliance Economy",
+      "workingSubtitle": "What must be done, what must be bought, and what AI can actually change",
+      "slug": "commercial-premises-compliance-ai-2026",
+      "status": "in-progress",
+      "decision": "Determine whether a defensible business should generate demand, manage compliance workflows, partner with accredited providers, acquire an operator, or remain out of the category.",
+      "inputs": [
+        "publications/rank-and-rent-uk-2026",
+        "publications/rank-and-rent-uk-2026/series/11-companies-house-cpc-and-buyer-economics.md"
+      ],
+      "aiFocus": [
+        "substitution-risk",
+        "operating-leverage",
+        "proprietary-data-potential",
+        "physical-world-moat",
+        "trust-liability-moat",
+        "defensibility-2028"
+      ],
+      "autonomousScope": [
+        "Map obligations by jurisdiction and distinguish required activity from required third-party spend",
+        "Compare provider supply, credentials, public pricing, filed-company evidence, and software incumbents",
+        "Model one-off, event-triggered, and recurring service economics",
+        "Test AI-assisted administration, evidence review, triage, and reporting against liability and competence boundaries"
+      ],
+      "humanSeams": [
+        "Provider and buyer interviews",
+        "Professional legal or regulatory interpretation",
+        "Commercial terms with accredited providers",
+        "Any live acquisition or paid-demand test"
+      ],
+      "requiredArtifacts": [
+        "research-state.json",
+        "evidence/manifest.json",
+        "evidence/sources.csv",
+        "evidence/evidence-ledger.csv",
+        "evidence/ai-disruption-ledger.csv",
+        "evidence/ai-disruption-scorecard.csv"
+      ],
+      "stopCondition": "Stop or narrow the thesis if external paid provision is not structurally necessary, credible providers cannot retain attractive contribution after acquisition cost, or liability cannot be bounded without owning regulated delivery."
+    },
+    {
+      "id": "regional-city-social-infrastructure-ai",
+      "priority": 2,
+      "type": "decision-paper",
+      "title": "The Regional City Opportunity Atlas",
+      "workingSubtitle": "Where physical social infrastructure remains valuable as digital companionship improves",
+      "slug": "regional-city-social-infrastructure-ai-2026",
+      "status": "queued",
+      "decision": "Choose one UK city or compact urban cluster, initial audience, venue pattern, and six-week programme for an interest-led social-events pilot.",
+      "inputs": [
+        "publications/events-economy-2026",
+        "publications/events-economy-2026/series/23-the-revised-founder-strategy.md"
+      ],
+      "aiFocus": [
+        "substitution-risk",
+        "discovery-disruption",
+        "operating-leverage",
+        "physical-world-moat",
+        "relationship-moat",
+        "defensibility-2028"
+      ],
+      "autonomousScope": [
+        "Build a consistent city scorecard covering reachable audience, participation, supply, transport, venue economics, competition, and repeat-density potential",
+        "Separate social-need evidence from willingness to pay",
+        "Compare AI-assisted programming, discovery, matching, and follow-up with the irreducible work of hosting and city liquidity",
+        "Produce a launch recommendation with sensitivity and kill conditions"
+      ],
+      "humanSeams": [
+        "Attendee, venue, host, and non-returner interviews",
+        "Venue quotations and availability holds",
+        "Ticket sales or paid acquisition tests",
+        "Delivery of a live event"
+      ],
+      "requiredArtifacts": [
+        "research-state.json",
+        "evidence/manifest.json",
+        "evidence/sources.csv",
+        "evidence/evidence-ledger.csv",
+        "evidence/ai-disruption-ledger.csv",
+        "evidence/ai-disruption-scorecard.csv"
+      ],
+      "stopCondition": "Do not recommend a city unless it has a plausible reachable cohort, workable venue and transport pattern, evidence of paid participation, and a path to repeated rather than one-off attendance."
+    },
+    {
+      "id": "specialist-equipment-marketplaces-ai",
+      "priority": 3,
+      "type": "flagship-paper",
+      "title": "Vertical Marketplaces After Shopping Agents",
+      "workingSubtitle": "Specialist equipment, private inventory, inspection, finance, and fulfilment",
+      "slug": "specialist-equipment-marketplaces-ai-2026",
+      "status": "queued",
+      "decision": "Determine whether small plant and smallholding equipment can support a marketplace whose inventory, verification, and transaction services remain useful when agents can compare public listings directly.",
+      "inputs": [
+        "publications/product-aggregator-2026",
+        "publications/product-aggregator-2026/series/07-land-and-smallholding-equipment.md"
+      ],
+      "aiFocus": [
+        "discovery-disruption",
+        "agent-bypass-risk",
+        "operating-leverage",
+        "proprietary-data-potential",
+        "physical-world-moat",
+        "relationship-moat",
+        "platform-dependency",
+        "defensibility-2028"
+      ],
+      "autonomousScope": [
+        "Map new, used, private, dealer, auction, hire, finance, inspection, transport, and servicing purchase paths",
+        "Measure public inventory liquidity without treating duplicated listings as independent supply",
+        "Identify which data and transaction services a shopping agent cannot reproduce from public pages",
+        "Model listing, subscription, lead, finance-referral, inspection, and transaction revenue"
+      ],
+      "humanSeams": [
+        "Dealer and buyer interviews",
+        "Access to private inventory feeds",
+        "Finance, inspection, warranty, or transport partnerships",
+        "A live marketplace liquidity test"
+      ],
+      "requiredArtifacts": [
+        "research-state.json",
+        "evidence/manifest.json",
+        "evidence/sources.csv",
+        "evidence/evidence-ledger.csv",
+        "evidence/ai-disruption-ledger.csv",
+        "evidence/ai-disruption-scorecard.csv"
+      ],
+      "stopCondition": "Reject the marketplace thesis if public listing aggregation is the principal value, dealer supply is too concentrated, or agents can access equivalent inventory and services without the proposed operator."
+    },
+    {
+      "id": "buying-boring-businesses-ai",
+      "priority": 4,
+      "type": "cross-series-paper",
+      "title": "Buying Boring Businesses in an AI Economy",
+      "workingSubtitle": "When to generate demand, partner, build delivery, or acquire the fulfilment layer",
+      "slug": "buying-boring-businesses-ai-2026",
+      "status": "queued",
+      "decision": "Establish which small UK operating businesses become materially more valuable under bounded AI-enabled process improvements and whether acquisition outperforms greenfield entry.",
+      "inputs": [
+        "publications/rank-and-rent-uk-2026",
+        "commercial-premises-compliance-ai"
+      ],
+      "dependsOn": ["commercial-premises-compliance-ai"],
+      "aiFocus": [
+        "substitution-risk",
+        "operating-leverage",
+        "proprietary-data-potential",
+        "physical-world-moat",
+        "trust-liability-moat",
+        "relationship-moat",
+        "defensibility-2028"
+      ],
+      "autonomousScope": [
+        "Compare lead sale, revenue share, joint venture, greenfield delivery, asset purchase, and share purchase",
+        "Build operating-improvement cases for quoting, scheduling, routing, reporting, renewal, and customer communication",
+        "Distinguish broker asking prices, filed financial evidence, and completed transaction evidence",
+        "Model owner dependence, credential continuity, customer concentration, working capital, and downside cases"
+      ],
+      "humanSeams": [
+        "Proprietor, broker, lender, and acquisition interviews",
+        "Access to confidential deal materials",
+        "Legal, tax, financing, and regulated-industry advice",
+        "Any offer, negotiation, or transaction"
+      ],
+      "requiredArtifacts": [
+        "research-state.json",
+        "evidence/manifest.json",
+        "evidence/sources.csv",
+        "evidence/evidence-ledger.csv",
+        "evidence/ai-disruption-ledger.csv",
+        "evidence/ai-disruption-scorecard.csv"
+      ],
+      "stopCondition": "Do not recommend acquisition where improvement depends mainly on replacing trusted staff, where credentials or customer relationships do not transfer, or where the valuation assumes unverified AI savings."
+    },
+    {
+      "id": "commercial-signals-ai",
+      "priority": 5,
+      "type": "flagship-paper",
+      "title": "From Public Records to Proprietary Intelligence",
+      "workingSubtitle": "Building a commercial-signals business after generic research becomes abundant",
+      "slug": "commercial-signals-ai-2026",
+      "status": "queued",
+      "decision": "Determine whether monitored, source-linked commercial evidence can support a subscription or workflow product without misrepresenting registry activity as trading quality or buying intent.",
+      "inputs": [
+        "skills/companies-house-research",
+        "skills/web-evidence-research",
+        "skills/market-opportunity-research"
+      ],
+      "aiFocus": [
+        "substitution-risk",
+        "discovery-disruption",
+        "agent-bypass-risk",
+        "operating-leverage",
+        "proprietary-data-potential",
+        "trust-liability-moat",
+        "platform-dependency",
+        "defensibility-2028"
+      ],
+      "autonomousScope": [
+        "Compare public-record summaries with monitored identity resolution, change detection, lineage, and verified outcome data",
+        "Map buyer workflows where timeliness and auditability matter more than generated prose",
+        "Evaluate subscription, alerting, dataset, evidence-pack, and analyst-assisted revenue",
+        "Define privacy, provenance, correction, and confidence controls"
+      ],
+      "humanSeams": [
+        "Buyer discovery interviews",
+        "Access to customer workflow or outcome data",
+        "Data-protection and sector-specific legal review",
+        "Sales, outreach, CRM changes, or subscription launch"
+      ],
+      "requiredArtifacts": [
+        "research-state.json",
+        "evidence/manifest.json",
+        "evidence/sources.csv",
+        "evidence/evidence-ledger.csv",
+        "evidence/ai-disruption-ledger.csv",
+        "evidence/ai-disruption-scorecard.csv"
+      ],
+      "stopCondition": "Reject any proposition whose output is reproducible from one public source and a generic model, or whose value depends on inferring intent from registry evidence."
+    },
+    {
+      "id": "empirical-ai-discovery-performance",
+      "priority": 6,
+      "type": "cross-series-paper",
+      "title": "Commercial Discovery After Generative Search",
+      "workingSubtitle": "Observed visibility, visits, actions, and revenue across real properties",
+      "slug": "commercial-discovery-generative-search-2027",
+      "status": "blocked-external",
+      "decision": "Measure which original evidence, tools, transactional pages, and local utilities continue to earn commercially valuable discovery through classic and generative search.",
+      "inputs": [
+        "At least one operating property with sufficient Search Console and conversion history"
+      ],
+      "dependsOn": [],
+      "blockedReason": "No qualifying first-party property history is currently available in this repository.",
+      "aiFocus": [
+        "discovery-disruption",
+        "agent-bypass-risk",
+        "proprietary-data-potential",
+        "platform-dependency",
+        "defensibility-2028"
+      ],
+      "autonomousScope": [
+        "Define the measurement design and comparable page cohorts",
+        "Analyse consented first-party Search Console and conversion exports once supplied",
+        "Separate visibility, visits, assisted actions, direct transactions, and revenue",
+        "Compare original evidence and tools with commodity informational content"
+      ],
+      "humanSeams": [
+        "Provide authorised, privacy-safe first-party exports",
+        "Confirm the relevant conversion and revenue definitions",
+        "Authorise any analytics account access"
+      ],
+      "requiredArtifacts": [
+        "research-state.json",
+        "evidence/manifest.json",
+        "evidence/sources.csv",
+        "evidence/evidence-ledger.csv",
+        "evidence/ai-disruption-ledger.csv",
+        "evidence/ai-disruption-scorecard.csv"
+      ],
+      "stopCondition": "Do not replace missing first-party performance with third-party traffic estimates or platform anecdotes."
+    }
+  ]
+}
