@@ -287,7 +287,7 @@ function pageTemplate({ publication, page, body, headings, faqs = [], index }) {
     <aside class="site-nav" id="site-nav">
       <div class="nav-header">
         <a class="library-mark" href="${assetPrefix}index.html"><span>R</span><strong>Research<br>Library</strong></a>
-        <p>Decision-grade commercial research with the evidence left attached.</p>
+        <p>Independent commercial research for decisions that matter.</p>
       </div>
       <div class="publication-label"><span>${escapeHtml(publication.eyebrow)}</span><strong>${escapeHtml(publication.shortTitle)}</strong></div>
       <label class="nav-search"><span class="sr-only">Filter chapters</span><input type="search" placeholder="Filter chapters…" autocomplete="off"></label>
@@ -466,7 +466,7 @@ function libraryHome(publications) {
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Research Library — Commercial decisions with evidence</title>
+  <title>Research Library — Independent commercial research</title>
   <meta name="description" content="Decision-grade commercial research with methods, source ledgers, calculations and uncertainty left attached.">
   <meta name="theme-color" content="#111713">
   <link rel="canonical" href="${SITE_URL}/">
@@ -479,7 +479,7 @@ function libraryHome(publications) {
   <main>
     <section class="home-hero">
       <p class="eyebrow">Independent research archive / 2026</p>
-      <h1>Commercial decisions,<br><em>with the evidence left attached.</em></h1>
+      <h1>Find out what matters<br><em>before it costs you.</em></h1>
       <p>Long-form market research built from current sources, reproducible demand data and explicit uncertainty—not a slide deck of unsupported conclusions.</p>
       <dl><div><dt>${publications.length}</dt><dd>Published series</dd></div><div><dt>${publications.reduce((sum, publication) => sum + publication.pages.length - 1, 0)}</dt><dd>Research chapters</dd></div><div><dt>UK</dt><dd>Primary market</dd></div></dl>
     </section>
