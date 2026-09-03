@@ -177,3 +177,29 @@ I would stop or narrow the company if any of these holds after the bounded valid
 ## The recommendation
 
 Proceed to a 50-site, partner-led design programme. Sell evidence control and accountable coordination, not automated compliance. Keep the first AI releases in retrieval, extraction and drafting; release bounded agents only after deterministic rules and zero-tolerance safety tests pass. Defer pure SaaS and acquisition until real customer, provider, quality and contribution evidence changes the decision.
+
+## Publication schema template
+
+The static-site build supplies the matching Article structured data. This source template keeps the editorial artifact independently checkable and is removed from the rendered chapter.
+
+```json
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "How I Would Enter Commercial-Premises Compliance",
+    "description": "A research-led entry plan for managed UK commercial-premises compliance, with provider partnerships, evidence controls and bounded AI automation.",
+    "datePublished": "2026-09-03",
+    "dateModified": "2026-09-03",
+    "author": {
+      "@type": "Organization",
+      "name": "Research Library"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Research Library"
+    },
+    "mainEntityOfPage": "https://dougwithseismic.github.io/research-library/commercial-premises-compliance-ai-2026/01-how-i-would-enter-commercial-premises-compliance.html"
+  }
+]
+```
