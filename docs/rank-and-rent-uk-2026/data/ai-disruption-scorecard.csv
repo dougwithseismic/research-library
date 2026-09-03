@@ -1,0 +1,12 @@
+dimension,score,weight,weightedScore,confidence,supportingImpactIds,unknowns,interpretation
+substitution-risk,4,1,4,high,RAI01,"Local-service conversion effects by query","High for generic information and lower for action"
+generated-content-supply,5,1,5,high,RAI02,"Scale and quality of new competing supply","Commodity location content is abundant"
+discovery-disruption,4,1,4,high,RAI03,"First-party surface-level accepted leads","Organic visits face material interface pressure"
+agent-bypass-risk,4,1,4,medium,RAI04,"UK agent-led enquiry and booking adoption","Platforms can own more qualification"
+operating-leverage,3,1,3,medium,RAI05,"Net quality-adjusted labour saving","Bounded lead operations can improve"
+proprietary-data-potential,4,1,4,medium,RAI06,"Outcome completeness and scale","Strong potential but not a current asset"
+physical-world-moat,5,1,5,high,RAI07,"Provider margin capacity and completion","Service delivery remains physical"
+trust-liability-moat,4,1,4,medium,RAI08,"Buyer and consumer value from verification","Synthetic claims can increase verification value"
+relationship-moat,4,1,4,medium,RAI09,"Buyer renewal and contracted access","Direct buyer access survives interface change"
+platform-dependency,5,1,5,high,RAI10,"Future source concentration","Search dependence remains the central risk"
+defensibility-2028,3,1,3,medium,RAI11,"Successful accumulation of scarce assets","Viable only beyond the page-and-rank model"

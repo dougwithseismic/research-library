@@ -74,7 +74,7 @@ London remains the expensive scale market. Bristol has the highest weighted CPC 
 - `commercial cleaning Edinburgh`: 2,900 at £14.32, but April 2026 alone reports 22,200.
 - The expanded cleaning basket totals 6,210 across four overlapping returned rows and peaks at 44,440 in April, 7.87 times its monthly mean.
 - The generic cleaning basket inside Edinburgh totals only 90 and reports no average CPC.
-- The expanded boiler basket returns £19.04 explicit-city and £16.89 local-geo weighted CPC.
+- The final expanded boiler basket returns £19.39 explicit-city and £13.67 local-geo weighted CPC.
 
 The first row made Edinburgh appear to be the strongest learning city. The cross-method result reverses that confidence: cleaning is paused, while boilers remain a credible buyer-led test. `removal company Edinburgh` also needs the same local-geo and seasonality challenge before it can inherit the top position.
 
@@ -86,7 +86,7 @@ The first row made Edinburgh appear to be the strongest learning city. The cross
 
 Manchester supports a credible B2B compliance hypothesis. The organic result sample also contains institutional information, so the lead site must add premises-specific decision value.
 
-Expanded intent strengthens the commercial signal. Fire-risk assessment returns a 540-search explicit keyword basket at £26.51 weighted CPC and a 210-search local-geo basket at £11.57. Asbestos returns 270 at £20.95 and 220 at £16.23 respectively. These are overlapping keyword baskets, but the agreement across methods is stronger than Edinburgh cleaning.
+Expanded intent strengthens the commercial signal. The final fire-risk set returns a 550-search explicit keyword basket at £26.02 weighted CPC and a 280-search local-geo basket at £9.10. Asbestos returns 290 at £19.50 and 290 at £13.31 respectively. These are overlapping keyword baskets, but the agreement across methods is stronger than Edinburgh cleaning.
 
 ### Bristol
 
@@ -97,7 +97,7 @@ Expanded intent strengthens the commercial signal. Fire-risk assessment returns 
 
 Bristol can test how different job value and urgency alter the same city's economics. It should not be one catch-all trades brand.
 
-The local-geo drainage basket returns 450 average monthly searches at £8.34 weighted CPC. Its monthly mean is 454 and peak 550, making it the steadiest priority history. Loft conversion returns a 310-search local basket at £7.21; its slower buying cycle remains the bigger commercial constraint.
+The final local-geo drainage basket returns 690 average monthly searches at £6.66 weighted CPC. It remains the strongest fast-cycle validation cell. Loft conversion returns a 310-search local basket at £7.21 in the earlier priority screen; its slower buying cycle remains the bigger commercial constraint.
 
 ### Nottingham and Southampton
 

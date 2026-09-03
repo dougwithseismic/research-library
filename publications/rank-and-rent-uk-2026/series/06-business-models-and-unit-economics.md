@@ -103,7 +103,7 @@ break-even media CPC
 = accepted-lead price × paid-click-to-accepted-lead rate
 ```
 
-At £60 per accepted lead and a 12% conversion rate, break-even media CPC before overhead is £7.20. The deeper local-geo weighted CPCs are £11.57 for Manchester fire risk, £16.23 for Manchester asbestos, £8.34 for Bristol drainage and £16.89 for Edinburgh boilers. To buy that traffic sustainably, the business needs a much higher accepted event value, a materially stronger conversion rate, or participation in downstream job economics.
+At £60 per accepted lead and a 12% conversion rate, break-even media CPC before overhead is £7.20. The final expanded local-geo weighted CPCs are £9.10 for Manchester fire risk, £13.31 for Manchester asbestos, £6.66 for Bristol drainage and £13.67 for Edinburgh boilers. To buy that traffic sustainably, the business needs a much higher accepted event value, a materially stronger conversion rate, or participation in downstream job economics.
 
 This is why CPC should be read as evidence that somebody values the customer, not evidence that a publisher can buy the click and resell the lead.
 

@@ -1,0 +1,9 @@
+query_or_asset,ai_substitution_risk,local_pack_or_lsa_pressure,first_party_data_opportunity,conversion_proximity,recommended_asset,measurement,evidence_class
+generic_cost_question,high,low,medium,low,"Evidence-led calculator with dated local inputs and disclosed method",AI_visibility_citations_assisted_clicks_and_quote_starts,inference
+what_is_or_do_i_need_question,high,low,high,medium,"Decision tree using regulator and practitioner evidence then handoff",assisted_conversions_and_answer_completion,inference
+city_service_category,medium,high,high,high,"Real supplier coverage pricing ranges response-time evidence and transparent ownership",calls_forms_local_pack_share_and_LSA_presence,inference
+urgent_near_me_request,low_to_medium,very_high,medium,very_high,"Fast mobile call path live coverage status and verified response SLA",connected_calls_missed_calls_and_booked_jobs,inference
+quote_comparison_request,medium,high,very_high,very_high,"Structured brief provider comparison and auditable matching rules",completed_briefs_acceptance_rate_and_won_jobs,inference
+regulated_service_checklist,medium,medium,very_high,high,"Primary checklist credential verification and document capture",qualified_cases_compliance_errors_and_partner_acceptance,inference
+provider_profile_or_review,medium,high,very_high,high,"Verified identity service area credentials review provenance and update history",profile_engagement_contact_rate_and_review_disputes,inference
+brand_navigation,low,medium,high,high,"Memorable brand entity consistency and direct repeat channels",branded_search_direct_return_and_partner_referrals,inference

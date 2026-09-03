@@ -43,7 +43,17 @@
 <a class="nav-link" href="08-acquisition-funnel-and-operations.html"><span>08</span>Acquisition and ops</a>
 <p class="nav-section">Controls</p><a class="nav-link" href="09-compliance-trust-and-failure-modes.html"><span>09</span>Compliance and risk</a>
 <p class="nav-section">Decision</p><a class="nav-link" href="10-validation-and-launch-plan.html"><span>10</span>Launch plan</a>
-<a class="nav-link" href="11-companies-house-cpc-and-buyer-economics.html"><span>11</span>Companies and CPC economics</a></nav>
+<a class="nav-link" href="11-companies-house-cpc-and-buyer-economics.html"><span>11</span>Companies and CPC economics</a>
+<p class="nav-section">Market structure</p><a class="nav-link" href="12-market-structure-and-value-chain.html"><span>12</span>Value chain</a>
+<a class="nav-link" href="13-thirty-two-operator-atlas.html"><span>13</span>Operator atlas</a>
+<a class="nav-link" href="14-platform-financials-and-business-model-economics.html"><span>14</span>Platform financials</a>
+<p class="nav-section">Commercial design</p><a class="nav-link" href="15-buyer-demand-segmentation-and-willingness-to-pay.html"><span>15</span>Buyer demand</a>
+<a class="nav-link" href="16-four-priority-market-dossiers.html"><span>16</span>Market dossiers</a>
+<a class="nav-link" href="17-forty-model-revenue-playbook.html"><span>17</span>Revenue playbook</a>
+<p class="nav-section">Operating system</p><a class="nav-link" href="18-the-lead-operating-system.html"><span>18</span>Lead operating system</a>
+<a class="nav-link" href="19-ai-search-local-services-and-the-2030-moat.html"><span>19</span>AI and the moat</a>
+<p class="nav-section">Strategy</p><a class="nav-link" href="20-portfolio-capital-and-value-destruction.html"><span>20</span>Capital and failure</a>
+<a class="nav-link" href="21-primary-research-and-revised-founder-strategy.html"><span>21</span>Research and strategy</a></nav>
       <div class="nav-footer"><a href="data/index.html">Download evidence</a><a href="https://github.com/dougwithseismic/research-library/blob/main/publications/rank-and-rent-uk-2026/series/02-method-and-evidence-boundaries.md">View Markdown</a></div>
     </aside>
     <main class="main-column" id="content">
@@ -52,7 +62,7 @@
           <p class="eyebrow">Commercial research series <span>/</span> 02</p>
           <h1>Method and Evidence Boundaries</h1>
           <p class="dek">How the broad, local-geo and priority Google Ads screens, filed accounts, live sources, cases and result samples were collected and interpreted.</p>
-          <dl class="article-facts"><div><dt>Geography</dt><dd>United Kingdom</dd></div><div><dt>Research date</dt><dd>2026-09-03</dd></div><div><dt>Status</dt><dd>Internal research</dd></div></dl>
+          <dl class="article-facts"><div><dt>Geography</dt><dd>United Kingdom</dd></div><div><dt>Research date</dt><dd>2026-09-03</dd></div><div><dt>Status</dt><dd>Published research</dd></div></dl>
         </header>
         <div class="article-body"><h2 id="decision-question"><a class="heading-anchor" href="#decision-question">Decision question<span aria-hidden="true">#</span></a></h2>
 <p>The research asks whether a UK local lead-generation or rank-and-rent business is investable in 2026, which niches and locations deserve validation, what revenue model fits each service shape, and how Google Business Profile rules and AI search alter the old playbook.</p>
@@ -114,6 +124,22 @@
 <td>Expanded priority rows</td>
 <td>37 explicit and 37 local-geo</td>
 </tr>
+<tr>
+<td>Final four-cell depth rows</td>
+<td>49 explicit and 50 local-geo</td>
+</tr>
+<tr>
+<td>Buyer-acquisition rows</td>
+<td>33</td>
+</tr>
+<tr>
+<td>Platform-brand rows</td>
+<td>17</td>
+</tr>
+<tr>
+<td>Retained rows across overlapping sets</td>
+<td>1,347</td>
+</tr>
 </tbody></table></div>
 <p>Every niche used one canonical phrase and every city used the same basket. Examples are <code>commercial cleaning Edinburgh</code>, <code>fire risk assessment Manchester</code> and <code>drain unblocking Bristol</code>. The national layer submitted <code>commercial cleaning</code> and <code>commercial cleaning near me</code> separately.</p>
 <p>The full observations are in:</p>
@@ -126,12 +152,18 @@
 <li><a href="data/google-ads-priority-intent-screen.csv"><code>google-ads-priority-intent-screen.csv</code></a></li>
 <li><a href="data/google-ads-priority-local-geo-intent-screen.csv"><code>google-ads-priority-local-geo-intent-screen.csv</code></a></li>
 <li><a href="data/google-ads-priority-cluster-summary.csv"><code>google-ads-priority-cluster-summary.csv</code></a></li>
+<li><a href="data/google-ads-priority-depth-explicit.csv"><code>google-ads-priority-depth-explicit.csv</code></a></li>
+<li><a href="data/google-ads-priority-depth-local-geo.csv"><code>google-ads-priority-depth-local-geo.csv</code></a></li>
+<li><a href="data/google-ads-buyer-intent-screen.csv"><code>google-ads-buyer-intent-screen.csv</code></a></li>
+<li><a href="data/google-ads-platform-brand-demand.csv"><code>google-ads-platform-brand-demand.csv</code></a></li>
+<li><a href="data/google-ads-depth-cluster-summary.csv"><code>google-ads-depth-cluster-summary.csv</code></a></li>
 </ul>
 <h2 id="why-the-two-geographic-methods-are-not-interchangeable"><a class="heading-anchor" href="#why-the-two-geographic-methods-are-not-interchangeable">Why the two geographic methods are not interchangeable<span aria-hidden="true">#</span></a></h2>
 <p>An explicit city query under UK targeting measures people in the UK searching a phrase that includes the city. A generic query measured inside a city geo target would measure people Google associates with that location searching the generic service phrase.</p>
 <p>Both are valid. They answer different questions.</p>
 <p>The deeper pass retained a local-geo cross-check using Google&#39;s active 2026 city criteria. It first submitted 16 generic priority services inside each of nine cities. It then submitted expanded variants for seven priority city-niche clusters through both methods. Agreement increases confidence that paid commercial intent exists; disagreement triggers query-grouping, seasonality and real-impression validation.</p>
 <p>The first local-geo attempt returned <code>RESOURCE_EXHAUSTED</code>. Google documents <code>GenerateKeywordHistoricalMetrics</code> at one request per second per customer ID on a rolling 60-second interval. It separately documents daily operation allowances by developer-token access level. Requests succeeded after adding 1.5-second pacing and one ten-second retry. The failure was therefore a transient rate-limit event, not evidence that the account had no keyword requests remaining. <a href="https://developers.google.com/google-ads/api/docs/best-practices/quotas" class="external" rel="noreferrer">Google Ads quota documentation</a></p>
+<p>The final depth run broadened only the four recommended cells. Buyer-acquisition queries and platform-brand queries were placed in separate clusters so that contractor demand for leads could not be confused with homeowner service demand or consumer navigation. “Retained rows” is a research-workload count; overlapping keyword sets make it unusable as a demand total.</p>
 <h2 id="what-each-metric-means"><a class="heading-anchor" href="#what-each-metric-means">What each metric means<span aria-hidden="true">#</span></a></h2>
 <p><strong>Average monthly searches</strong> are rounded historical averages returned by Google. They are not a forecast, addressable traffic or unique people.</p>
 <p><strong>Average CPC</strong> is a paid-search auction observation in the working account currency. It is not a lead price, contractor margin or the cost of ranking organically.</p>
@@ -152,9 +184,14 @@
 <p>Public case studies were retained even where weak because the weakness is decision-relevant. Every case records whether the source is an operator, course seller, network or community poster and what could not be verified.</p>
 <p>The live result sample is deliberately called a <strong>web result sample</strong>, not a Google SERP audit. It was not geolocated to target postcodes, personalised, or used to scrape Google automatically. It identifies visible competitor types and propositions, not definitive rank positions.</p>
 <h2 id="companies-house-method"><a class="heading-anchor" href="#companies-house-method">Companies House method<span aria-hidden="true">#</span></a></h2>
-<p>The deeper pass used only read-only public Companies House endpoints and official filed-account documents. It did not query a project database or Supabase. Five lead marketplaces and 18 initially selected local suppliers were resolved by company number; one additional Jackson entity was captured after a Manchester website footer exposed an identity mismatch.</p>
+<p>The deeper pass used only read-only public Companies House endpoints and official filed-account documents. It did not query a project database or Supabase. Five lead marketplaces and 18 initially selected local suppliers were resolved by company number; one additional Jackson entity was captured after a Manchester website footer exposed an identity mismatch. A subsequent platform pass captured nine further legal entities around Yell, FMB, Airtasker, Houzz, Which, BookaBuilder and HaMuch. The public financial comparison includes only entities whose selected filing supported a useful, correctly bounded observation.</p>
 <p>Public derived files exclude officers and people with significant control. They retain registered name, company number, filing period, selected financial metrics, extraction method, source links, parser warnings and trading-identity state. Raw captures remain under <code>private-data/</code>.</p>
 <p>Most small-company filings do not disclose turnover or a profit-and-loss account. Missing values remain blank, not zero. Three PDF or XHTML accounts required manual transcription of selected headline metrics, and that method is stated row by row. Companies House states that it does not independently verify the accuracy of company-filed information. The registry establishes legal and filing evidence; it does not establish service quality, geographic coverage, buying intent or present financial performance. <a href="https://www.gov.uk/government/publications/incorporated-companies-in-the-uk-by-jurisdiction-and-month-quality-and-methods-guide/quality-and-methods-guide" class="external" rel="noreferrer">Companies House quality and methods guide</a></p>
+<h2 id="landscape-and-financial-comparison-method"><a class="heading-anchor" href="#landscape-and-financial-comparison-method">Landscape and financial comparison method<span aria-hidden="true">#</span></a></h2>
+<p>The 32-operator atlas is a purposive strategic sample, not a census. Operators were selected to expose different layers and charging units. Public product and pricing pages establish what each operator says it sells; they do not verify retention, conversion or customer results.</p>
+<p>The platform financial comparison normalises latest available filed figures where disclosure permits. Turnover is never replaced with a balance-sheet proxy. Period duration, year end, geography, company boundary, product mix, employee disclosure and manual extraction limitations are retained. Adding disclosed turnover is used only to demonstrate economic scale and is explicitly not market sizing.</p>
+<h2 id="modelled-datasets"><a class="heading-anchor" href="#modelled-datasets">Modelled datasets<span aria-hidden="true">#</span></a></h2>
+<p>Buyer segments, market-dossier price bands, revenue architectures, AI risk and capital scenarios are inference or assumption layers. They are published as CSVs so inputs can be challenged. None becomes observed simply because it is formatted as a number.</p>
 <h2 id="evidence-hierarchy"><a class="heading-anchor" href="#evidence-hierarchy">Evidence hierarchy<span aria-hidden="true">#</span></a></h2>
 <ol>
 <li>Official policy, regulator guidance and project Google Ads data.</li>
@@ -187,7 +224,7 @@
         <a class="next" href="03-case-studies-and-who-is-talking.html"><span>Next</span><strong>Cases and voices</strong></a>
       </nav>
     </main>
-    <aside class="page-toc" aria-label="On this page"><p>On this page</p><nav><a href="#decision-question">Decision question</a><a href="#google-ads-method">Google Ads method</a><a href="#why-the-two-geographic-methods-are-not-interchangeable">Why the two geographic methods are not interchangeable</a><a href="#what-each-metric-means">What each metric means</a><a href="#overlap-and-close-variants">Overlap and close variants</a><a href="#live-web-method">Live-web method</a><a href="#companies-house-method">Companies House method</a><a href="#evidence-hierarchy">Evidence hierarchy</a><a href="#material-limitations">Material limitations</a></nav></aside>
+    <aside class="page-toc" aria-label="On this page"><p>On this page</p><nav><a href="#decision-question">Decision question</a><a href="#google-ads-method">Google Ads method</a><a href="#why-the-two-geographic-methods-are-not-interchangeable">Why the two geographic methods are not interchangeable</a><a href="#what-each-metric-means">What each metric means</a><a href="#overlap-and-close-variants">Overlap and close variants</a><a href="#live-web-method">Live-web method</a><a href="#companies-house-method">Companies House method</a><a href="#landscape-and-financial-comparison-method">Landscape and financial comparison method</a><a href="#modelled-datasets">Modelled datasets</a><a href="#evidence-hierarchy">Evidence hierarchy</a><a href="#material-limitations">Material limitations</a></nav></aside>
   </div>
 </body>
 </html>

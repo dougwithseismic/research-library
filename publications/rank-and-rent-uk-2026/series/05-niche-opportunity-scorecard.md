@@ -22,7 +22,7 @@ The deeper pass added a non-scored gate: **explicit-city and local-geo evidence 
 
 ### Asbestos surveys — Manchester
 
-**Why it survives:** strongest explicit/local CPC agreement in the priority screen: £20.95 and £16.23 weighted CPC respectively. Compliance intent and provider verification can create transaction value.
+**Why it survives:** the final expanded explicit and local baskets contain the same 290-search volume, at £19.50 and £13.31 weighted CPC respectively. Compliance intent and provider verification can create transaction value.
 
 **Product:** premises and survey-type triage, appropriately competent or accredited provider verification, quote request and report-turnaround comparison.
 

@@ -13,14 +13,14 @@ status: "published research"
 
 There is a real UK business here, but the familiar “digital landlord” story is the wrong operating model for 2026.
 
-I would build a **transparent local demand and qualification company**, initially in one vertical and two or three territories. It would own the organic website, the data model, the call and form routing, the lead-quality record and the commercial relationship. It would not create fake local contractors, virtual offices or speculative Google Business Profiles. A genuine service business would own and manage any eligible profile associated with that business.
+I would build a **transparent local demand and qualification company**, initially in one market cell. It would own the organic website, the data model, the call and form routing, the lead-quality record and the commercial relationship. It would not create fake local contractors, virtual offices or speculative Google Business Profiles. A genuine service business would own and manage any eligible profile associated with that business.
 
 The deeper validation order is:
 
-1. **Asbestos surveys in Manchester** — the expanded explicit-city basket has a £20.95 weighted CPC and the local-geo basket £16.23. This is the strongest cross-method commercial agreement, but fulfillment must use technically competent, preferably accredited surveyors and keep survey advice separate from removal incentives.
-2. **Fire risk assessment in Manchester** — £26.51 explicit-basket and £11.57 local-geo weighted CPC. It has B2B and compliance intent, but the publisher cannot imply that it performs safety-critical work or that every responsible person must buy a third-party assessment.
-3. **Drain unblocking in Bristol** — a 450-search local-geo keyword basket at £8.34 weighted CPC with the steadiest monthly history in the priority group. It only works with live answer coverage, truthful service areas and rapid dispatch.
-4. **Boiler installation in Edinburgh** — £19.04 explicit-basket and £16.89 local-geo weighted CPC. The order value can sustain meaningful acquisition economics, but a verified Gas Safe partner, reviews and a genuine local presence are non-negotiable.
+1. **Fire risk assessment in Manchester** — the final expanded explicit-city basket has 550 searches at £26.02 weighted CPC; the matching local-geo basket has 280 at £9.10. It has B2B and compliance intent, but the publisher cannot imply that it performs safety-critical work or that every responsible person must buy a third-party assessment.
+2. **Asbestos surveys in Manchester** — the explicit basket has 290 searches at £19.50 weighted CPC and the local-geo basket 290 at £13.31. The methods agree strongly, but fulfilment must use technically competent, preferably accredited surveyors and keep survey advice separate from removal incentives.
+3. **Drain unblocking in Bristol** — 1,600 explicit-basket searches at £14.85 weighted CPC and 690 local-geo searches at £6.66. It is the fastest call-funnel test, but only works with live answer coverage, truthful service areas and rapid dispatch.
+4. **Boiler installation in Edinburgh** — 1,920 explicit-basket searches at £19.39 weighted CPC and 420 local-geo searches at £13.67. The order value can sustain meaningful acquisition economics, but a verified Gas Safe partner, reviews and a genuine local presence are non-negotiable.
 
 These are markets for buyer interviews and controlled acquisition tests, not four simultaneous site builds. Bristol loft conversions, Nottingham garage-door repair and a national or regional spray-foam-removal publication form the second line. Spray-foam removal is not a conventional city site: the UK generic phrase returned 1,600 searches at £26.06 CPC, while all 26 city-modified phrases together returned only 380. That pattern calls for a specialist regional demand site, not 26 cloned location pages.
 
@@ -30,7 +30,24 @@ I would not start in London despite its large demand. Its 35-phrase sample produ
 
 I would also avoid beginning with mortgages, personal injury, dental implants, private ADHD assessment or funeral services. Several show attractive volume and CPC, but the financial, legal, health, advertising, privacy and vulnerability risks make them poor learning environments for a new operator.
 
-The main conclusion is therefore conditional: **build it if buyer demand, fulfillment quality and accepted-lead economics are validated before heavy SEO spend; do not build a speculative network and hope tenants appear later.**
+The main conclusion is therefore conditional: **build it if buyer demand, fulfillment quality and accepted-lead economics are validated before heavy SEO spend; do not build a speculative network and hope tenants appear later.** AI makes this more stringent. Generated service and location copy is abundant, answer interfaces compress generic research, and platforms can increasingly qualify the enquiry. The proposed asset must be verified supply, request structure, buyer rules and outcome data—not generated pages or a chatbot wrapper.
+
+## What the full-depth pass added
+
+The evidence base now reaches beyond a niche-and-city screen:
+
+- **32 UK-relevant operators** mapped across search, Local Services Ads, directories, job marketplaces, transaction marketplaces, direct appointment suppliers, agencies, trust schemes and infrastructure;
+- **seven filed operating entities** compared across revenue, result, employee and capital disclosures, with five latest-period turnover figures totalling £298.8 million across non-comparable products and periods;
+- **33 returned buyer-acquisition keyword rows**, including direct demand for trade leads, roofing leads, boiler leads and SEO for plumbers;
+- **99 new service-cluster observations** across the four priority cells and 17 platform-brand observations;
+- **ten buyer segments**, each with a different purchasing unit and disqualifier;
+- **four full market dossiers** joining search evidence to job-value anchors, qualification fields, buyer type, commercial unit and stop conditions;
+- **40 revenue architectures**, from connected calls and attended appointments through verification, software, transactions and owned fulfilment;
+- a **lead operating-system specification**, five capital scenarios, ten portfolio failure modes and a primary research programme.
+
+The additions change the category definition. This is not a contest between an independent SEO site and a directory. Google sells verified local leads; platforms sell subscriptions, contact credits, shortlist fees, sponsored placement or transaction access; direct suppliers sell appointments; agencies sell protected-area acquisition systems; software vendors sell attribution and routing. The founder must outperform the buyer's next-best acquisition product on accepted opportunity and measured contribution.
+
+The detailed expansion is published as chapters [12 through 21](./12-market-structure-and-value-chain.md), with the underlying [operator atlas](./evidence/operator-atlas.csv), [platform financial comparison](./evidence/platform-financial-comparison.csv), [buyer-intent screen](./evidence/google-ads-buyer-intent-screen.csv), [market dossiers](./evidence/market-dossier-economics.csv), [revenue playbook](./evidence/revenue-playbook.csv), [AI-disruption ledger](./evidence/ai-disruption-ledger.csv), [AI scorecard](./evidence/ai-disruption-scorecard.csv) and [capital scenarios](./evidence/portfolio-capital-scenarios.csv).
 
 ## What “rank and rent” means after the old playbook is removed
 
@@ -112,10 +129,10 @@ These groups overlap. They must never be summed into a “total addressable sear
 
 | Opportunity                      | Explicit basket | Explicit CPC | Local-geo basket |           Local CPC | Decision                        |
 | -------------------------------- | --------------: | -----------: | ---------------: | ------------------: | ------------------------------- |
-| Manchester asbestos surveys      |             270 |       £20.95 |              220 |              £16.23 | First-wave partner discovery    |
-| Manchester fire-risk assessments |             540 |       £26.51 |              210 |              £11.57 | First-wave partner discovery    |
-| Bristol drain unblocking         |           1,350 |       £16.71 |              450 |               £8.34 | First-wave call test            |
-| Edinburgh boiler installation    |           1,690 |       £19.04 |              220 |              £16.89 | First-wave buyer-led quote test |
+| Manchester asbestos surveys      |             290 |       £19.50 |              290 |              £13.31 | First-wave partner discovery    |
+| Manchester fire-risk assessments |             550 |       £26.02 |              280 |               £9.10 | First-wave partner discovery    |
+| Bristol drain unblocking         |           1,600 |       £14.85 |              690 |               £6.66 | First-wave call test            |
+| Edinburgh boiler installation    |           1,920 |       £19.39 |              420 |              £13.67 | First-wave buyer-led quote test |
 | Bristol loft conversions         |             730 |       £21.34 |              310 |               £7.21 | Second-wave appointment test    |
 | Nottingham garage-door repair    |             380 |        £6.88 |              100 |               £5.94 | Recheck one-month spike         |
 | Edinburgh commercial cleaning    |           6,210 |       £13.41 |               90 | no reported average | Pause                           |
@@ -143,7 +160,7 @@ A second location view measures the same 16 generic services inside nine city ge
 
 London is a capital-allocation decision, not an automatic number-one choice. A £40 CPC can mean a valuable customer; it can also mean the auction has already transferred most of the margin to Google. Strong directories and operators also have review history, brands, links and real locations. A new site should enter London only with a buyer who can close high-value work and a district-level evidence plan. This research did not measure borough phrases, so it does not invent a borough recommendation.
 
-Edinburgh's apparent strength is concentrated. `commercial cleaning Edinburgh` returned 2,900 searches at £14.32, but April 2026 alone reports 22,200 and the local-geo base phrase returns only 40 with no reported average CPC. `boiler installation Edinburgh` survives the deeper screen with £16.89 local-geo weighted CPC. Edinburgh remains worth investigating, but cleaning can no longer justify the city's first-place status.
+Edinburgh's apparent strength is concentrated. `commercial cleaning Edinburgh` returned 2,900 searches at £14.32, but April 2026 alone reports 22,200 and the local-geo base phrase returns only 40 with no reported average CPC. The final expanded boiler cluster survives with £13.67 local-geo weighted CPC. Edinburgh remains worth investigating, but cleaning can no longer justify the city's first-place status.
 
 Manchester has a better diversified test shape. `fire risk assessment Manchester` returned 260 at £27.11 and `asbestos survey Manchester` 170 at £24.66. It also has larger mainstream demand. A single transparent building-compliance publication could potentially cover fire, asbestos and adjacent obligations, but each lead must be routed to appropriately competent businesses and pages cannot imply a credential the publisher does not hold.
 

@@ -2,7 +2,7 @@
   "slug": "rank-and-rent-uk-2026",
   "title": "UK Rank-and-Rent and Local Lead Generation in 2026",
   "shortTitle": "UK Rank-and-Rent 2026",
-  "summary": "A decision-grade UK research series on local lead-generation sites: demand, CPCs, cities, business models, case studies, AI search, Google Business Profile constraints and launch economics.",
+  "summary": "A decision-grade UK research series on local-demand businesses: 1,347 overlapping Google Ads observations, 32 operators, filed platform economics, buyer segments, 40 revenue models, AI search, generated-content disruption, market dossiers and capital strategy.",
   "eyebrow": "Commercial research series",
   "geography": "United Kingdom",
   "observedAt": "2026-09-03",
@@ -116,6 +116,96 @@
       "shortTitle": "Companies and CPC economics",
       "title": "Companies House, CPC and Buyer Economics",
       "description": "The deeper explicit-versus-local search check, filed marketplace accounts, local supplier evidence and CPC-to-lead sensitivity."
+    },
+    {
+      "source": "12-market-structure-and-value-chain.md",
+      "output": "12-market-structure-and-value-chain.html",
+      "number": "12",
+      "section": "Market structure",
+      "shortTitle": "Value chain",
+      "title": "The UK Local-Demand Value Chain",
+      "description": "The market boundary, competitive layers, value pools and market-cell framework behind the SEO tactic."
+    },
+    {
+      "source": "13-thirty-two-operator-atlas.md",
+      "output": "13-thirty-two-operator-atlas.html",
+      "number": "13",
+      "section": "Market structure",
+      "shortTitle": "Operator atlas",
+      "title": "Thirty-Two Operators and What They Reveal",
+      "description": "Search, directories, marketplaces, lead suppliers, agencies, trust schemes and the enabling software layer."
+    },
+    {
+      "source": "14-platform-financials-and-business-model-economics.md",
+      "output": "14-platform-financials-and-business-model-economics.html",
+      "number": "14",
+      "section": "Market structure",
+      "shortTitle": "Platform financials",
+      "title": "Platform Financials and Business-Model Economics",
+      "description": "Seven filed operator comparisons, revenue trajectories, margins, capital signals and strict comparability limits."
+    },
+    {
+      "source": "15-buyer-demand-segmentation-and-willingness-to-pay.md",
+      "output": "15-buyer-demand-segmentation-and-willingness-to-pay.html",
+      "number": "15",
+      "section": "Commercial design",
+      "shortTitle": "Buyer demand",
+      "title": "Buyer Demand, Segmentation and Willingness to Pay",
+      "description": "The supplier-acquisition keyword screen, ten buyer archetypes and a contribution-led pricing method."
+    },
+    {
+      "source": "16-four-priority-market-dossiers.md",
+      "output": "16-four-priority-market-dossiers.html",
+      "number": "16",
+      "section": "Commercial design",
+      "shortTitle": "Market dossiers",
+      "title": "Four Priority Market Dossiers",
+      "description": "Detailed demand, intent, buyer, qualification, economic, content and stop-condition analysis for the four recommended cells."
+    },
+    {
+      "source": "17-forty-model-revenue-playbook.md",
+      "output": "17-forty-model-revenue-playbook.html",
+      "number": "17",
+      "section": "Commercial design",
+      "shortTitle": "Revenue playbook",
+      "title": "The Forty-Model Revenue Playbook",
+      "description": "A complete monetisation architecture from qualified calls and appointments to workflow software and owned fulfilment."
+    },
+    {
+      "source": "18-the-lead-operating-system.md",
+      "output": "18-the-lead-operating-system.html",
+      "number": "18",
+      "section": "Operating system",
+      "shortTitle": "Lead operating system",
+      "title": "The Lead Operating System",
+      "description": "The event ledger, data model, routing logic, qualification taxonomy, cohort accounting and service levels."
+    },
+    {
+      "source": "19-ai-search-local-services-and-the-2030-moat.md",
+      "output": "19-ai-search-local-services-and-the-2030-moat.html",
+      "number": "19",
+      "section": "Operating system",
+      "shortTitle": "AI and the moat",
+      "title": "AI Search, Generated Content, Local Services and the 2030 Moat",
+      "description": "Current causal evidence, generated-content supply, query-level substitution, agent qualification, Google's lead product and four future scenarios."
+    },
+    {
+      "source": "20-portfolio-capital-and-value-destruction.md",
+      "output": "20-portfolio-capital-and-value-destruction.html",
+      "number": "20",
+      "section": "Strategy",
+      "shortTitle": "Capital and failure",
+      "title": "Portfolio Capital, Concentration and Value Destruction",
+      "description": "Five capital scenarios, allocation gates, diligence requirements and the ten ways lead portfolios destroy value."
+    },
+    {
+      "source": "21-primary-research-and-revised-founder-strategy.md",
+      "output": "21-primary-research-and-revised-founder-strategy.html",
+      "number": "21",
+      "section": "Strategy",
+      "shortTitle": "Research and strategy",
+      "title": "Primary Research and the Revised Founder Strategy",
+      "description": "A multi-workstream buyer and consumer research programme, ninety-day validation design and the final founder recommendation."
     }
   ]
 }

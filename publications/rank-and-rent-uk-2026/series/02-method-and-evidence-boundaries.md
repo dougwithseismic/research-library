@@ -10,20 +10,24 @@ It does not ask which keyword has the largest number. It asks where demand, cust
 
 The retained screen used Google Ads `GenerateKeywordHistoricalMetrics` through the repository's authenticated read-only tooling.
 
-| Parameter                            | Value                         |
-| ------------------------------------ | ----------------------------- |
-| Observation date                     | 3 September 2026              |
-| API version                          | v25                           |
-| Network                              | Google Search                 |
-| Language                             | English criterion 1000        |
-| Geography                            | United Kingdom criterion 2826 |
-| Working account currency             | GBP                           |
-| Niches                               | 35                            |
-| Cities                               | 26                            |
-| Explicit city phrases                | 910                           |
-| National generic and near-me phrases | 70                            |
-| Generic local-geo rows               | 144 across nine city targets  |
-| Expanded priority rows               | 37 explicit and 37 local-geo  |
+| Parameter                             | Value                         |
+| ------------------------------------- | ----------------------------- |
+| Observation date                      | 3 September 2026              |
+| API version                           | v25                           |
+| Network                               | Google Search                 |
+| Language                              | English criterion 1000        |
+| Geography                             | United Kingdom criterion 2826 |
+| Working account currency              | GBP                           |
+| Niches                                | 35                            |
+| Cities                                | 26                            |
+| Explicit city phrases                 | 910                           |
+| National generic and near-me phrases  | 70                            |
+| Generic local-geo rows                | 144 across nine city targets  |
+| Expanded priority rows                | 37 explicit and 37 local-geo  |
+| Final four-cell depth rows            | 49 explicit and 50 local-geo  |
+| Buyer-acquisition rows                | 33                            |
+| Platform-brand rows                   | 17                            |
+| Retained rows across overlapping sets | 1,347                         |
 
 Every niche used one canonical phrase and every city used the same basket. Examples are `commercial cleaning Edinburgh`, `fire risk assessment Manchester` and `drain unblocking Bristol`. The national layer submitted `commercial cleaning` and `commercial cleaning near me` separately.
 
@@ -37,6 +41,11 @@ The full observations are in:
 - [`google-ads-priority-intent-screen.csv`](../evidence/google-ads-priority-intent-screen.csv)
 - [`google-ads-priority-local-geo-intent-screen.csv`](../evidence/google-ads-priority-local-geo-intent-screen.csv)
 - [`google-ads-priority-cluster-summary.csv`](../evidence/google-ads-priority-cluster-summary.csv)
+- [`google-ads-priority-depth-explicit.csv`](../evidence/google-ads-priority-depth-explicit.csv)
+- [`google-ads-priority-depth-local-geo.csv`](../evidence/google-ads-priority-depth-local-geo.csv)
+- [`google-ads-buyer-intent-screen.csv`](../evidence/google-ads-buyer-intent-screen.csv)
+- [`google-ads-platform-brand-demand.csv`](../evidence/google-ads-platform-brand-demand.csv)
+- [`google-ads-depth-cluster-summary.csv`](../evidence/google-ads-depth-cluster-summary.csv)
 
 ## Why the two geographic methods are not interchangeable
 
@@ -47,6 +56,8 @@ Both are valid. They answer different questions.
 The deeper pass retained a local-geo cross-check using Google's active 2026 city criteria. It first submitted 16 generic priority services inside each of nine cities. It then submitted expanded variants for seven priority city-niche clusters through both methods. Agreement increases confidence that paid commercial intent exists; disagreement triggers query-grouping, seasonality and real-impression validation.
 
 The first local-geo attempt returned `RESOURCE_EXHAUSTED`. Google documents `GenerateKeywordHistoricalMetrics` at one request per second per customer ID on a rolling 60-second interval. It separately documents daily operation allowances by developer-token access level. Requests succeeded after adding 1.5-second pacing and one ten-second retry. The failure was therefore a transient rate-limit event, not evidence that the account had no keyword requests remaining. [Google Ads quota documentation](https://developers.google.com/google-ads/api/docs/best-practices/quotas)
+
+The final depth run broadened only the four recommended cells. Buyer-acquisition queries and platform-brand queries were placed in separate clusters so that contractor demand for leads could not be confused with homeowner service demand or consumer navigation. “Retained rows” is a research-workload count; overlapping keyword sets make it unusable as a demand total.
 
 ## What each metric means
 
@@ -88,11 +99,21 @@ The live result sample is deliberately called a **web result sample**, not a Goo
 
 ## Companies House method
 
-The deeper pass used only read-only public Companies House endpoints and official filed-account documents. It did not query a project database or Supabase. Five lead marketplaces and 18 initially selected local suppliers were resolved by company number; one additional Jackson entity was captured after a Manchester website footer exposed an identity mismatch.
+The deeper pass used only read-only public Companies House endpoints and official filed-account documents. It did not query a project database or Supabase. Five lead marketplaces and 18 initially selected local suppliers were resolved by company number; one additional Jackson entity was captured after a Manchester website footer exposed an identity mismatch. A subsequent platform pass captured nine further legal entities around Yell, FMB, Airtasker, Houzz, Which, BookaBuilder and HaMuch. The public financial comparison includes only entities whose selected filing supported a useful, correctly bounded observation.
 
 Public derived files exclude officers and people with significant control. They retain registered name, company number, filing period, selected financial metrics, extraction method, source links, parser warnings and trading-identity state. Raw captures remain under `private-data/`.
 
 Most small-company filings do not disclose turnover or a profit-and-loss account. Missing values remain blank, not zero. Three PDF or XHTML accounts required manual transcription of selected headline metrics, and that method is stated row by row. Companies House states that it does not independently verify the accuracy of company-filed information. The registry establishes legal and filing evidence; it does not establish service quality, geographic coverage, buying intent or present financial performance. [Companies House quality and methods guide](https://www.gov.uk/government/publications/incorporated-companies-in-the-uk-by-jurisdiction-and-month-quality-and-methods-guide/quality-and-methods-guide)
+
+## Landscape and financial comparison method
+
+The 32-operator atlas is a purposive strategic sample, not a census. Operators were selected to expose different layers and charging units. Public product and pricing pages establish what each operator says it sells; they do not verify retention, conversion or customer results.
+
+The platform financial comparison normalises latest available filed figures where disclosure permits. Turnover is never replaced with a balance-sheet proxy. Period duration, year end, geography, company boundary, product mix, employee disclosure and manual extraction limitations are retained. Adding disclosed turnover is used only to demonstrate economic scale and is explicitly not market sizing.
+
+## Modelled datasets
+
+Buyer segments, market-dossier price bands, revenue architectures, AI risk and capital scenarios are inference or assumption layers. They are published as CSVs so inputs can be challenged. None becomes observed simply because it is formatted as a number.
 
 ## Evidence hierarchy
 

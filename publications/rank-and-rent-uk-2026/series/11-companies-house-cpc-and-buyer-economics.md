@@ -49,10 +49,10 @@ These two methods are not expected to match exactly. They are most valuable when
 
 | Opportunity                      | Explicit-city keyword basket | Explicit weighted CPC | Local-geo keyword basket |      Local weighted CPC | Evidence agreement | Decision                        |
 | -------------------------------- | ---------------------------: | --------------------: | -----------------------: | ----------------------: | ------------------ | ------------------------------- |
-| Manchester asbestos surveys      |                          270 |                £20.95 |                      220 |                  £16.23 | Strong             | First-wave partner-led test     |
-| Manchester fire-risk assessments |                          540 |                £26.51 |                      210 |                  £11.57 | Strong             | First-wave partner-led test     |
-| Bristol drain unblocking         |                        1,350 |                £16.71 |                      450 |                   £8.34 | Strong             | First-wave call test            |
-| Edinburgh boiler installation    |                        1,690 |                £19.04 |                      220 |                  £16.89 | Moderate           | First-wave buyer-led quote test |
+| Manchester asbestos surveys      |                          290 |                £19.50 |                      290 |                  £13.31 | Strong             | First-wave partner-led test     |
+| Manchester fire-risk assessments |                          550 |                £26.02 |                      280 |                   £9.10 | Strong             | First-wave partner-led test     |
+| Bristol drain unblocking         |                        1,600 |                £14.85 |                      690 |                   £6.66 | Strong             | First-wave call test            |
+| Edinburgh boiler installation    |                        1,920 |                £19.39 |                      420 |                  £13.67 | Moderate           | First-wave buyer-led quote test |
 | Bristol loft conversions         |                          730 |                £21.34 |                      310 |                   £7.21 | Moderate           | Second-wave appointment test    |
 | Nottingham garage-door repair    |                          380 |                 £6.88 |                      100 |                   £5.94 | Moderate-low       | Recheck before second wave      |
 | Edinburgh commercial cleaning    |                        6,210 |                £13.41 |                       90 | no reported average CPC | Weak               | Pause                           |
@@ -92,10 +92,10 @@ The base scenario assumes 10% of paid clicks become enquiries, 70% of enquiries 
 
 | Opportunity                      | Local weighted CPC | Paid cost per accepted lead | Paid media per won job |
 | -------------------------------- | -----------------: | --------------------------: | ---------------------: |
-| Manchester asbestos surveys      |             £16.23 |                     £231.86 |              £1,159.31 |
-| Edinburgh boiler installation    |             £16.89 |                     £241.26 |              £1,206.32 |
-| Manchester fire-risk assessments |             £11.57 |                     £165.28 |                £826.42 |
-| Bristol drain unblocking         |              £8.34 |                     £119.08 |                £595.42 |
+| Manchester asbestos surveys      |             £13.31 |                     £190.16 |                £950.80 |
+| Edinburgh boiler installation    |             £13.67 |                     £195.35 |                £976.74 |
+| Manchester fire-risk assessments |              £9.10 |                     £129.94 |                £649.72 |
+| Bristol drain unblocking         |              £6.66 |                      £95.12 |                £475.61 |
 | Bristol loft conversions         |              £7.21 |                     £102.99 |                £514.97 |
 | Nottingham garage-door repair    |              £5.94 |                      £84.91 |                £424.57 |
 

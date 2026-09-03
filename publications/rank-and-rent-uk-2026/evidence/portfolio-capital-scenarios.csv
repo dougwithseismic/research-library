@@ -1,0 +1,6 @@
+scenario,months,active_market_cells,monthly_qualified_events_per_cell,accepted_rate,realised_revenue_per_accepted_event_gbp,monthly_fixed_revenue_per_mature_cell_gbp,monthly_gross_revenue_gbp,monthly_variable_ops_gbp,monthly_fixed_ops_gbp,monthly_contribution_before_founder_pay_gbp,capital_need,interpretation,evidence_class
+validation_lane,3,1,15,0.70,85,0,892.50,350,900,-357.50,3000-7000,"A deliberately loss-making evidence purchase; success is a retained buyer and measured cohort not profit",assumption
+single_mature_cell,9,1,45,0.78,105,500,4185.50,950,1300,1935.50,8000-15000,"One proven cell can be a small cash-flow asset but is exposed to one buyer one city and search volatility",assumption
+four_cell_bootstrap_portfolio,18,4,45,0.80,110,750,18840,4000,5500,9340,25000-60000,"A plausible founder portfolio only after sequential validation; cells must not be launched simultaneously",assumption
+regional_data_and_routing_business,30,12,70,0.82,120,1200,97056,22000,28000,47056,150000-350000,"Now requires sales support routing QA compliance data engineering and buyer redundancy; this is no longer passive rent",assumption
+venture_style_national_marketplace,48,40,120,0.85,95,800,419600,145000,230000,44600,1500000-4000000,"Liquidity trust brand support and paid acquisition consume capital; a narrow operator has no reason to start here",assumption
