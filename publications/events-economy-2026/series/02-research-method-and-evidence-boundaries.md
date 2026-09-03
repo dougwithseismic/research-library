@@ -84,6 +84,14 @@ Brand terms—including Timeleft, Dinners With Friends, Thursday, Bored of Datin
 
 A second pull used the same UK, English and Google Search configuration for craft, reading, games and sport. These terms are reported individually because they overlap heavily and mix adult, child, tourist, retail and informational intent. `things to do near me`, `events near me` and `classes near me` are retained as broad discovery context but excluded from every category total.
 
+A third pull expanded the frame to 244 adult in-person formats across fifteen activity families. It submitted 488 phrases and returned 468 Google keyword groups. Each format has one primary phrase used for a non-additive demand score; supporting phrases are retained only as context. A seven-dimension launch-potential score then combines observed primary demand with inferred commercial intent, repeatability, social design, operating ease, revenue depth and eventisation headroom. The weights and every component rating are retained in the [format opportunity scorecard](../evidence/event-format-opportunity-scorecard.csv). The result ranks suitability as a new structured-social event wedge, not industry size or probability of success.
+
+A fourth pull deepened 24 leading or strategically important formats across fifteen verified city targets. It returned 360 explicit city-modified rows under the UK target and 360 generic local-discovery rows inside individual city targets. The methods overlap and remain separate. A comparative index gives each method equal weight after log normalisation; it is a ranking device, not market size. The [deep scorecard](../evidence/event-format-deep-scorecard.csv) adds city breadth, asset-light control and current price-evidence coverage, then applies an explicit decision ceiling where facility ownership, free substitutes or fulfilment risk constrain the entry model. Separate [fill-sensitivity scenarios](../evidence/event-format-economics-sensitivity.csv) use current price anchors and assumed direct costs at 50%, 70% and 90% fill.
+
+A fifth pull pressure-tested eight leading or strategically important formats across Manchester, Birmingham and Bristol. Each city-format was divided into discovery, event-booking, repeat-programme, beginner-or-adult and group-or-corporate intent. It retained 120 explicit city-modified rows and 120 separate generic local-geo rows. Intent baskets overlap and are not added into a funnel or market size. The [intent summary](../evidence/launch-cell-intent-summary.csv) reports every basket separately; the [launch decision register](../evidence/launch-cell-decision-register.csv) then combines selected measured rows with live supply, public venue pricing, scenario economics and explicit judgement.
+
+The [acquisition sensitivity](../evidence/launch-cell-acquisition-sensitivity.csv) is not a campaign forecast. It selects a commercial phrase, uses its historical average CPC, and divides that CPC by an illustrative repeat-adjusted maximum CAC. The event scenarios exclude acquisition so that this pressure test can be shown separately. Assumed attended events per acquired customer are four for darts, six for dance, two for wine and pottery, four for hosted games and one for a spa day. Fifty percent of illustrative lifetime direct contribution is allocated to acquisition. None of those retention or allocation inputs is observed.
+
 No non-UK search-volume data is used in the recommendation. European and North American operators are included only as mechanism comparators—for example, whether a chapter licence, marketplace take rate, organiser subscription or hosted-sport model has been exposed publicly. Their presence does not establish UK demand, pricing power or transferability.
 
 ### Calculations
@@ -95,6 +103,8 @@ sum(average monthly searches × average CPC) ÷ sum(average monthly searches)
 ```
 
 The tool returns average monthly searches, not a current-month forecast. CPC is the average amount advertisers historically paid for an ad click. It is neither the startup's obtainable click price nor its customer-acquisition cost.
+
+Zero-return search or CPC rows are not priced acquisition channels. They are `not estimable`. A row with ten rounded average searches is also treated as too thin for a dependable forecast even when a nominal CPC is present.
 
 ## Company and registry evidence
 
@@ -136,7 +146,7 @@ The company atlas includes 52 selected operators, institutions, networks and pro
 
 The revenue playbook contains 43 mechanisms. “Observed example” means a named operator currently presents that mechanism; it does not establish realised revenue, margin or applicability to the proposed company. Launch-stage recommendations are the report's inference.
 
-The cross-format economics are explicit scenarios. Except where an observed ticket or membership anchors a figure, price, capacity and every cost input are assumptions. They are intended to show sensitivity and operating shape rather than rank industries or estimate a named company's accounts.
+The cross-format economics are explicit scenarios. Except where an observed ticket or membership anchors a figure, price, capacity and every cost input are assumptions. Acquisition is excluded and pressure-tested separately in the launch-cell sensitivity. The scenarios are intended to show sensitivity and operating shape rather than rank industries or estimate a named company's accounts.
 
 ## Capital and future scenarios
 

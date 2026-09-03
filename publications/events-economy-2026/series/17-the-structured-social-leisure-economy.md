@@ -61,6 +61,8 @@ The broad discovery layer is larger again. `things to do near me` returned 301,0
 
 The full observations and exclusions are in the [activity keyword ledger](../evidence/activity-keyword-ledger.csv).
 
+The later [UK event-format opportunity map](./27-uk-event-format-opportunity-map.md) expands this first activity sample to 244 sports, games, culture, performance, craft, food, hobby, nature, wellness, spa and retreat formats. It keeps one primary demand signal per format and scores the format as a possible structured-social launch wedge rather than adding overlapping keywords into a market-size total.
+
 ## International comparators test mechanisms, not UK demand
 
 The recommendation in this report is grounded in UK search, UK prices, UK operators and UK launch conditions. Selected European and North American companies enter the analysis only when they expose a transferable mechanism:

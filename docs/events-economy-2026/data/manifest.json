@@ -1,7 +1,7 @@
 {
   "title": "Building in the social events economy in 2026",
   "observedAt": "2026-09-03",
-  "decision": "Choose a defensible UK launch wedge across friendship dating talks craft games sport and local discovery using non-UK companies only to test transferable mechanisms.",
+  "decision": "Choose a defensible UK launch wedge across friendship dating talks craft games sport performance hobbies wellness spa retreats and local discovery using non-UK companies only to test transferable mechanisms.",
   "geography": {
     "name": "United Kingdom",
     "googleAdsCriterionId": "2826"
@@ -38,6 +38,8 @@
     "Current-operator census across 52 managed event activity platform institutional and infrastructure examples",
     "Second Google Ads historical-metrics pull for UK activity categories",
     "Selected European and North American operators used as mechanism comparators rather than UK demand evidence",
+    "Comprehensive national Google Ads screen of 244 adult in-person formats using one non-additive primary phrase plus supporting context for each format",
+    "Launch-potential score weighted across primary demand commercial intent repeatability social design operating ease revenue depth and eventisation headroom",
     "Cross-format contribution scenarios with every non-observed price capacity and cost marked as an assumption",
     "Revenue mechanisms sequenced by the audience format rights venue or network asset required",
     "FCDO September 2026 reference rates used to provide approximate GBP equivalents for every foreign-currency amount",
@@ -46,7 +48,18 @@
     "AI scores use a zero-to-five exposure or advantage scale by dimension and are not summed into one recommendation",
     "Current regional demand screen across nine verified Google Ads city targets, with generic phrases in local geographies kept separate from explicit city-modified phrases under the UK target",
     "Current selected-operator city review covering managed friendship, intellectual events, dating, FriendDating, social sport and phone-free chapters",
-    "Weighted city-launch scorecard combining two comparable demand measures with bounded operator evidence and explicit confidence, evidence-coverage and largest-unknown fields"
+    "Weighted city-launch scorecard combining two comparable demand measures with bounded operator evidence and explicit confidence, evidence-coverage and largest-unknown fields",
+    "Fifteen-city depth screen across 24 leading and strategically important formats using 360 explicit city rows and 360 separate local-geo rows",
+    "Comparative city-format liquidity index using equal-weight log-normalized explicit and local-geo demand without adding the overlapping observations",
+    "Deep 24-format score combining national demand city liquidity city breadth commercial intent repeatability social design asset-light control price evidence and eventization headroom",
+    "Decision ceilings applied after the weighted format score where facility control free substitutes fulfilment exposure or thin price evidence constrain the recommended entry mode",
+    "Fill-sensitivity scenarios at 50 70 and 90 percent paid fill across eight delivery models using current price anchors and explicitly assumed direct costs",
+    "Current twelve-row operator benchmark covering price purchase mode repeat structure evidence supported and evidence not established",
+    "Three-city launch-intent screen across eight formats and five separate discovery booking repeat beginner-or-adult and group-or-corporate baskets",
+    "One hundred and twenty explicit city-modified intent rows kept separate from one hundred and twenty generic local-geo rows",
+    "Current first-party supply and public price review for the leading Manchester Birmingham and Bristol launch cells",
+    "Acquisition sensitivity combining selected historical CPC observations with illustrative repeat-adjusted CAC ceilings rather than a traffic or campaign forecast",
+    "Format-specific pre-sale control register covering venue safety licensing allergens ceramics consumer terms insurance retreat packaging and working capital"
   ],
   "includedArtifacts": [
     "commercial-keyword-ledger.csv",
@@ -59,6 +72,8 @@
     "operator-census.csv",
     "revenue-playbook.csv",
     "activity-keyword-ledger.csv",
+    "event-format-keyword-ledger.csv",
+    "event-format-opportunity-scorecard.csv",
     "format-economics-scenarios.csv",
     "intellectual-events-keyword-ledger.csv",
     "intellectual-nightlife-economics.csv",
@@ -70,7 +85,21 @@
     "city-demand-summary.csv",
     "city-geo-targets.csv",
     "city-format-evidence.csv",
-    "city-opportunity-scorecard.csv"
+    "city-opportunity-scorecard.csv",
+    "event-format-city-explicit-screen.csv",
+    "event-format-city-local-geo-screen.csv",
+    "event-format-city-summary.csv",
+    "event-format-city-geo-targets.csv",
+    "event-format-deep-scorecard.csv",
+    "event-format-economics-sensitivity.csv",
+    "event-format-operator-benchmarks.csv",
+    "launch-cell-intent-explicit-screen.csv",
+    "launch-cell-intent-local-geo-screen.csv",
+    "launch-cell-intent-summary.csv",
+    "launch-cell-decision-register.csv",
+    "launch-cell-supply-and-pricing.csv",
+    "launch-cell-acquisition-sensitivity.csv",
+    "event-format-risk-and-controls.csv"
   ],
   "exclusions": [
     "Current-month Google Ads traffic forecasts",
@@ -84,11 +113,18 @@
     "Brand-only Companies House matching without an authoritative legal identifier",
     "Broad things-to-do events-near-me and classes-near-me terms from activity category totals",
     "All non-UK keyword volume from the UK market analysis",
+    "Supporting keyword phrases added to primary demand signals or presented as a total addressable market",
+    "High-volume venue facility spa or spectator searches treated as proof of demand for a hosted stranger cohort",
     "Operator downloads registrations followers or claimed attendees as active paying customers",
     "Restaurant studio facility or marketplace gross booking value as company revenue",
     "Local-geo and explicit-city keyword totals added together as one demand estimate",
     "Selected operator-page absence interpreted as proof that a city has no competing supply",
-    "First-party cumulative event or attendee claims interpreted as paid attendance, repeat, sell-through, revenue or profit"
+    "First-party cumulative event or attendee claims interpreted as paid attendance, repeat, sell-through, revenue or profit",
+    "Discovery event class club beginner and corporate keyword rows added into a single funnel or demand total",
+    "Zero or suppressed Google Ads CPC interpreted as free customer acquisition",
+    "Public room-only prices interpreted as signed all-in venue terms or proof that an activity is permitted",
+    "Selected current operator pages interpreted as an exhaustive city supply census or proof of commercial whitespace",
+    "Any Google Ads campaign creation modification forecast or live media spend"
   ],
   "limitations": [
     "Average monthly searches are rounded trailing historical averages and not obtainable traffic.",
@@ -102,6 +138,8 @@
     "First-party funding and operating claims for private companies are not audited unless explicitly stated otherwise.",
     "The report's interview evidence comes from attributed public sources rather than interviews conducted for this project.",
     "Activity keywords overlap and include family tourist retail informational and commercial intent so they are not summed into a market size.",
+    "The 244-format scorecard combines one observed demand signal with structural judgement; it is a prioritisation aid rather than an empirical success probability.",
+    "The comprehensive format screen is broad but not literally exhaustive and excludes most child-only professional religious political and purely online formats.",
     "Selected international operators demonstrate mechanisms and are not evidence of UK demand price or transferability.",
     "The operator census is a mechanism map rather than proof that all 52 products are profitable or direct competitors.",
     "Cross-format contribution cases are planning scenarios and should not be read as operator benchmarks.",
@@ -115,6 +153,18 @@
     "The local-geo and explicit-city screens overlap and must not be added; a Google Ads city target is not equivalent to a metro catchment or safe evening-travel boundary.",
     "The selected city operator sample is not an exhaustive competitor, venue, host or event-supply census.",
     "Seed Talks city totals are first-party cumulative claims with unknown paid share, capacity, refunds, period consistency, repeat and contribution.",
-    "The city scorecard excludes current venue terms, customer-acquisition cost, retention, contribution, host supply, transport constraints and founder-specific local advantage."
+    "The city scorecard excludes current venue terms, customer-acquisition cost, retention, contribution, host supply, transport constraints and founder-specific local advantage.",
+    "The 24-format city depth is a staged comparison rather than an exhaustive city screen of all 244 national formats.",
+    "City-format liquidity scores are normalized comparison indexes and are not percentages market shares market sizes or forecasts.",
+    "Retreat demand is often destination practitioner and audience led so city-modified and city-targeted search can understate or mislocate purchase intent.",
+    "Deep-score decision ceilings are explicit research judgement rather than measured probabilities of commercial success.",
+    "Fill-sensitive economics use assumed capacities direct costs and blended ticket yields and exclude VAT central overhead founder labour insurance tax and failed-event portfolio losses.",
+    "Operator price pages show current purchase options but do not establish attendance utilization wholesale partner terms retention or profit.",
+    "The launch-intent screen covers eight formats and three cities selected from the wider ranking rather than every format-city combination.",
+    "Intent baskets and geography methods overlap; their relative shape is diagnostic and not a customer funnel conversion rate or market share.",
+    "The acquisition sensitivity assumes 90 percent event fill, repeated paid attendance and a 50 percent allocation of lifetime direct contribution to acquisition; none is observed.",
+    "A ten-search rounded row is too thin for a dependable acquisition forecast even when Google returns a nominal CPC.",
+    "Public venue prices exclude activity-specific permissions availability staffing equipment cleaning catering licensing insurance and signed cancellation terms.",
+    "The risk-and-controls register is research guidance rather than legal safety insurance tax or licensing advice."
   ]
 }

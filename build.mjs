@@ -365,6 +365,38 @@ function renderPublication(directory) {
           "Current selected-operator evidence by city and stated limitations",
         "city-opportunity-scorecard.csv":
           "Weighted launch-city comparison with confidence and missing evidence",
+        "event-format-keyword-ledger.csv":
+          "UK demand, CPC, competition and seasonality across 468 keyword groups",
+        "event-format-opportunity-scorecard.csv":
+          "Launch-potential ratings across 244 adult activity and retreat formats",
+        "event-format-city-explicit-screen.csv":
+          "Explicit city-modified demand for 24 formats across 15 UK cities",
+        "event-format-city-local-geo-screen.csv":
+          "Generic local-discovery demand for 24 formats inside 15 city targets",
+        "event-format-city-summary.csv":
+          "Separate explicit and local-geo signals across 360 city-format cells",
+        "event-format-city-geo-targets.csv":
+          "Verified current Google Ads criterion IDs for 15 UK city targets",
+        "event-format-deep-scorecard.csv":
+          "Deep 24-format launch ranking with city evidence and decision gates",
+        "event-format-economics-sensitivity.csv":
+          "Fill-sensitive direct-contribution scenarios across eight formats",
+        "event-format-operator-benchmarks.csv":
+          "Current operator offer, price, repeat-model and evidence benchmarks",
+        "launch-cell-intent-explicit-screen.csv":
+          "Explicit city-modified discovery, booking, repeat, beginner and corporate intent rows",
+        "launch-cell-intent-local-geo-screen.csv":
+          "Separate generic intent rows inside Manchester, Birmingham and Bristol targets",
+        "launch-cell-intent-summary.csv":
+          "Intent depth across eight launch formats and three candidate cities",
+        "launch-cell-decision-register.csv":
+          "Ranked launch cells with exact offer, pre-sale gate and largest unknown",
+        "launch-cell-supply-and-pricing.csv":
+          "Current operator, substitute and public venue-price evidence for launch cells",
+        "launch-cell-acquisition-sensitivity.csv":
+          "Historical CPC pressure test against illustrative repeat-adjusted acquisition ceilings",
+        "event-format-risk-and-controls.csv":
+          "Format-specific licensing, safety, customer, supplier and working-capital controls",
         "manifest.json": "Research scope, methods, exclusions and limitations",
         "practitioner-evidence-ledger.csv":
           "Payment-model and practitioner evidence claims",

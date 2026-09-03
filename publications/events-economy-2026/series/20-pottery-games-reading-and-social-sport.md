@@ -166,3 +166,5 @@ For a bootstrap, a strong activity wedge has:
 8. no requirement to maintain a huge catalogue before launch.
 
 That favours reading parties, social games, talks, walks, selected craft formats and bookable team sport ahead of a generic multi-activity marketplace. Pottery can be excellent once the asset model is proved. D&D can be a profitable facilitator network. Sport can become a venture network if facility and player liquidity transfer. Each is more concrete than “meet people who share your interests”.
+
+The [UK event-format opportunity map](./27-uk-event-format-opportunity-map.md) extends this comparison across 244 adult formats, including performance, dance, food, nature, technical hobbies, wellness, spa and retreats.

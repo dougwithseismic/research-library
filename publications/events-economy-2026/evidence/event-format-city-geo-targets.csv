@@ -1,0 +1,16 @@
+city,criterionId,canonicalName,countryCode,targetType,status,verifiedAgainst
+London,1006886,"London, England, United Kingdom",GB,City,Active,Google Ads geo-target CSV 2026-08-12
+Birmingham,1006524,"Birmingham, West Midlands, England, United Kingdom",GB,City,Active,Google Ads geo-target CSV 2026-08-12
+Manchester,1006912,"Manchester, Manchester, England, United Kingdom",GB,City,Active,Google Ads geo-target CSV 2026-08-12
+Leeds,1006864,"Leeds, West Yorkshire, England, United Kingdom",GB,City,Active,Google Ads geo-target CSV 2026-08-12
+Bristol,1006567,"Bristol, England, United Kingdom",GB,City,Active,Google Ads geo-target CSV 2026-08-12
+Nottingham,1006965,"Nottingham, Nottingham, England, United Kingdom",GB,City,Active,Google Ads geo-target CSV 2026-08-12
+Southampton,1007089,"Southampton, Southampton, England, United Kingdom",GB,City,Active,Google Ads geo-target CSV 2026-08-12
+Reading,1007009,"Reading, Reading, England, United Kingdom",GB,City,Active,Google Ads geo-target CSV 2026-08-12
+Edinburgh,1007326,"Edinburgh, Scotland, United Kingdom",GB,City,Active,Google Ads geo-target CSV 2026-08-12
+Glasgow,1007336,"Glasgow, Scotland, United Kingdom",GB,City,Active,Google Ads geo-target CSV 2026-08-12
+Liverpool,1006884,"Liverpool, England, United Kingdom",GB,City,Active,Google Ads geo-target CSV 2026-08-12
+Sheffield,1007064,"Sheffield, South Yorkshire, England, United Kingdom",GB,City,Active,Google Ads geo-target CSV 2026-08-12
+Newcastle,9258525,"Newcastle, England, United Kingdom",GB,City,Active,Google Ads geo-target CSV 2026-08-12
+Cardiff,1007416,"Cardiff, Wales, United Kingdom",GB,City,Active,Google Ads geo-target CSV 2026-08-12
+Belfast,1007274,"Belfast, Northern Ireland, United Kingdom",GB,City,Active,Google Ads geo-target CSV 2026-08-12

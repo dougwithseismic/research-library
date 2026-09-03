@@ -104,6 +104,8 @@ The useful conclusion is directional: explicit offline-dating demand is larger t
 
 A second regional pull compared nine verified city targets with the same friendship, interest-led and dating baskets. Birmingham produced the largest non-London local-geo comparison basket at 2,250 average monthly searches. Manchester produced the largest non-London explicit city-modified basket at 9,370. Bristol returned 1,060 and 5,980 respectively, while the current Timeleft city list omits Bristol. The [city opportunity scorecard](./26-city-opportunity-scorecard-and-launch-cells.md) therefore recommends Bristol as the cleanest learning cell, Birmingham as the scale-demand test and Manchester as the incumbent stress test. These overlapping baskets are comparison signals rather than addressable-market totals.
 
+The later format-specific work resolves that broad city choice for the first experiment. A 244-format screen, fifteen-city comparison and final purchase-intent pressure test make a **Manchester beginner darts season** the cleanest first paid cohort. Birmingham salsa and line dancing are the proposition controls; pottery is a studio-partner counter-test; wine is differentiated and partner-led; spa retreats wait for an audience. [Launch-cell pressure test](./29-launch-cell-intent-competition-and-acquisition.md)
+
 ## What would the commercial model be?
 
 The [43-part revenue playbook](../evidence/revenue-playbook.csv) shows many possibilities, but the launch company should earn four layers in sequence.
@@ -198,7 +200,7 @@ These are proposed management gates, not industry benchmarks. They exist to forc
 
 Start with **one interest-led regional programme**, one service area, two weekday venue relationships and a small host/facilitator bench. Use a lecture, reading, game, sport or portable making format as the public front door. Offer the most engaged attendees a related dinner, salon, course or cohort. Sell tickets and seasons first; add capped membership only when cross-format return and contribution are understood.
 
-If the founder has no pre-existing geographic advantage, obtain comparable venue quotes and paid-intent evidence in Bristol, Birmingham and Manchester before selecting the first cell. Do not average those cities into a national launch. Choose one, deliver six paid events and make the programme repeat before opening another.
+If the founder has no pre-existing geographic advantage, start by obtaining written Manchester pub terms and preselling one six-event beginner darts season. Use Birmingham salsa and line-dancing propositions as controls before delivery, and request one pottery partner quote as a counter-test. Do not average the cities into a national launch. Make one programme repeat before opening another. These are evidence-led tests, not proof that the final company must be a darts operator.
 
 Keep dating separate. A platonic or activity product loses trust if every room feels like covert matchmaking; a dating product fails if it refuses to manage attraction, rejection and composition. A company may eventually operate both, but they require different promises, rules and safety design.
 

@@ -2,7 +2,7 @@
   "slug": "events-economy-2026",
   "title": "Building in the Social Events Economy in 2026",
   "shortTitle": "Social Events Economy 2026",
-  "summary": "A decision-grade UK research series on structured social leisure: friendship, dating, talks, craft, games, sport, city launch markets, AI-generated content, synthetic companionship and the physical assets a founder can own.",
+  "summary": "A decision-grade UK research series on structured social leisure: friendship, dating, talks, craft, games, sport and retreats, including a 244-format screen, fifteen-city depth and launch-cell intent, competition and acquisition economics.",
   "eyebrow": "Commercial research series",
   "geography": "UK; selected European and US comparators",
   "observedAt": "2026-09-03",
@@ -145,9 +145,36 @@
       "description": "A nine-city demand screen, current operator evidence, launch ranking, market dossiers and disconfirming tests."
     },
     {
+      "source": "27-uk-event-format-opportunity-map.md",
+      "output": "27-uk-event-format-opportunity-map.html",
+      "number": "15",
+      "section": "The decision",
+      "shortTitle": "244-format opportunity map",
+      "title": "The UK Event-Format Opportunity Map",
+      "description": "A current UK search-demand and launch-potential screen across 244 sports, games, culture, craft, food, hobby, wellness, spa and retreat formats."
+    },
+    {
+      "source": "28-event-format-city-depth-and-economics.md",
+      "output": "28-event-format-city-depth-and-economics.html",
+      "number": "16",
+      "section": "The decision",
+      "shortTitle": "Format-city depth",
+      "title": "Event-Format City Depth and Fill-Sensitive Economics",
+      "description": "A 15-city, 24-format demand comparison with operator prices, fill-sensitive economics, partner constraints and paid pilot gates."
+    },
+    {
+      "source": "29-launch-cell-intent-competition-and-acquisition.md",
+      "output": "29-launch-cell-intent-competition-and-acquisition.html",
+      "number": "17",
+      "section": "The decision",
+      "shortTitle": "Launch-cell pressure test",
+      "title": "Launch-Cell Intent, Competition and Acquisition Economics",
+      "description": "A purchase-intent, current-supply, venue-price, acquisition and compliance pressure test for the leading Manchester, Birmingham and Bristol launch cells."
+    },
+    {
       "source": "23-the-revised-founder-strategy.md",
       "output": "23-the-revised-founder-strategy.html",
-      "number": "15",
+      "number": "18",
       "section": "The decision",
       "shortTitle": "Founder strategy",
       "title": "Founder Strategy",
@@ -156,7 +183,7 @@
     {
       "source": "09-commercial-model-and-unit-economics.md",
       "output": "09-commercial-model-and-unit-economics.html",
-      "number": "16",
+      "number": "19",
       "section": "Commercial and operating model",
       "shortTitle": "Commercials",
       "title": "Commercial Model and Unit Economics",
@@ -165,7 +192,7 @@
     {
       "source": "22-the-forty-three-part-revenue-playbook.md",
       "output": "22-the-forty-three-part-revenue-playbook.html",
-      "number": "17",
+      "number": "20",
       "section": "Commercial and operating model",
       "shortTitle": "43 revenue plays",
       "title": "The Forty-Three-Part Revenue Playbook",
@@ -174,7 +201,7 @@
     {
       "source": "10-product-operations-and-city-liquidity.md",
       "output": "10-product-operations-and-city-liquidity.html",
-      "number": "18",
+      "number": "21",
       "section": "Commercial and operating model",
       "shortTitle": "Product and operations",
       "title": "Product, Operations and City Liquidity",
@@ -183,7 +210,7 @@
     {
       "source": "11-go-to-market-and-twelve-month-launch-plan.md",
       "output": "11-go-to-market-and-twelve-month-launch-plan.html",
-      "number": "19",
+      "number": "22",
       "section": "Commercial and operating model",
       "shortTitle": "Launch plan",
       "title": "Go-to-Market and Twelve-Month Launch Plan",
@@ -192,7 +219,7 @@
     {
       "source": "12-trust-safety-compliance-and-failure-modes.md",
       "output": "12-trust-safety-compliance-and-failure-modes.html",
-      "number": "20",
+      "number": "23",
       "section": "Risk and next evidence",
       "shortTitle": "Trust and safety",
       "title": "Trust, Safety, Compliance and Failure Modes",
@@ -201,7 +228,7 @@
     {
       "source": "24-how-event-companies-destroy-value.md",
       "output": "24-how-event-companies-destroy-value.html",
-      "number": "21",
+      "number": "24",
       "section": "Risk and next evidence",
       "shortTitle": "Failure cases",
       "title": "How Event Companies Destroy Value",
@@ -210,7 +237,7 @@
     {
       "source": "13-primary-research-programme.md",
       "output": "13-primary-research-programme.html",
-      "number": "22",
+      "number": "25",
       "section": "Risk and next evidence",
       "shortTitle": "Primary research",
       "title": "Primary Research Programme",
@@ -219,7 +246,7 @@
     {
       "source": "14-bootstrap-versus-venture-capital.md",
       "output": "14-bootstrap-versus-venture-capital.html",
-      "number": "23",
+      "number": "26",
       "section": "Capital and the future",
       "shortTitle": "Bootstrap vs venture",
       "title": "Bootstrap Versus Venture Capital",
@@ -228,7 +255,7 @@
     {
       "source": "15-the-market-from-2027-to-2030.md",
       "output": "15-the-market-from-2027-to-2030.html",
-      "number": "24",
+      "number": "27",
       "section": "Capital and the future",
       "shortTitle": "2027–2030",
       "title": "The Social Events Market from 2027 to 2030",
@@ -237,7 +264,7 @@
     {
       "source": "16-the-optimal-capital-and-company-building-route.md",
       "output": "16-the-optimal-capital-and-company-building-route.html",
-      "number": "25",
+      "number": "28",
       "section": "Capital and the future",
       "shortTitle": "The optimal route",
       "title": "The Optimal Capital and Company-Building Route",
@@ -246,7 +273,7 @@
     {
       "source": "25-ai-content-synthetic-companionship-and-the-physical-moat.md",
       "output": "25-ai-content-synthetic-companionship-and-the-physical-moat.html",
-      "number": "26",
+      "number": "29",
       "section": "AI disruption",
       "shortTitle": "AI and physical events",
       "title": "AI Content, Synthetic Companionship and the Physical Moat",
