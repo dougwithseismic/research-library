@@ -4,32 +4,84 @@
 **Decision geography:** United Kingdom first, with selected European and North American mechanism comparators<br>
 **Language:** English<br>
 **Currency:** GBP<br>
-**Status:** Internal strategy and research series; not published<br>
+**Status:** Published research series<br>
 **Evidence pack:** [`../evidence`](../evidence/)
 
-## The decision
+Social events are organised occasions where interacting with other people is part of the product—not merely something that may happen around it. The social events economy is the network of operators, hosts, venues, platforms and buyers that makes those occasions discoverable, safe, repeatable and commercially viable.
 
-The opportunity is not “events” in general and it is not a better swipe interface. It is a **reliable participation engine**: a product that gives people a credible reason, time, place and group with less planning, rejection and uncertainty than arranging it themselves.
+This report examines that economy in the UK across friendship, dating, talks, craft, reading, games and sport. It asks what is already being built, how the money moves, which models can endure and where a founder should focus.
 
-The 44-company review points to one strongest UK starting position: an **interest-led regional event house with a relationship layer**. Public talks, reading parties, social games, selected sport and portable making nights give the customer standalone value and acquire a larger room. Related hosted dinners, salons, courses and small cohorts produce repeated contact and actual relationship depth.
+## What are social events?
 
-The company should lead with the interesting thing to do, make solo arrival unusually good and sell a bounded season or cohort before an unlimited membership. It should use Liiiv, Eventbrite, Fever and other platforms as distribution before trying to become a multi-category marketplace itself.
+A social event is a planned in-person occasion designed to help people participate with others. It gives attendees a reason to arrive, a structure for what happens in the room and some permission to speak, play, learn or make something together.
 
-The optimal capital route is **bootstrap the first operating truth; use a small angel or SEIS round to prove portability; raise institutional venture capital only after a second city cell behaves like the first**. Equity should accelerate a repeatable system rather than finance the search for one. If the second cell does not transfer, the better company is a profitable regional operator rather than a prematurely national network.
+That definition includes two broad forms:
 
-The commercial evidence supports a much broader category—called **structured social leisure** in this report—but not an effortless one:
+- **social-first events**, where meeting people is the explicit purchase: hosted friendship dinners, singles events, speed dating, mixers and stranger meetups;
+- **activity-first events**, where a subject or shared task makes interaction easier: lectures in pubs, reading parties, pottery workshops, board-game nights, Dungeons & Dragons campaigns, running groups and social-sport leagues.
 
-- Google Ads returned **4,640 UK average monthly searches** across a conservative friendship-discovery basket at a **£1.58 volume-weighted historical CPC**.
-- A separate national offline-dating basket returned **10,260 searches at £1.61 weighted CPC**. A London-only basket returned 9,300 at £1.31 and is not added to the national total.
-- `dating app` and its grouped close variant returned 33,100 searches, while `speed dating` returned 5,400. Digital incumbents still own far more explicit search demand.
-- Timeleft reports 3 million-plus members across 200-plus cities and has moved from one dinner format to a subscription social calendar. These are first-party claims, not audited operating metrics. [Timeleft](https://timeleft.com/)
-- Dinners With Friends currently sells a typical hosted dinner reservation for 15 credits, with credits priced at £1 each before bulk discounts. Food and drink are paid to the venue. [How it works](https://dinnerswithfriends.co.uk/how-it-works)
-- Seed Talks says pub-lecture tickets usually start around £15 and already extends the same programming into online events, recordings, courses, professional workshops and CPD. [Seed Talks](https://www.seedtalks.co.uk/talks-in-pubs)
-- Lectures on Tap sells a $49.99 monthly membership capped at 50 people per city while explicitly excluding lecture tickets—evidence that scarcity, access and identity can be monetised separately from attendance. [Membership](https://lecturesontap.com/members)
-- A second keyword pull found 40,500 UK average monthly searches for `pottery painting near me`, 49,500 for `padel near me`, 12,100 for `board game cafe` and 4,400 for `book club near me`. These overlapping phrases are not a market-size total.
-- GO Mammoth sells fully organised UK social-sport seasons rather than isolated fixtures; The Offline Club licenses phone-free city chapters whose leaders retain a majority of local ticket, sponsorship, partnership, merchandise and optional B2B or membership earnings. These models show two different routes to recurrence and geographic expansion. [GO Mammoth](https://www.gomammoth.co.uk/about-us/), [The Offline Club](https://www.theoffline-club.com/start-city-chapter)
-- Liiiv is retained only as a European mechanism comparator: its public terms expose organiser subscriptions, ticket commission, paid promotion and external booking redirects. Its Android listing showed 10,000-plus downloads; downloads do not prove active use, UK demand or revenue. [Liiiv](https://www.liiiv.cz/cs), [organiser terms](https://www.liiiv.cz/b2b-terms-of-service)
-- Match Group still generated $3.49 billion in 2025 revenue. Tinder declined while Hinge grew, and Tinder is now building ticketed and free IRL events into its product. [Match Group 2025 Form 10-K](https://www.sec.gov/Archives/edgar/data/891103/000089110326000025/mtch-20251231.htm), [Tinder Events](https://events.tinder.com/en/events/)
+The boundary is design rather than venue. A large concert may contain thousands of people without helping strangers interact. A six-person game, ten-person dinner or well-hosted lecture can make participation unavoidable and comfortable. The strongest formats also make solo arrival normal, reduce uncertainty about what will happen and create a credible reason to return.
+
+In this report, **structured social leisure** is the wider category: organised time outside work and home in which an activity, subject or ritual makes being with other people easier. The term is an analytical label, not an official industry classification.
+
+## What is the social events economy?
+
+The social events economy is the commercial and operating system around structured participation. It begins with a person's unresolved need—something to do, people to meet, a skill to learn, a game to join or somewhere to belong—and ends with an attended occasion that was valuable enough to repeat.
+
+Several parties can create or capture that value:
+
+| Participant in the economy  | What they contribute                                          | How they may earn or benefit                                                |
+| --------------------------- | ------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| Attendee or member          | money, time, presence and behavioural commitment              | activity, connection, learning, routine or belonging                        |
+| Host or facilitator         | welcome, instruction, moderation and room quality             | fee, ticket share, recurring work or local business                         |
+| Venue                       | physical capacity, hospitality, equipment and local trust     | hire fee, food and drink, off-peak utilisation or new repeat customers      |
+| Event operator              | proposition, programme, demand, attendance and accountability | tickets, packs, courses, memberships, private events and sponsorship        |
+| Platform                    | discovery, booking, payment, communication or supply software | service fees, commission, subscriptions, promotion or partner spread        |
+| Employer, brand or landlord | funded access, audience budget or underused space             | employee benefit, customer access, placemaking or measurable venue activity |
+
+This is why the economy is larger than ticketing. Revenue can come from a seat, a season, a course, a credit bundle, a member subscription, materials, food and drink, corporate programming, content rights, sponsorship, venue value, organiser software or marketplace commission. Each layer requires a different asset. A ticket needs one good event; a membership needs reliable future supply; sponsorship needs a known audience; software needs a repeated organiser problem; a marketplace needs genuine liquidity on both sides.
+
+The economic product is therefore not simply an event listing. It is a **reliable participation engine**: a system that turns fragmented people, places and activities into a room that actually happens and feels worth repeating.
+
+## What is being built now?
+
+The market is active but fragmented. The [44-company operator atlas](./18-forty-two-company-operator-atlas.md) shows five overlapping directions:
+
+1. **Managed social calendars.** Dinners With Friends, Timeleft and 222 organise the occasion and take responsibility for composition, attendance and the experience rather than merely listing it.
+2. **Dating moves into events.** Thursday and Bored of Dating Apps begin with IRL events, while Tinder, Hinge and Bumble increasingly treat offline participation as part of their product rather than a marketing extra.
+3. **Interests become the front door.** Seed Talks, Lectures on Tap, Reading Rhythms, Social Pottery, Otter Chaos and GO Mammoth sell an idea, skill, game or season that also makes people easier to meet.
+4. **Rituals become networks.** Repeated formats, host playbooks and city chapters let Reading Rhythms, The Offline Club, Sofar and similar operators expand without owning every venue.
+5. **Infrastructure moves underneath the operators.** Eventbrite handles generic ticketing; Playtomic connects court software to player demand; SweatPals gives community hosts commercial tools; Fever, Ocio and Liiiv approach discovery and commerce from different sides.
+
+Three forces sit underneath this activity. Digital dating remains enormous but its incumbents are investing in IRL products. Consumers already search for concrete activities at far greater volume than they search for abstract friendship services. Meanwhile, venues, employers and local communities all have reasons to fund reliable participation: spare capacity, employee wellbeing, footfall and social infrastructure.
+
+The result is not a clean new industry waiting for a category leader. It is a contest between dating apps, local operators, classes, clubs, hospitality, marketplaces and informal communities for the same evening in a person's week.
+
+## Where would I focus?
+
+I would build an **interest-led regional event house with a relationship layer**.
+
+The public product would be a recurring 60–120-person talk, reading party, social-game night, selected sport or portable making event. It would be interesting enough to buy even if the attendee made no friend. Its commercial job would be acquisition, contribution, editorial identity and audience growth.
+
+The depth product would be an eight-to-fourteen-person dinner, salon, short course, campaign or cohort related to that public programme. Its job would be repeated contact, stronger relationships, learning, referrals and eventually membership proof.
+
+```text
+PUBLIC ENGINE
+interesting thing to do → easy solo arrival → good shared room → direct audience
+
+DEPTH ENGINE
+smaller repeated group → recognition → relationship → retention
+```
+
+This focus avoids three weak starting positions:
+
+- a generic “meet new people” app that needs city liquidity before it creates value;
+- a multi-category event marketplace competing for inventory and attention from day one;
+- a dinner-only service whose small room limits acquisition efficiency and revenue per operating hour.
+
+The company should sell tickets and bounded seasons first. Membership should follow observed cross-format return, not precede it. Existing platforms can provide early distribution and payments; the founder should own the programme, attendance record, hosts, customer relationship and format economics.
+
+I would **bootstrap the first operating truth, use a small angel or SEIS round only to test whether the programme transfers, and consider institutional capital after a second city cell behaves like the first**. If it does not transfer, a profitable regional institution remains a good company. If it does, capital can accelerate a participation network whose value sits in trusted local density rather than event listings.
 
 ## The category in one line
 
