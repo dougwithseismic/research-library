@@ -1,0 +1,4 @@
+scenario,paid_attendees,seat_price_gbp,seat_revenue_gbp,host_meal_contribution_gbp,remainder_before_other_costs_gbp,remainder_per_paid_seat_gbp,status,limitation
+Low-fill hosted dinner,6,15.00,90.00,20.00,70.00,11.67,derived,Excludes free host meal and every other delivery acquisition and overhead cost
+Target hosted dinner,10,15.00,150.00,20.00,130.00,13.00,derived,Excludes free host meal and every other delivery acquisition and overhead cost
+Full hosted dinner,11,15.00,165.00,20.00,145.00,13.18,derived,Excludes free host meal and every other delivery acquisition and overhead cost

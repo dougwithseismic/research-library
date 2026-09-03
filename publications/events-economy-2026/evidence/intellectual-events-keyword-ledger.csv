@@ -1,0 +1,31 @@
+keyword,close_variants,average_monthly_searches,competition,competition_index,average_cpc_gbp,low_top_of_page_gbp,high_top_of_page_gbp,reporting_group,decision
+lectures near me,,90,LOW,7,0.809079,0.554129,1.289009,national-strict,include
+talks near me,,210,LOW,1,5.101565,0.000000,0.000000,national-strict,include
+public lectures,,210,LOW,6,1.908068,1.138260,2.494618,national-strict,include
+public lectures near me,,50,LOW,3,0.000000,0.000000,0.000000,national-strict,include
+evening lectures,,10,LOW,0,0.000000,0.000000,0.000000,national-strict,include
+live talks,,260,LOW,21,1.047572,0.435421,1.128376,national-strict,include
+intellectual events,,10,UNSPECIFIED,0,0.000000,0.000000,0.000000,national-strict,include
+science talks,,70,LOW,8,1.386489,0.610812,1.385135,national-strict,include
+history talks,,90,LOW,3,2.391434,0.000000,0.000000,national-strict,include
+psychology talks,,70,LOW,17,6.607484,1.142223,3.367788,national-strict,include
+author talks,,50,LOW,2,0.000000,0.000000,0.000000,national-strict,include
+cultural events,,390,LOW,1,0.000000,0.000000,0.000000,broad-context,exclude broad mixed intent
+lectures london,,880,LOW,8,4.007863,0.837230,6.356980,london-separate,include separate local lens
+talks london,,210,LOW,4,1.584702,0.603570,1.923299,london-separate,include separate local lens
+interesting talks london,,90,LOW,20,6.980956,0.665720,6.607531,london-separate,include separate local lens
+lifelong learning,,4400,LOW,5,2.837911,0.836112,3.380403,broad-context,exclude broad informational intent
+adult education classes,,110,MEDIUM,39,0.977405,0.387129,1.649216,broad-context,exclude broader formal learning
+seed talks,,3600,LOW,0,1.654674,0.129440,4.486913,brand,report separately
+intelligence squared,,1600,LOW,1,0.000000,0.336956,2.296213,brand,report separately
+5x15,,1000,LOW,0,0.000000,0.000000,0.000000,brand,report separately
+how to academy,,2400,LOW,0,0.000000,0.000000,0.000000,brand,report separately
+profs and pints,,10,LOW,0,0.000000,0.000000,0.000000,brand,report separately
+reading rhythms,,50,LOW,1,0.000000,0.000000,0.000000,brand,report separately
+pint of science,,1900,LOW,0,0.000000,0.000000,0.000000,brand,report separately
+pint of view,,2900,LOW,0,0.000000,0.000000,0.000000,ambiguous,exclude as clean brand due mixed phrase or media intent
+talks in pubs,,0,UNSPECIFIED,0,0.000000,0.000000,0.000000,national-strict,zero retained but not proof of no demand
+lectures in pubs,,10,LOW,0,0.000000,0.000000,0.000000,national-strict,include
+lecture events london,,0,UNSPECIFIED,0,0.000000,0.000000,0.000000,london-separate,zero retained but not proof of no demand
+lectures on tap,,90,LOW,0,0.000000,0.000000,0.000000,brand,report separately
+knightcap chess club,,10,LOW,0,0.000000,0.000000,0.000000,brand,report separately

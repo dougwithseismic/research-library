@@ -1,0 +1,238 @@
+{
+  "slug": "events-economy-2026",
+  "title": "Building in the Social Events Economy in 2026",
+  "shortTitle": "Social Events Economy 2026",
+  "summary": "A decision-grade UK research series on structured social leisure: friendship, dating, talks, craft, games, sport and local discovery, with company landscape, economics, revenue plays, capital routes and where a founder can win.",
+  "eyebrow": "Commercial research series",
+  "geography": "UK; selected European and US comparators",
+  "observedAt": "2026-09-03",
+  "status": "Internal working research",
+  "accent": "#ff6f61",
+  "pages": [
+    {
+      "source": "README.md",
+      "output": "index.html",
+      "number": "00",
+      "section": "Start here",
+      "shortTitle": "Overview",
+      "title": "Building in the Social Events Economy in 2026",
+      "description": "The verdict, category map and evidence guide for the complete series."
+    },
+    {
+      "source": "01-how-i-would-build-in-the-social-events-economy-in-2026.md",
+      "output": "01-how-i-would-build-in-the-social-events-economy-in-2026.html",
+      "number": "01",
+      "section": "Start here",
+      "shortTitle": "The complete thesis",
+      "title": "How I Would Build in the Social Events Economy in 2026",
+      "description": "The answer-first strategic argument and recommended UK launch model."
+    },
+    {
+      "source": "02-research-method-and-evidence-boundaries.md",
+      "output": "02-research-method-and-evidence-boundaries.html",
+      "number": "02",
+      "section": "Start here",
+      "shortTitle": "Research method",
+      "title": "Research Method and Evidence Boundaries",
+      "description": "Definitions, source hierarchy, keyword method, calculations and unresolved facts."
+    },
+    {
+      "source": "03-why-now-the-demand-for-structured-connection.md",
+      "output": "03-why-now-the-demand-for-structured-connection.html",
+      "number": "03",
+      "section": "The market",
+      "shortTitle": "Why now",
+      "title": "Why Now: The Demand for Structured Connection",
+      "description": "Loneliness, app fatigue, hospitality capacity and the limits of the category narrative."
+    },
+    {
+      "source": "17-the-structured-social-leisure-economy.md",
+      "output": "17-the-structured-social-leisure-economy.html",
+      "number": "04",
+      "section": "The market",
+      "shortTitle": "Structured social leisure",
+      "title": "The Structured Social Leisure Economy",
+      "description": "The wider category across talks, craft, games, sport, friendship and discovery, led by UK demand and tested against selected international models."
+    },
+    {
+      "source": "04-landscape-and-business-model-archetypes.md",
+      "output": "04-landscape-and-business-model-archetypes.html",
+      "number": "05",
+      "section": "The market",
+      "shortTitle": "Landscape",
+      "title": "Landscape and Business-Model Archetypes",
+      "description": "The operators between dating apps, event marketplaces, membership clubs and local hosts."
+    },
+    {
+      "source": "18-forty-two-company-operator-atlas.md",
+      "output": "18-forty-two-company-operator-atlas.html",
+      "number": "06",
+      "section": "The market",
+      "shortTitle": "44-company atlas",
+      "title": "Forty-Four-Company Operator Atlas",
+      "description": "A sourced operator census, model patterns, competitive crowding and commercial whitespace."
+    },
+    {
+      "source": "05-dinners-with-friends-local-trust-as-the-product.md",
+      "output": "05-dinners-with-friends-local-trust-as-the-product.html",
+      "number": "07",
+      "section": "Company and format studies",
+      "shortTitle": "Dinners With Friends",
+      "title": "Dinners With Friends: Local Trust as the Product",
+      "description": "A live case study of hosted platonic dining, credits, venue value and operational constraints."
+    },
+    {
+      "source": "06-timeleft-city-liquidity-as-the-product.md",
+      "output": "06-timeleft-city-liquidity-as-the-product.html",
+      "number": "08",
+      "section": "Company and format studies",
+      "shortTitle": "Timeleft",
+      "title": "Timeleft: City Liquidity as the Product",
+      "description": "The scaled social-calendar model, subscription economics, orchestration and brand revenue."
+    },
+    {
+      "source": "07-dating-incumbents-and-the-offline-turn.md",
+      "output": "07-dating-incumbents-and-the-offline-turn.html",
+      "number": "09",
+      "section": "Company and format studies",
+      "shortTitle": "Dating incumbents",
+      "title": "Dating Incumbents and the Offline Turn",
+      "description": "Tinder, Hinge, Bumble, Thursday and what the move into IRL experiences validates."
+    },
+    {
+      "source": "19-intellectual-nightlife-and-the-lecture-business.md",
+      "output": "19-intellectual-nightlife-and-the-lecture-business.html",
+      "number": "10",
+      "section": "Company and format studies",
+      "shortTitle": "Intellectual nightlife",
+      "title": "Intellectual Nightlife and the Lecture Business",
+      "description": "Lectures on Tap, Seed Talks, touring, membership, content rights and lecture economics."
+    },
+    {
+      "source": "20-pottery-games-reading-and-social-sport.md",
+      "output": "20-pottery-games-reading-and-social-sport.html",
+      "number": "11",
+      "section": "Company and format studies",
+      "shortTitle": "Activity-first models",
+      "title": "Pottery, Games, Reading and Social Sport",
+      "description": "How activity constraints shape repeat, revenue, facilitator leverage, facilities and company design."
+    },
+    {
+      "source": "21-liiiv-and-the-local-discovery-layer.md",
+      "output": "21-liiiv-and-the-local-discovery-layer.html",
+      "number": "12",
+      "section": "Company and format studies",
+      "shortTitle": "Discovery platforms",
+      "title": "Discovery Platforms: Liiiv, Ocio and Fever",
+      "description": "A European discovery comparator, UK credit model, global marketplace and the own-versus-aggregate decision."
+    },
+    {
+      "source": "08-where-to-play-customer-segments-and-scorecard.md",
+      "output": "08-where-to-play-customer-segments-and-scorecard.html",
+      "number": "13",
+      "section": "The decision",
+      "shortTitle": "Where to play",
+      "title": "Where to Play: Customer Segments and Scorecard",
+      "description": "A weighted comparison of friendship dining, social subscriptions, singles events and marketplaces."
+    },
+    {
+      "source": "23-the-revised-founder-strategy.md",
+      "output": "23-the-revised-founder-strategy.html",
+      "number": "14",
+      "section": "The decision",
+      "shortTitle": "Founder strategy",
+      "title": "Founder Strategy",
+      "description": "The two-speed product, founder budget, operating metrics, bootstrap path, venture gates and future market."
+    },
+    {
+      "source": "09-commercial-model-and-unit-economics.md",
+      "output": "09-commercial-model-and-unit-economics.html",
+      "number": "15",
+      "section": "Commercial and operating model",
+      "shortTitle": "Commercials",
+      "title": "Commercial Model and Unit Economics",
+      "description": "Seat fees, memberships, venue value, brand activations and scenario economics."
+    },
+    {
+      "source": "22-the-forty-three-part-revenue-playbook.md",
+      "output": "22-the-forty-three-part-revenue-playbook.html",
+      "number": "16",
+      "section": "Commercial and operating model",
+      "shortTitle": "43 revenue plays",
+      "title": "The Forty-Three-Part Revenue Playbook",
+      "description": "Consumer, content, B2B, venue, brand and platform revenue sequenced by the asset required."
+    },
+    {
+      "source": "10-product-operations-and-city-liquidity.md",
+      "output": "10-product-operations-and-city-liquidity.html",
+      "number": "17",
+      "section": "Commercial and operating model",
+      "shortTitle": "Product and operations",
+      "title": "Product, Operations and City Liquidity",
+      "description": "The attendance engine, host system, venue supply, matching data and density gates."
+    },
+    {
+      "source": "11-go-to-market-and-twelve-month-launch-plan.md",
+      "output": "11-go-to-market-and-twelve-month-launch-plan.html",
+      "number": "18",
+      "section": "Commercial and operating model",
+      "shortTitle": "Launch plan",
+      "title": "Go-to-Market and Twelve-Month Launch Plan",
+      "description": "A staged UK launch with experiments, metrics, expansion rules and stop conditions."
+    },
+    {
+      "source": "12-trust-safety-compliance-and-failure-modes.md",
+      "output": "12-trust-safety-compliance-and-failure-modes.html",
+      "number": "19",
+      "section": "Risk and next evidence",
+      "shortTitle": "Trust and safety",
+      "title": "Trust, Safety, Compliance and Failure Modes",
+      "description": "Safeguarding, discrimination, profiling, consumer terms, event risk and reputation."
+    },
+    {
+      "source": "24-how-event-companies-destroy-value.md",
+      "output": "24-how-event-companies-destroy-value.html",
+      "number": "20",
+      "section": "Risk and next evidence",
+      "shortTitle": "Failure cases",
+      "title": "How Event Companies Destroy Value",
+      "description": "Pollen, Spacious, The Wing and the working-capital, asset and scaling controls their failures expose."
+    },
+    {
+      "source": "13-primary-research-programme.md",
+      "output": "13-primary-research-programme.html",
+      "number": "21",
+      "section": "Risk and next evidence",
+      "shortTitle": "Primary research",
+      "title": "Primary Research Programme",
+      "description": "The interviews and field tests needed to replace the largest commercial assumptions."
+    },
+    {
+      "source": "14-bootstrap-versus-venture-capital.md",
+      "output": "14-bootstrap-versus-venture-capital.html",
+      "number": "22",
+      "section": "Capital and the future",
+      "shortTitle": "Bootstrap vs venture",
+      "title": "Bootstrap Versus Venture Capital",
+      "description": "How the product, economics, pace, moat and destination change under each capital model."
+    },
+    {
+      "source": "15-the-market-from-2027-to-2030.md",
+      "output": "15-the-market-from-2027-to-2030.html",
+      "number": "23",
+      "section": "Capital and the future",
+      "shortTitle": "2027–2030",
+      "title": "The Social Events Market from 2027 to 2030",
+      "description": "Future scenarios, incumbent responses, commoditised matching and the assets likely to endure."
+    },
+    {
+      "source": "16-the-optimal-capital-and-company-building-route.md",
+      "output": "16-the-optimal-capital-and-company-building-route.html",
+      "number": "24",
+      "section": "Capital and the future",
+      "shortTitle": "The optimal route",
+      "title": "The Optimal Capital and Company-Building Route",
+      "description": "A staged bootstrap-to-proof plan, raise gates, capital scenarios and strategic endgames."
+    }
+  ]
+}

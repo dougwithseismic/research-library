@@ -1,0 +1,36 @@
+keyword,close_variants,bucket,average_monthly_searches,competition,competition_index,average_cpc_gbp,low_top_of_page_gbp,high_top_of_page_gbp,decision,reason,observed_at
+social events,,friendship_discovery,480,LOW,2,0.5640,0.0687,0.9925,included,Canonical broad social-event discovery term,2026-09-03
+social events near me,,friendship_discovery,320,LOW,12,1.8879,0.2784,1.7791,included,Canonical local social-event discovery term,2026-09-03
+meet new people,,friendship_discovery,720,MEDIUM,44,1.9995,0.5904,1.9656,included,Canonical connection-intent term with mixed informational intent,2026-09-03
+make new friends,,friendship_discovery,720,LOW,8,1.2141,0.5415,1.8321,included,Canonical friendship-intent term with mixed informational intent,2026-09-03
+friendship app,,friendship_discovery,1300,LOW,20,2.1324,0.5489,2.1659,included,Explicit product-category discovery term,2026-09-03
+dinner with strangers,,friendship_discovery,170,LOW,8,2.7013,1.1798,3.8288,included,Explicit format term,2026-09-03
+social groups near me,,friendship_discovery,720,LOW,18,0.8597,0.1881,1.3837,included,Canonical local community-discovery term,2026-09-03
+make friends near me,,friendship_discovery,210,MEDIUM,38,1.2918,0.5423,2.0166,included,Canonical local friendship-intent term,2026-09-03
+social dining,,adjacent_format,40,LOW,2,0.0000,0.0000,0.0000,separate,Small mixed food and social intent,2026-09-03
+supper club,,adjacent_format,3600,LOW,2,2.6590,0.7599,3.4800,excluded,Food-first and connection-first intent cannot be separated,2026-09-03
+supper club london,,adjacent_format,1600,LOW,7,2.4178,0.5460,2.3630,excluded,London food-first term and overlaps national observation,2026-09-03
+singles events,,offline_dating_national,480,LOW,25,1.6807,0.3896,2.2160,included,Canonical national singles-event term,2026-09-03
+singles events near me,,offline_dating_national,880,MEDIUM,40,2.3704,0.7515,3.0042,included,Canonical local singles-event term,2026-09-03
+speed dating,,offline_dating_national,5400,MEDIUM,34,1.4751,0.4692,1.6573,included,Canonical explicit format term,2026-09-03
+speed dating near me,,offline_dating_national,2900,MEDIUM,42,1.6631,0.6131,2.5695,included,Canonical local explicit format term,2026-09-03
+dating events,,offline_dating_national,390,MEDIUM,37,1.4609,0.4815,1.5800,included,Canonical national dating-event term,2026-09-03
+singles nights,,offline_dating_national,210,LOW,31,1.3363,0.4791,2.5340,included,Canonical singles-night term,2026-09-03
+singles events london,,offline_dating_london,1600,MEDIUM,50,1.2607,0.3883,1.2206,separate,London lens not added to national basket,2026-09-03
+speed dating london,,offline_dating_london,5400,MEDIUM,54,1.3328,0.4268,1.3198,separate,London lens not added to national basket,2026-09-03
+dating events london,,offline_dating_london,1300,MEDIUM,54,1.4478,0.4422,1.4072,separate,London lens not added to national basket,2026-09-03
+singles nights london,,offline_dating_london,1000,MEDIUM,50,1.0749,0.3641,1.1713,separate,London lens not added to national basket,2026-09-03
+dating app,dating apps,digital_dating,33100,MEDIUM,62,3.4602,1.1875,3.3679,separate,Grouped close variant and different product category,2026-09-03
+tinder,,brand,368000,LOW,11,2.4714,0.8344,3.1154,separate,Brand demand is not generic category demand,2026-09-03
+hinge,,brand,74000,MEDIUM,59,2.1220,0.7400,2.8352,separate,Brand demand is not generic category demand,2026-09-03
+bumble,,brand,0,UNSPECIFIED,0,0.0000,0.0000,0.0000,separate,Anomalous zero must not be interpreted as no demand,2026-09-03
+meetup,,brand,49500,LOW,2,2.0876,0.6772,2.8870,separate,Brand demand is not generic category demand,2026-09-03
+meetup london,,brand_local,3600,LOW,6,2.5935,0.6502,2.7597,separate,Local brand term overlaps national brand demand,2026-09-03
+timeleft,,brand,3600,LOW,2,0.3898,0.4224,0.7702,separate,Brand demand is not generic category demand,2026-09-03
+timeleft app,,brand,480,LOW,4,0.8462,0.4232,2.7521,separate,Brand variant not added to generic category demand,2026-09-03
+timeleft london,,brand_local,320,LOW,3,2.6038,0.7158,2.5284,separate,Local brand term overlaps national brand demand,2026-09-03
+dinners with friends,,brand,320,LOW,0,0.0000,0.0000,0.0000,separate,Brand phrase may also carry generic intent,2026-09-03
+dinner with strangers london,,format_local,90,LOW,7,2.8974,1.1639,6.4107,separate,Local format term overlaps generic format demand,2026-09-03
+thursday dating,,brand,3600,LOW,15,0.7806,0.2188,1.6540,separate,Brand demand is not generic category demand,2026-09-03
+thursday dating app,,brand,590,LOW,19,0.8821,0.2078,2.1756,separate,Brand variant not added to generic category demand,2026-09-03
+bored of dating apps,,brand,880,LOW,3,3.0371,1.0805,4.9418,separate,Brand phrase may also carry generic sentiment intent,2026-09-03

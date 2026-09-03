@@ -1,0 +1,13 @@
+format,scenario,currency,paid_attendees,price_per_attendee,gross_revenue,venue_or_facility,facilitator_or_speaker,materials_or_host_support,staff_and_av,acquisition,payment_and_refund_reserve,illustrative_contribution,contribution_margin,observed_anchor,assumption_warning
+Hosted friendship dinner,ten-seat base,GBP,10,15,150,0,20,0,0,30,12,88,58.7%,Dinners With Friends seat and host contribution,Excludes host meal beyond stated contribution and central overhead
+Public expert lecture,regional base,GBP,100,20,2000,350,250,0,300,250,240,610,30.5%,Seed and Lectures on Tap formats with market ticket examples,All cost inputs and blended ticket yield are planning assumptions
+Public expert lecture,large upside,GBP,150,25,3750,500,400,0,450,300,450,1650,44.0%,Current lecture ticket examples,Assumes strong fill and no costly talent travel
+Hybrid lecture,live plus digital and CPD,GBP,100,31.2,3120,350,350,0,550,300,375,1195,38.3%,Seed live online recording and CPD layers,Revenue combines 100 live at 20 plus 100 digital at 10 plus 20 CPD at 6
+Reading party,chapter event,GBP,40,15,600,100,80,20,40,90,52,218,36.3%,Reading Rhythms typical chapter size and ticket model,Price and every cost are assumed
+Social chess or board-game night,hosted room,GBP,36,15,540,100,80,30,40,80,46,164,30.4%,Knightcap and Otter Chaos format evidence,Assumes reusable game inventory and no food revenue
+Professional DnD cohort,weekly table,GBP,6,30,180,20,80,10,0,10,14,46,25.6%,StartPlaying typical price range plus premium live assumption,Small cohort is facilitator-capacity constrained
+Pickup sports game,twenty-player session,GBP,20,12,240,80,35,10,0,30,29,56,23.3%,GoodRec hosted game and Playtomic open-match formats,Facility and insurance economics vary sharply by sport and city
+Portable pottery workshop,twelve-person session,GBP,12,45,540,100,100,120,50,30,43,97,18.0%,Social Pottery and Pottery Cafe consumer prices,Assumes outsourced firing and no owned-studio lease
+Corporate creative workshop,twenty-five-person session,GBP,25,70,1750,250,250,375,100,150,70,555,31.7%,Social Pottery and Brush Party corporate products,Assumed B2B price and costs exclude VAT
+Activity marketplace,one-thousand monthly bookings,GBP,1000,30,4500,0,0,0,600,900,300,2700,60.0%,15% hypothetical take rate within observed marketplace range,Gross revenue is 15% of 30000 GMV and excludes product payroll
+Liiiv-style local discovery,organizer revenue stack,GBP,40,75,3000,0,0,0,700,1000,300,1000,33.3%,Observed organizer subscription commission and paid-placement layers,Uses 20 PRO accounts at 75 plus 10000 ticket GMV at 10% plus 5 promoted placements at 100

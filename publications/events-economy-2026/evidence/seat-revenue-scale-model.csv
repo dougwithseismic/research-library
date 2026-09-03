@@ -1,0 +1,5 @@
+annual_seat_revenue_target_gbp,seat_price_gbp,paid_seats_per_event,paid_seats_required,events_per_year,events_per_month,events_per_week,status,limitations
+100000,15,10,6667,667,55.6,12.8,derived,Gross seat revenue before empty seats cancellations fees delivery support safety acquisition tax and central payroll
+250000,15,10,16667,1667,138.9,32.1,derived,Gross seat revenue before empty seats cancellations fees delivery support safety acquisition tax and central payroll
+1000000,15,10,66667,6667,555.6,128.2,derived,Gross seat revenue before empty seats cancellations fees delivery support safety acquisition tax and central payroll
+100000,20,10,5000,500,41.7,9.6,derived,Price acceptance is untested and all operating costs remain excluded

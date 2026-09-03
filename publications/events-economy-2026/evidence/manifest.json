@@ -1,0 +1,82 @@
+{
+  "title": "Building in the social events economy in 2026",
+  "observedAt": "2026-09-03",
+  "decision": "Choose a defensible UK launch wedge across friendship dating talks craft games sport and local discovery using non-UK companies only to test transferable mechanisms.",
+  "geography": {
+    "name": "United Kingdom",
+    "googleAdsCriterionId": "2826"
+  },
+  "language": {
+    "name": "English",
+    "googleAdsCriterionId": "1000"
+  },
+  "network": "Google Search",
+  "currency": "GBP",
+  "googleAdsApiVersion": "v25",
+  "methods": [
+    "Google Ads GenerateKeywordHistoricalMetrics through the repository's authenticated read-only runner",
+    "Canonical keyword baskets with national and London observations kept separate where overlap is plausible",
+    "Current live-web review of operator homepages event listings pricing terms privacy safety and help pages",
+    "Primary regulator and government evidence for UK social conditions event risk consumer terms data protection and online safety",
+    "SEC filings and official results for public-company revenue and payer evidence",
+    "Current UK government and British Business Bank evidence for seed-market conditions and finance routes",
+    "First-party founder and investor materials used as attributed capital comparables rather than audited performance",
+    "Volume-weighted CPC calculated as sum of search volume multiplied by CPC divided by total search volume",
+    "Scenario unit economics using observed Dinners With Friends seat and host terms with all other inputs explicitly excluded or assumed",
+    "Weighted archetype scorecard used as a decision aid rather than an empirical forecast",
+    "Bottom-up capital budgets raise gates and dilution illustrations used as planning scenarios rather than financing advice",
+    "2027 to 2030 scenario planning used to test which present-day assets remain useful across divergent futures",
+    "Current-company census across 44 managed event activity platform and infrastructure operators",
+    "Second Google Ads historical-metrics pull for UK activity categories",
+    "Selected European and North American operators used as mechanism comparators rather than UK demand evidence",
+    "Cross-format contribution scenarios with every non-observed price capacity and cost marked as an assumption",
+    "Revenue mechanisms sequenced by the audience format rights venue or network asset required"
+  ],
+  "includedArtifacts": [
+    "commercial-keyword-ledger.csv",
+    "capital-plan-scenarios.csv",
+    "future-scenarios.csv",
+    "opportunity-scorecard.csv",
+    "seat-revenue-scale-model.csv",
+    "sources.csv",
+    "unit-economics-scenarios.csv",
+    "operator-census.csv",
+    "revenue-playbook.csv",
+    "activity-keyword-ledger.csv",
+    "format-economics-scenarios.csv",
+    "intellectual-events-keyword-ledger.csv"
+  ],
+  "exclusions": [
+    "Current-month Google Ads traffic forecasts",
+    "Organic ranking difficulty claims",
+    "Brand-search terms from generic category totals",
+    "London keyword variants from national basket totals",
+    "Restaurant spend from operator revenue",
+    "Historical non-UK Timeleft prices from the UK commercial model",
+    "Unverified operator retention acquisition cost profit and incident rates",
+    "Investor outreach term sheets and financing availability for the proposed company",
+    "Brand-only Companies House matching without an authoritative legal identifier",
+    "Broad things-to-do events-near-me and classes-near-me terms from activity category totals",
+    "All non-UK keyword volume from the UK market analysis",
+    "Operator downloads registrations followers or claimed attendees as active paying customers",
+    "Restaurant studio facility or marketplace gross booking value as company revenue"
+  ],
+  "limitations": [
+    "Average monthly searches are rounded trailing historical averages and not obtainable traffic.",
+    "Google Ads may group or suppress close variants and zero-return rows are not proof of zero demand.",
+    "Friendship discovery phrases include mixed commercial informational and community intent.",
+    "Operator scale attendance and satisfaction statements are first-party unless explicitly identified otherwise.",
+    "Dinners With Friends publishes inconsistent participation totals and start-date wording across live pages.",
+    "Timeleft UK subscription pricing was not visible without account signup.",
+    "Capital budgets valuations dilution and operating gates are illustrative scenarios rather than observed offers or market benchmarks.",
+    "The 2027 to 2030 cases are scenarios rather than probability-weighted forecasts.",
+    "First-party funding and operating claims for private companies are not audited unless explicitly stated otherwise.",
+    "The report contains no original attendee host venue or operator interviews.",
+    "No event was attended and no checkout registration campaign production mutation or Supabase query was performed.",
+    "Activity keywords overlap and include family tourist retail informational and commercial intent so they are not summed into a market size.",
+    "Selected international operators demonstrate mechanisms and are not evidence of UK demand price or transferability.",
+    "The operator census is a mechanism map rather than proof that all 44 products are profitable or direct competitors.",
+    "Cross-format contribution cases are planning scenarios and should not be read as operator benchmarks.",
+    "Liiiv public terms disclose monetisation mechanisms but its live price list take rate active users GMV and revenue remain unknown."
+  ]
+}

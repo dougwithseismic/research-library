@@ -1,0 +1,24 @@
+market,geo_criterion,language_criterion,keyword,close_variants,average_monthly_searches,competition,competition_index,average_cpc_gbp,inclusion_group,interpretation
+UK,2826,1000,pottery classes near me,,14800,HIGH,90,0.643351,craft-intent,Direct local class discovery
+UK,2826,1000,pottery painting near me,,40500,LOW,16,0.308492,craft-intent,Direct activity discovery with mixed family and adult intent
+UK,2826,1000,pottery class london,,8100,HIGH,100,1.209769,london-lens,Local London term not added to UK generic terms
+UK,2826,1000,sip and paint,paint and sip,12100,HIGH,94,0.803199,craft-intent,Commercial social-format demand with grouped close variant
+UK,2826,1000,craft workshops near me,,2400,HIGH,100,0.546382,craft-intent,Broad commercial craft discovery
+UK,2826,1000,adult classes near me,,1300,LOW,28,1.192863,learning-intent,Mixed subject and commercial intent
+UK,2826,1000,padel near me,,49500,LOW,15,0.385375,sport-intent,High local venue and booking intent
+UK,2826,1000,padel london,,8100,LOW,15,0.439355,london-lens,Local London term not added to UK generic term
+UK,2826,1000,pickup football,,70,LOW,2,0.000000,sport-intent,US phrasing may understate UK demand
+UK,2826,1000,football groups near me,,70,LOW,15,0.518323,sport-intent,Explicit group discovery but low returned volume
+UK,2826,1000,sports clubs near me,,5400,LOW,26,0.779936,sport-intent,Broad club discovery with mixed age and sport intent
+UK,2826,1000,social sports,,720,LOW,1,2.224908,sport-intent,Explicit social framing but mixed informational intent
+UK,2826,1000,chess club near me,,2400,LOW,4,0.775780,game-intent,Direct recurring local club discovery
+UK,2826,1000,chess club london,,1600,LOW,5,1.059915,london-lens,Local London term not added to UK generic term
+UK,2826,1000,board game cafe,,12100,LOW,6,0.560017,game-intent,Venue and experience discovery
+UK,2826,1000,board game cafe near me,,6600,LOW,17,0.182202,game-intent,Strong explicit local experience intent
+UK,2826,1000,dungeons and dragons near me,,1300,LOW,9,0.149047,game-intent,Local group or venue discovery
+UK,2826,1000,dnd groups near me,,480,LOW,1,1.038553,game-intent,Explicit group discovery
+UK,2826,1000,book club near me,,4400,LOW,13,0.909624,reading-intent,Recurring local group discovery
+UK,2826,1000,reading club near me,,50,LOW,12,0.171713,reading-intent,Lower-volume variant
+UK,2826,1000,things to do near me,,301000,HIGH,76,0.514074,broad-discovery,Very broad and excluded from category totals
+UK,2826,1000,events near me,,14800,HIGH,100,1.145838,broad-discovery,Broad event intent and excluded from category totals
+UK,2826,1000,classes near me,,1600,MEDIUM,48,0.931584,broad-discovery,Broad class intent and excluded from category totals
