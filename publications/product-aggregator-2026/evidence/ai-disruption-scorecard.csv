@@ -1,0 +1,12 @@
+dimension,score,weight,weightedScore,confidence,supportingImpactIds,unknowns,interpretation
+substitution-risk,4,1,4,high,PAI12,"Rate and timing by product category","High risk for generic guides and tables"
+generated-content-supply,5,1,5,high,PAI03,"Growth and quality distribution of competing pages","Commodity product content is abundant"
+discovery-disruption,4,1,4,high,PAI01,"UK agent-originated action share","Agents can compress comparison journeys"
+agent-bypass-risk,5,1,5,high,PAI02,"Publisher compensation and UK feed coverage","Merchant-direct feeds can remove the intermediary"
+operating-leverage,3,1,3,medium,PAI05,"Verified productivity and error cohorts","Useful for bounded data operations"
+proprietary-data-potential,4,1,4,medium,PAI06,"Whether enough outcomes accumulate","Original measurements and rules can be scarce"
+physical-world-moat,4,1,4,high,PAI07,"Installer margin and capacity","Installation and service remain physical"
+trust-liability-moat,4,1,4,medium,"PAI04;PAI08","Buyer willingness to reward provenance","Synthetic supply increases verification value"
+relationship-moat,3,1,3,medium,PAI09,"Merchant willingness to grant differentiated terms","Commercial access matters but is not yet owned"
+platform-dependency,5,1,5,high,PAI10,"Future discovery and attribution mix","Current affiliate architecture is highly exposed"
+defensibility-2028,3,1,3,medium,PAI11,"Ability to build original evidence economically","Defensible only as a narrow decision system"

@@ -2,7 +2,7 @@
   "slug": "product-aggregator-2026",
   "title": "Building a Product Aggregator in 2026",
   "shortTitle": "Product Aggregator 2026",
-  "summary": "A decision-grade UK research series on high-order-value product aggregation: commercial demand, vertical selection, product architecture, revenue models and practitioner evidence.",
+  "summary": "A decision-grade UK research series on high-order-value product aggregation: commercial demand, shopping agents, generated content, vertical selection, product architecture, revenue models and practitioner evidence.",
   "eyebrow": "Commercial research series",
   "geography": "United Kingdom",
   "observedAt": "2026-09-03",
@@ -143,6 +143,15 @@
       "shortTitle": "Interview programme",
       "title": "Primary Interview Programme",
       "description": "A fourteen-seat plan to replace the largest commercial assumptions with first-party evidence."
+    },
+    {
+      "source": "15-shopping-agents-generated-content-and-the-decision-web.md",
+      "output": "15-shopping-agents-generated-content-and-the-decision-web.html",
+      "number": "15",
+      "section": "AI disruption",
+      "shortTitle": "Agents and AI content",
+      "title": "Shopping Agents, Generated Content and the Decision Web",
+      "description": "How merchant-direct feeds, conversational comparison, generated content and attribution pressure change the product-aggregation thesis."
     }
   ]
 }

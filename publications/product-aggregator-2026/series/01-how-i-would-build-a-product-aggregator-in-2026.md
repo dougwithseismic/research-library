@@ -15,6 +15,8 @@ I would start in the United Kingdom with premium garden and outdoor systems. A c
 
 The business would leave checkout with retailers and launch on CPA/CPS commission for tracked purchases, plus CPL or booked-survey fees where installation makes online checkout unsuitable. Once it can prove traffic and delivery, it would sell clearly labelled tenancy-plus-CPA packages, test merchant-funded CPC selectively and develop supplier data or software revenue. It would not aggregate traditional fashion, copy merchant descriptions, fabricate testing, or publish thousands of pages simply because a feed contains thousands of rows.
 
+Shopping agents make that restriction structural. Merchant feeds can now pass directly into conversational product comparison, while generated descriptions, “best” lists and promotional imagery make generic product content abundant. The business therefore has to own original tests, compatibility logic, project constraints, verified offer history or installation outcomes that an agent can use but cannot truthfully invent. [Chapter 15](./15-shopping-agents-generated-content-and-the-decision-web.md) maps the bypass risk, responsible operating uses and revised kill conditions.
+
 The supporting series contains the full [opportunity scorecard](./03-opportunity-landscape-and-scorecard.md), [unit-economics model](./08-business-model-and-unit-economics.md) and [catalogue architecture](./09-product-catalogue-and-data-architecture.md). These are working research chapters, not hidden substantiation for conclusions that cannot be challenged.
 
 ## Why is a product database no longer enough?
