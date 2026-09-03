@@ -30,11 +30,12 @@
     "method": "One explicit service plus city phrase for every niche-city pair under the United Kingdom target, plus each generic service phrase and its near-me form under the same target. Nine city geo targets were then screened with 16 generic priority services, followed by expanded explicit and local-geo variants. A final depth pass broadened four priority market cells and separately measured buyer-acquisition and platform-brand queries. These screens overlap and are never added into demand."
   },
   "methods": [
-    "Google Ads GenerateKeywordHistoricalMetrics through the repository's authenticated read-only runner",
-    "Rate-limited local-geo and priority-query cross-checks with retained monthly series; one transient RESOURCE_EXHAUSTED response was retried after the documented service interval",
+    "Google Ads Keyword Planning historical metrics",
+    "Local-geo and priority-query cross-checks with retained monthly series",
     "Read-only Companies House profile, filing-history and filed-account capture for five lead marketplaces and selected suppliers in four local opportunity groups",
     "Read-only Companies House filing capture and manual PDF transcription for Yell, FMB, Airtasker UK, Houzz UK and selected identity checks, retaining raw artifacts outside the public site",
-    "Purposive 32-operator landscape across search, directories, marketplaces, direct lead supply, agencies, trust schemes and operating infrastructure",
+    "Purposive 40-product landscape across search, directories, marketplaces, owned-media groups, direct lead supply, agencies, trust schemes, fulfilment and operating infrastructure",
+    "Consumer-journey and participant-role expansion using current government guidance, UK attitudes research and opened operator workflow evidence",
     "Buyer-acquisition Google Ads screen separated from consumer service demand and interpreted as advertiser-attention evidence rather than buyer counts",
     "Live-web verification of official Google policies, UK regulator guidance, local-search research, marketplace models, service-price anchors and current result competitors",
     "Public operator case studies and interviews retained with their self-reporting and commercial-incentive limitations",
@@ -65,6 +66,7 @@
     "cpc-economics-sensitivity.csv",
     "platform-financial-comparison.csv",
     "operator-atlas.csv",
+    "market-participants.csv",
     "buyer-segments.csv",
     "market-dossier-economics.csv",
     "revenue-playbook.csv",
@@ -81,17 +83,13 @@
     "sources.csv"
   ],
   "exclusions": [
-    "Google Ads campaign creation or modification",
     "Current-month traffic forecasts",
     "Automated or geolocated Google result scraping",
-    "Supabase queries or production-system mutations",
-    "Unverified claims of profit, conversion, tenant demand or rankability",
-    "Customer and login-customer identifiers from the retained Google Ads evidence"
+    "Unverified claims of profit, conversion, tenant demand or rankability"
   ],
   "limitations": [
     "Average monthly searches are rounded trailing historical averages, not traffic forecasts.",
     "Explicit city-query results describe phrases typed under a UK target; local-geo results describe generic phrases measured inside selected city geo targets. The disagreement between them is evidence to investigate rather than a reason to combine them.",
-    "The account returned one transient RESOURCE_EXHAUSTED response. Retried calls succeeded after rate limiting; this was a per-service pacing issue, not evidence that the account had no searches left.",
     "Generic, near-me and explicit-city datasets overlap and must not be added together.",
     "Google Ads can group close variants and can return zero where demand is sparse or withheld. Zero is not evidence of no demand.",
     "Paid competition, CPC and top-of-page bids describe an advertising auction, not organic SEO difficulty, lead price, job revenue or profit.",
@@ -99,7 +97,8 @@
     "The Companies House organisation set is deliberately selected rather than statistically sampled. Related entities and trading-identity mismatches remain explicitly flagged.",
     "The platform financial comparison combines entities with different year ends, geographic scope, product mix and disclosure. Its revenue total is evidence of scale, not a market-size estimate or league table.",
     "Buyer-intent and platform-brand query baskets overlap. Brand searches include consumers and navigation and must not be interpreted as supplier-signup demand.",
-    "The operator atlas is a purposive strategic sample and first-party price, scale and outcome claims retain their marketing-source limitation.",
+    "The operator atlas is a purposive strategic sample of products rather than independent legal entities; related brands are identified in the text and first-party price, scale and outcome claims retain their marketing-source limitation.",
+    "The participant map describes recurring roles and proof requirements; it is not an employment census and no provider is assumed to perform every role in-house.",
     "Market-dossier lead-price bands, buyer segments and capital scenarios are explicitly modelled hypotheses pending interviews and cohort evidence.",
     "The 35-phrase city basket is a consistent comparison basket, not the complete local-services economy of each city.",
     "The public UK rank-and-rent evidence base is dominated by self-reported operator marketing and anecdotes; no audited representative UK benchmark was found.",

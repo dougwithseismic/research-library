@@ -1,7 +1,7 @@
 # Primary interview programme
 
-**Current status:** No original interviews have been conducted for this research.  
-**What exists:** Public interviews, conference panels, podcasts, survey research and company disclosures.  
+**Current evidence:** Public interviews, conference panels, podcasts, survey research and company disclosures.
+
 **Next evidence gate:** Fourteen structured conversations across the publisher-advertiser transaction and the proposed vertical.
 
 ## Why state the gap this bluntly?
@@ -253,7 +253,7 @@ Where participants are comfortable and authorised:
 - an anonymised category P&L or target cost-of-sale band;
 - a buyer shortlist or quote comparison.
 
-Do not retain confidential files in the repository without explicit permission and an agreed storage location. Record a structured fact and its allowed use instead.
+Retain only evidence that the participant has permitted for the stated use. Record a structured fact, its source class and its disclosure boundary rather than collecting unnecessary confidential files.
 
 ## How should interview evidence be recorded?
 

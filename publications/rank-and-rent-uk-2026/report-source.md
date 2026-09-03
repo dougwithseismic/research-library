@@ -1,13 +1,13 @@
 ---
-title: "The Complete UK Rank-and-Rent Report"
-meta_description: "A decision-grade 2026 report on UK rank-and-rent and local lead generation: case studies, AI search, CPC, search volume, locations, business models and launch economics."
+title: "UK Rank-and-Rent: A Complete Investment Thesis for 2026"
+meta_description: "A research-led 2026 strategy for UK rank-and-rent and local lead generation, covering demand, buyer economics, AI search, risks and launch gates."
 slug: "rank-and-rent-uk-2026"
-author: "To be assigned before publication"
+author: "Research Library"
 research_date: "2026-09-03"
 status: "published research"
 ---
 
-# The complete UK rank-and-rent report
+# UK rank-and-rent: a complete investment thesis for 2026
 
 ## Executive decision
 
@@ -30,7 +30,7 @@ I would not start in London despite its large demand. Its 35-phrase sample produ
 
 I would also avoid beginning with mortgages, personal injury, dental implants, private ADHD assessment or funeral services. Several show attractive volume and CPC, but the financial, legal, health, advertising, privacy and vulnerability risks make them poor learning environments for a new operator.
 
-The main conclusion is therefore conditional: **build it if buyer demand, fulfillment quality and accepted-lead economics are validated before heavy SEO spend; do not build a speculative network and hope tenants appear later.** AI makes this more stringent. Generated service and location copy is abundant, answer interfaces compress generic research, and platforms can increasingly qualify the enquiry. The proposed asset must be verified supply, request structure, buyer rules and outcome data—not generated pages or a chatbot wrapper.
+The decision is therefore conditional: **build it if buyer demand, fulfilment quality and accepted-lead economics are validated before heavy SEO spend; do not build a speculative network and hope tenants appear later.** AI makes this more stringent. Generated service and location copy is abundant, answer interfaces compress generic research, and platforms can increasingly qualify the enquiry. The proposed asset must be verified supply, request structure, buyer rules and outcome data—not generated pages or a chatbot wrapper.
 
 ## What the full-depth pass added
 
@@ -75,8 +75,6 @@ The business asset is no longer merely a domain that ranks. It is the **demand h
 The project submitted 910 explicit `service + city` phrases: 35 niches across 26 UK cities. It separately submitted each generic service phrase and each `near me` form, adding 70 national-intent observations. All used Google Search, English language criterion 1000 and United Kingdom geo criterion 2826 through Google Ads API v25 on 3 September 2026. The working account currency is GBP.
 
 The most important methodological constraint is that `drain unblocking Bristol` measured under a UK target is not the same observation as `drain unblocking` measured inside a Bristol geo target. The deeper pass therefore added 144 generic-service observations inside nine city geo targets and expanded explicit and local-geo variants for seven priority clusters.
-
-An earlier `RESOURCE_EXHAUSTED` response was a transient service-rate limit, not evidence that the account had run out of keyword searches. Google documents historical-metrics requests at one per second per customer ID on a rolling window. Calls succeeded after adding 1.5-second pacing and a bounded delayed retry. [Google Ads API quotas](https://developers.google.com/google-ads/api/docs/best-practices/quotas)
 
 The complete rows are downloadable in the [explicit city screen](./evidence/google-ads-explicit-city-screen.csv), [national-intent screen](./evidence/google-ads-national-intent-screen.csv), [local-geo screen](./evidence/google-ads-local-geo-screen.csv) and [priority cluster comparison](./evidence/google-ads-priority-cluster-summary.csv).
 
@@ -267,7 +265,7 @@ maximum CPC = accepted lead price × click-to-accepted-lead rate
 
 If an accepted lead sells for £60 and 12% of paid clicks become accepted leads, break-even media CPC before overhead is £7.20. Buying a £27 click under those economics loses money. A £27 CPC can still be rational for a contractor that closes valuable jobs and owns the job margin; it is not automatically rational for an intermediary selling a £60 lead.
 
-Paid search is therefore a **validation instrument**, not the assumed growth engine. It can reveal landing-page conversion, query quality and buyer response quickly, but only if a buyer or revenue-share agreement supports the spend. No campaign was created or modified in this research.
+Paid search is therefore a **validation instrument**, not the assumed growth engine. It can reveal landing-page conversion, query quality and buyer response quickly, but only if a buyer or revenue-share agreement supports the spend.
 
 The deeper [CPC sensitivity model](./evidence/cpc-economics-sensitivity.csv) makes the constraint explicit. Its base case assumes 10% click-to-enquiry, 70% enquiry acceptance and 20% buyer close from accepted leads. On the observed local-geo weighted CPCs, that implies about £119 paid media per accepted Bristol drainage lead, £165 for Manchester fire risk, £232 for Manchester asbestos and £241 for Edinburgh boilers—before staff, call handling, credits, overhead, tax or profit. These are not forecasts. They show the performance hurdle a paid validation cohort must clear.
 
@@ -470,7 +468,7 @@ Create one service schema, one primary landing experience and one evidence-rich 
 
 ### Days 31–60: validate acquisition carefully
 
-Use direct partner traffic, small disclosed marketplace tests, outreach to relevant local organisations, original data and earned citations. A bounded paid-search test can be justified only where the buyer economics support the observed CPC. No campaign operation was performed in this research.
+Use direct partner traffic, small disclosed marketplace tests, outreach to relevant local organisations, original data and earned citations. A bounded paid-search test can be justified only where the buyer economics support the observed CPC.
 
 Do not bulk-publish city pages. Earn the second city by proving that the first page generates accepted leads and by collecting unique operational evidence.
 
@@ -526,3 +524,29 @@ The most important unknowns require real commercial work rather than more desk r
 - legal review of the final disclosure, call-recording and data-sharing workflow.
 
 These are not footnotes. They are the gates between an attractive demand screen and an investable business.
+
+## Publication schema template
+
+The static-site build supplies the matching Article structured data. This source template keeps the editorial artifact independently checkable and is removed from the rendered chapter.
+
+```json
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "UK Rank-and-Rent: A Complete Investment Thesis for 2026",
+    "description": "A research-led 2026 strategy for UK rank-and-rent and local lead generation, covering demand, buyer economics, AI search, risks and launch gates.",
+    "datePublished": "2026-09-03",
+    "dateModified": "2026-09-03",
+    "author": {
+      "@type": "Organization",
+      "name": "Research Library"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Research Library"
+    },
+    "mainEntityOfPage": "https://dougwithseismic.github.io/research-library/rank-and-rent-uk-2026/01-complete-report.html"
+  }
+]
+```

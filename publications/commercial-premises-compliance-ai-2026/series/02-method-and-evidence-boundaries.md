@@ -76,7 +76,7 @@ The derived unsatisfactory share is 20,286 ÷ 50,195 = 40.4%. Because fire and r
 
 ## How were search-demand observations reused?
 
-No new Google Ads query was run for this paper. It reuses sanitized historical metrics gathered read-only for the rank-and-rent publication:
+This paper reuses the published historical metrics from the rank-and-rent research:
 
 - `fire risk assessment`: 8,100 UK average monthly searches;
 - `fire risk assessment near me`: 1,300;
@@ -127,23 +127,10 @@ Paid-fire-lead cost divides the observed £9.10 historical CPC by assumed accept
 
 The scenarios exclude important costs and uncertainty, including sales, travel, call handling, credits, insurance, review, support, integrations, churn and remediation. They exist to reveal what must be measured.
 
-## What was not done?
-
-This paper did not:
-
-- run Supabase queries or mutate a production system;
-- contact a provider, buyer, regulator, software company or acquisition target;
-- run a paid campaign or alter a Google Ads account;
-- inspect a building or assess any actual premises;
-- obtain legal, fire-safety, asbestos, engineering, energy or insurance advice;
-- review confidential reports, contracts, claims or job-level margins;
-- test a model on an authorised historical-report corpus;
-- complete professional regulatory review;
-- infer a serviceable market from property stock;
-- claim a generated output is evidence or certification.
-
 ## What evidence is still required?
 
-The [human-validation plan](../evidence/human-validation-plan.csv) retains ten seams. The minimum near-term set is eight property managers, eight responsible persons or facilities leads, six fire providers, four asbestos providers, one qualified reviewer per launched lane and jurisdiction, 100 authorised reports containing at least 500 critical fields, three portfolio design partners covering at least 50 sites, and two qualified providers per live lane and region.
+The public evidence establishes duties, market structure and testable commercial mechanisms; it does not establish conditions at any premises, professional conclusions, buyer demand, job-level margin or model performance on real compliance reports.
+
+The [human-validation plan](../evidence/human-validation-plan.csv) defines the next evidence set: eight property managers, eight responsible persons or facilities leads, six fire providers, four asbestos providers, one qualified reviewer per launched lane and jurisdiction, 100 authorised reports containing at least 500 critical fields, three portfolio design partners covering at least 50 sites, and two qualified providers per live lane and region.
 
 Until those seams are completed, the recommendation is a bounded test rather than a conclusion about achieved demand, margin, safety or acquisition value.

@@ -18,6 +18,29 @@ if (!existsSync(join(OUTPUT, "index.html"))) {
 const outputFiles = files(OUTPUT);
 const htmlFiles = outputFiles.filter((file) => file.endsWith(".html"));
 const broken = [];
+const editorialLeaks = [
+  ["Supabase implementation note", /\bsupabase\b/i],
+  ["API incident log", /\bRESOURCE_EXHAUSTED\b/],
+  [
+    "local-publication note",
+    /\b(?:generated update remains local|separate publication request)\b/i,
+  ],
+  [
+    "system-mutation note",
+    /\b(?:production[- ]system|database|account) mutation\b/i,
+  ],
+  ["repository credential note", /\b(?:repository|Leadmap)'s authenticated\b/i],
+  ["private repository path", /\bprivate-data\//i],
+  ["credential-cleanliness note", /\bThese files contain no OAuth tokens\b/i],
+  [
+    "campaign non-action note",
+    /\bNo (?:paid )?campaign (?:was|has been|operation)\b/i,
+  ],
+  ["event non-action note", /\bNo event was (?:attended|purchased)\b/i],
+];
+const editorialLeakFiles = outputFiles.filter((file) =>
+  /\.(?:csv|html|json|md|txt|xml)$/i.test(file),
+);
 
 for (const file of htmlFiles) {
   const html = readFileSync(file, "utf8");
@@ -33,6 +56,15 @@ for (const file of htmlFiles) {
 
 if (broken.length) {
   throw new Error(`Broken generated links:\n${broken.join("\n")}`);
+}
+
+for (const file of editorialLeakFiles) {
+  const body = readFileSync(file, "utf8");
+  for (const [label, pattern] of editorialLeaks) {
+    if (pattern.test(body)) {
+      throw new Error(`Internal editorial note leaked into ${file}: ${label}`);
+    }
+  }
 }
 
 const envPath = join(ROOT, ".env");
@@ -68,5 +100,5 @@ if (htmlFiles.length < 17) {
 }
 
 console.log(
-  `Site verification passed: ${htmlFiles.length} HTML pages; ${outputFiles.length} files; no broken local links or configured secrets`,
+  `Site verification passed: ${htmlFiles.length} HTML pages; ${outputFiles.length} files; no broken local links, internal editorial notes or configured secrets`,
 );

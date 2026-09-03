@@ -22,7 +22,7 @@
   "methods": [
     "Current primary-source review of UK and devolved fire-safety guidance, HSE guidance, energy-performance rules and official enforcement statistics",
     "Obligation-by-obligation separation of required outcome, dutyholder, purchase trigger, competence boundary and review cadence",
-    "Reuse of retained read-only Google Ads historical metrics and selected Companies House filing evidence from the linked rank-and-rent publication",
+    "Reuse of published Google Ads historical metrics and selected Companies House filing evidence from the linked rank-and-rent publication",
     "Purposive live-web comparison of horizontal property-workflow software, maintenance platforms and UK fire-assessor software",
     "Actor-workflow-mechanism AI-disruption analysis across current, 2028 and 2030 horizons",
     "Transparent conservative, base and upside scenarios rather than a market-size forecast",
@@ -48,12 +48,11 @@
     "entryStrategyScore": "Seven dimensions use 0 to 5 scores. Weighted score equals demand necessity 20%, AI durability 20%, credible trust path 15%, proprietary-data potential 15%, recurring-revenue potential 15%, time to evidence 10% and capital efficiency 5%. The score informs but does not determine the verdict; unknown liability or competence can veto a high score."
   },
   "exclusions": [
-    "No Supabase query, production-system mutation, outreach, provider contact, professional advice, live acquisition action or paid-demand test",
     "No claim that every commercial premises must buy every listed assessment or certificate",
     "No extrapolation from rateable properties to a serviceable market without property, asset, dutyholder and purchase-trigger evidence",
     "No claim that Companies House records prove current trading quality, margin, coverage or partnership intent",
     "No claim that a model-generated report, image, checklist, recommendation or signature is inspection evidence or professional certification",
-    "No confidential customer reports, building-security information, personal data or raw private exports"
+    "No confidential customer reports, building-security information or personal data"
   ],
   "limitations": [
     "This is a commercial research paper and not legal, fire-safety, asbestos, gas, electrical, water-safety, engineering or energy-performance advice.",

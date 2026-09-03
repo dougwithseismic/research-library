@@ -53,7 +53,7 @@ Acquire a bounded cohort from several sources:
 - marketplace or affiliate fallback where approved;
 - a small paid validation only when break-even CPC supports it.
 
-No paid campaign was created by this research. Any future test should remain a separately authorised action and stay inside the Google Ads and compliance controls.
+Any paid test should have a named owner, explicit budget, narrow targeting and predefined stop conditions.
 
 Measure:
 

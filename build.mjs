@@ -57,6 +57,61 @@ function publicationDirectories() {
     .filter((directory) => existsSync(join(directory, "publication.json")));
 }
 
+function validatePublicationFrontDoor(directory, publication) {
+  const expected = [
+    {
+      number: "00",
+      section: "Start here",
+      shortTitle: "Overview",
+      output: "index.html",
+    },
+    {
+      number: "01",
+      section: "Start here",
+      shortTitle: "The complete thesis",
+    },
+    {
+      number: "02",
+      section: "Start here",
+      shortTitle: "Research method",
+    },
+  ];
+
+  expected.forEach((required, index) => {
+    const page = publication.pages?.[index];
+    if (!page) {
+      throw new Error(
+        `${publication.slug}: missing required front-door page ${required.number}`,
+      );
+    }
+    for (const [key, value] of Object.entries(required)) {
+      if (page[key] !== value) {
+        throw new Error(
+          `${publication.slug}: page ${required.number} must use ${key}=${JSON.stringify(value)}`,
+        );
+      }
+    }
+  });
+
+  const overview = readFileSync(
+    join(directory, "series", publication.pages[0].source),
+    "utf8",
+  );
+  const requiredSections = [
+    ["a category definition", /^## What is .+\?$/m],
+    ["the current market", /^## What is being built now\?$/m],
+    ["the founder focus", /^## Where would I focus\?$/m],
+    ["a one-line thesis", /^## The (?:category|thesis) in one line$/m],
+    ["the series map", /^## The series$/m],
+    ["the evidence guide", /^## How .*evidence.*$/m],
+  ];
+  for (const [label, pattern] of requiredSections) {
+    if (!pattern.test(overview)) {
+      throw new Error(`${publication.slug}: overview is missing ${label}`);
+    }
+  }
+}
+
 function rewriteHref(href) {
   if (!href) return "";
   if (/^(https?:|mailto:|tel:|#)/.test(href)) return href;
@@ -126,7 +181,28 @@ function tableOfContents(headings) {
     .join("")}</nav></aside>`;
 }
 
-function jsonLd(publication, page, canonical) {
+function extractFaqs(markdown) {
+  const heading = /^## Frequently asked questions\s*$/im.exec(markdown);
+  if (!heading) return [];
+  const remainder = markdown.slice(heading.index + heading[0].length);
+  const nextSection = /^## /m.exec(remainder);
+  const faqBody = nextSection
+    ? remainder.slice(0, nextSection.index)
+    : remainder;
+  return faqBody
+    .split(/^### /m)
+    .slice(1)
+    .map((entry) => {
+      const [question, ...answerLines] = entry.trim().split("\n");
+      const answer = stripTags(
+        new Marked({ gfm: true }).parse(answerLines.join("\n").trim()),
+      );
+      return { question: question.trim(), answer };
+    })
+    .filter(({ question, answer }) => question && answer);
+}
+
+function jsonLd(publication, page, canonical, faqs) {
   const values = [
     {
       "@context": "https://schema.org",
@@ -145,10 +221,21 @@ function jsonLd(publication, page, canonical) {
       },
     },
   ];
+  if (faqs.length) {
+    values.push({
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      mainEntity: faqs.map(({ question, answer }) => ({
+        "@type": "Question",
+        name: question,
+        acceptedAnswer: { "@type": "Answer", text: answer },
+      })),
+    });
+  }
   return JSON.stringify(values).replaceAll("<", "\\u003c");
 }
 
-function pageTemplate({ publication, page, body, headings, index }) {
+function pageTemplate({ publication, page, body, headings, faqs = [], index }) {
   const canonical = `${SITE_URL}/${publication.slug}/${page.output === "index.html" ? "" : page.output}`;
   const previous = publication.pages[index - 1];
   const next = publication.pages[index + 1];
@@ -176,7 +263,7 @@ function pageTemplate({ publication, page, body, headings, index }) {
   <link rel="canonical" href="${escapeHtml(canonical)}">
   <link rel="icon" href="${assetPrefix}assets/favicon.svg" type="image/svg+xml">
   <link rel="stylesheet" href="${assetPrefix}assets/styles.css">
-  <script type="application/ld+json">${jsonLd(publication, page, canonical)}</script>
+  <script type="application/ld+json">${jsonLd(publication, page, canonical, faqs)}</script>
   <script src="${assetPrefix}assets/site.js" defer></script>
 </head>
 <body data-page="${escapeHtml(page.output)}">
@@ -224,6 +311,7 @@ function renderPublication(directory) {
   const publication = JSON.parse(
     readFileSync(join(directory, "publication.json"), "utf8"),
   );
+  validatePublicationFrontDoor(directory, publication);
   const destination = join(OUTPUT, publication.slug);
   mkdirSync(destination, { recursive: true });
 
@@ -231,12 +319,13 @@ function renderPublication(directory) {
     const source = join(directory, "series", page.source);
     const parsed = frontmatter(readFileSync(source, "utf8"));
     let markdown = parsed.body.trimStart().replace(/^# .+\n+/, "");
-    if (page.source.startsWith("01-")) {
+    if (page.number === "01") {
       markdown = markdown
         .split("\n## Publication schema template")[0]
         .trimEnd();
     }
     const rendered = markdownHtml(markdown);
+    const faqs = extractFaqs(markdown);
     writeFileSync(
       join(destination, page.output),
       pageTemplate({
@@ -247,6 +336,7 @@ function renderPublication(directory) {
         },
         body: rendered.html,
         headings: rendered.headings,
+        faqs,
         index,
       }),
     );
@@ -271,9 +361,7 @@ function renderPublication(directory) {
       };
       return `| [${file}](./${file}) | ${labels[file] ?? "Retained research artifact"} |`;
     })
-    .join(
-      "\n",
-    )}\n\nThese files contain no OAuth tokens, customer identifiers or Companies House API keys.`;
+    .join("\n")}`;
   const renderedEvidence = markdownHtml(evidenceMarkdown);
   const evidencePage = {
     output: "data/index.html",

@@ -1,10 +1,10 @@
 ---
 title: "How I Would Build in the Social Events Economy in 2026"
-meta_description: "A research-led strategy for building a UK hosted social-events company between friendship apps, singles events and dating incumbents."
+meta_description: "A research-led strategy for building a UK social-events company across hosted friendship, interest-led leisure, dating and local discovery in 2026."
 slug: "events-economy-2026"
-author: "To be assigned before publication"
+author: "Research Library"
 research_date: "2026-09-03"
-status: "internal working paper"
+status: "published research"
 ---
 
 # How I would build in the social events economy in 2026
@@ -201,3 +201,29 @@ Keep dating separate. A platonic or activity product loses trust if every room f
 Use Liiiv, Eventbrite, Fever, Meetup or local partners for distribution before building a discovery marketplace. Own the programme and the participation record first. Build the network only when another city can reproduce the same audience, room and economics.
 
 The winning company will not be the one that generates the cleverest compatibility paragraph or the largest event feed. It will be the one that gives a stranger a reason to go out on Tuesday—and makes them want the next Tuesday with the same people.
+
+## Publication schema template
+
+The static-site build supplies the matching Article structured data. This source template keeps the editorial artifact independently checkable and is removed from the rendered chapter.
+
+```json
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "How I Would Build in the Social Events Economy in 2026",
+    "description": "A research-led strategy for building a UK social-events company across hosted friendship, interest-led leisure, dating and local discovery in 2026.",
+    "datePublished": "2026-09-03",
+    "dateModified": "2026-09-03",
+    "author": {
+      "@type": "Organization",
+      "name": "Research Library"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Research Library"
+    },
+    "mainEntityOfPage": "https://dougwithseismic.github.io/research-library/events-economy-2026/01-how-i-would-build-in-the-social-events-economy-in-2026.html"
+  }
+]
+```

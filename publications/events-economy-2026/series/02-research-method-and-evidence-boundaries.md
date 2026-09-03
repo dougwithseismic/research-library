@@ -55,7 +55,7 @@ Small prices are normally shown to the nearest penny; large company, funding and
 
 ## Google Ads historical metrics
 
-The keyword evidence was gathered through the repository's authenticated, read-only Google Ads historical-metrics runner with:
+The keyword evidence was gathered from Google Ads Keyword Planning historical metrics with:
 
 - geography: United Kingdom;
 - language: English;
@@ -63,8 +63,6 @@ The keyword evidence was gathered through the repository's authenticated, read-o
 - API version: v25;
 - observation date: 3 September 2026;
 - outputs: average monthly searches, competition, competition index, average CPC and top-of-page bid range.
-
-No campaign was created or modified.
 
 ### Inclusion rules
 
@@ -87,8 +85,6 @@ Brand terms—including Timeleft, Dinners With Friends, Thursday, Bored of Datin
 A second pull used the same UK, English and Google Search configuration for craft, reading, games and sport. These terms are reported individually because they overlap heavily and mix adult, child, tourist, retail and informational intent. `things to do near me`, `events near me` and `classes near me` are retained as broad discovery context but excluded from every category total.
 
 No non-UK search-volume data is used in the recommendation. European and North American operators are included only as mechanism comparators—for example, whether a chapter licence, marketplace take rate, organiser subscription or hosted-sport model has been exposed publicly. Their presence does not establish UK demand, pricing power or transferability.
-
-No campaign was created or changed in either UK pull.
 
 ### Calculations
 
@@ -156,10 +152,8 @@ The seat-scale model divides annual revenue by assumed seat price and paid capac
 
 The 2027–2030 analysis is scenario planning. It starts from observed incumbent actions and asks which assets remain valuable if managed friendship grows, incumbents absorb IRL, the category stays local or a trust shock raises operating standards. The scenarios are not assigned probabilities and do not claim to predict which market structure will occur.
 
-## What was not done
+## Evidence gaps
 
-No event was attended, no customer, speaker, instructor or host was interviewed, no venue was contacted, no app account was created, no checkout was completed and no review corpus was scraped. No operator's retention, event-level P&L, acquisition cost, cohort composition or incident rate was available.
-
-No Google Ads campaign was changed. No Supabase query was performed. No production system was mutated.
+The report is based on public sources, historical demand observations and modelled scenarios. It contains no first-party attendee, host, venue or operator research, and no observed retention, event-level P&L, acquisition cost, cohort composition or incident-rate dataset.
 
 The [primary research programme](./13-primary-research-programme.md) turns those unknowns into a bounded next step instead of disguising them as certainty.

@@ -103,7 +103,7 @@ This creates the original local data that generic affiliate content lacks.
 
 ## Workstream 5: small paid-intent experiments
 
-Paid validation is expensive in these cells. Use exact and phrase match around tightly defined commercial queries, negative keywords, city targeting and capped hours only after a buyer agrees the route. Campaign creation is outside this research repository and must be authorised and operated separately.
+Paid validation is expensive in these cells. Use exact and phrase match around tightly defined commercial queries, negative keywords, city targeting and capped hours only after a buyer agrees the route. Treat the campaign as a bounded experiment with an explicit budget, owner and stop condition.
 
 The experiment measures:
 

@@ -2,13 +2,13 @@
 
 **Research date:** 3 September 2026  
 **Geographic priority:** United Kingdom  
-**Evidence status:** Public research and public practitioner testimony reviewed; no original interviews conducted
+**Evidence status:** Public research and attributed practitioner testimony
 
-## What was missing from the first research pass?
+## What evidence does this chapter add?
 
-The first pass established search demand, order-value evidence, candidate verticals, partner programmes and a proposed product architecture. It did not sufficiently establish how publishers and advertisers actually negotiate value, how the UK affiliate market is paid, or how mature comparison and specialist-media businesses diversify revenue.
+The wider report establishes search demand, order-value evidence, candidate verticals, partner programmes and a proposed product architecture. This chapter examines how publishers and advertisers negotiate value, how the UK affiliate market is paid, and how mature comparison and specialist-media businesses diversify revenue.
 
-This chapter corrects that omission with four evidence layers:
+It uses four evidence layers:
 
 1. UK network and platform transaction data from the Affiliate & Partner Marketing Association.
 2. A multinational survey of marketers, publishers and creators from impact.com.

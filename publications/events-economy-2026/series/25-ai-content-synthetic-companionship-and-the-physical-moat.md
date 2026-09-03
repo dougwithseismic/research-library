@@ -30,7 +30,7 @@ A generated programme can reduce blank-page work. It cannot truthfully create th
 
 Conversational systems can supply attention, role-play, advice and low-friction interaction at home. That creates a plausible substitute for some jobs currently served by digital communities or casual social products. The relevant question is not whether a chatbot can talk; it is whether a target customer chooses it instead of paying, travelling and accepting the uncertainty of a room of strangers.
 
-A 2025 four-week randomised study of 981 US adults examined chatbot modality, conversation type and psychosocial outcomes. Higher daily use correlated with higher loneliness, dependence and problematic use and lower socialisation, but the authors also report heterogeneous effects and major limitations, including no no-chatbot control group. It is evidence that chatbot companionship can affect social behaviour—not evidence that UK paid-event demand will rise or fall. [MIT Media Lab and OpenAI preprint](https://dam-prod2.media.mit.edu/x/2025/03/21/Randomized_Control_Study_on_Chatbot_Psychosocial_Effect.pdf)
+A 2025 four-week randomised study of 981 US adults examined chatbot modality, conversation type and psychosocial outcomes. Higher daily use correlated with higher loneliness, dependence and problematic use and lower socialisation, but the authors also report heterogeneous effects and major limitations, including the absence of a non-chatbot control group. It is evidence that chatbot companionship can affect social behaviour—not evidence that UK paid-event demand will rise or fall. [MIT Media Lab and OpenAI preprint](https://dam-prod2.media.mit.edu/x/2025/03/21/Randomized_Control_Study_on_Chatbot_Psychosocial_Effect.pdf)
 
 There are two credible directions:
 

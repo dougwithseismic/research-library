@@ -1,83 +1,143 @@
 # Building a product aggregator in 2026
 
-**Research date:** 3 September 2026  
-**Decision geography:** United Kingdom  
-**Language:** English  
-**Currency:** GBP  
-**Status:** Internal strategy and research series; not published  
-**Evidence pack:** [`../evidence`](../evidence/)  
+**Research date:** 3 September 2026<br>
+**Decision geography:** United Kingdom<br>
+**Language:** English<br>
+**Currency:** GBP<br>
+**Status:** Published research series<br>
+**Evidence pack:** [`../evidence`](../evidence/)<br>
 **Material exclusion:** Traditional fashion and apparel
 
-## The decision
+A product aggregator collects offers for related products from several merchants and helps a buyer compare them. A useful aggregator does more than reproduce names, prices and affiliate links: it resolves product identity, normalises specifications, explains trade-offs and connects the buyer's actual constraints to a defensible shortlist.
 
-If I were building a UK product aggregator in 2026, I would not begin with a product category such as robot lawn mowers, pottery kilns or pool tables. I would build a broad but coherent decision brand around a valuable customer project, then make product comparison one of its tools.
+This report examines what that business can become in the UK after merchant feeds, large comparison engines, generated content and conversational shopping agents have made the basic product grid abundant. It asks which vertical to enter, what is already being built, how the money moves and which assets could remain valuable when the website is no longer the only interface.
 
-The best opportunity found in this research is **premium garden and outdoor systems**: garden automation, shade and structures, growing spaces, outdoor wellness and garden buildings. Its conservative product-purchase basket contains **27,440 UK average monthly commercial searches at a £0.94 volume-weighted historical CPC**. The project and installation extension adds another **7,620 searches at £1.94**, but it should be monetised as qualified leads rather than treated as the same product-feed business.
+## What is a product aggregator?
 
-Three other opportunities survive the screen:
+A conventional product aggregator combines offers for the same or similar item so a buyer can compare price, availability, delivery or retailer. It usually sends the transaction to a merchant and earns commission, an outbound-click fee, a listing payment or another commercial referral fee.
 
-1. **Private games and leisure rooms** — the cleanest pure affiliate opportunity, with 9,670 commercial searches at £0.84 weighted CPC and a merchant-reported £1,400 average order value.
-2. **Serious maker studios** — the strongest specialist editorial moat, with 4,940 commercial searches at £0.32 weighted CPC and live equipment prices from roughly £1,199 to £4,833 for representative pottery setups.
-3. **Land and smallholding equipment** — 11,850 high-ticket commercial searches at £0.59 weighted CPC, but better suited to dealer listings and qualified leads than a conventional retailer-feed aggregator.
+That describes the transaction surface, not the whole product. High-value purchases often require answers a feed does not contain:
 
-Standalone home wellness did not pass the low-CPC screen. Its high order values remain attractive, but its 2,830-keyword basket averaged £1.63 CPC. It belongs inside the premium-garden proposition instead.
+- whether two components or systems are compatible;
+- whether a product fits the buyer's space, access, power, slope or use case;
+- how installation, delivery, service and warranty change the real choice;
+- whether a sale price is genuinely unusual or merely a repeated promotion;
+- which specifications come from a merchant and which have been tested independently;
+- when the buyer needs a local survey or installer rather than a checkout link.
 
-## The central thesis
+The stronger category is therefore a **project decision company**. Product comparison is one of its tools, alongside original tests, calculators, planning flows, compatibility rules, offer history and qualified installation routes.
 
-The durable product is not a list of retailers and prices. It is a **decision system** that helps a buyer specify a project, understand trade-offs, shortlist compatible products, compare live offers and complete the transaction with the appropriate merchant or installer.
+## What is the product-aggregation economy?
 
-Shopping agents and generated content make this distinction urgent. Merchant feeds can now travel directly into conversational comparison interfaces, while generic descriptions and buying guides are cheap to reproduce. The investable layer is original testing, compatibility logic, verified offer history, project tools, installation capacity and outcome evidence—not the page or affiliate click. [Chapter 15](./15-shopping-agents-generated-content-and-the-decision-web.md) tests that revised thesis.
+The economy begins with a buyer trying to complete a project and ends with a suitable product delivered, installed or supported. Several parties can create or capture value along the route.
 
-That distinction shapes everything:
+| Participant                            | What they contribute                                        | How they may earn or benefit                            |
+| -------------------------------------- | ----------------------------------------------------------- | ------------------------------------------------------- |
+| Buyer                                  | constraints, budget, attention and purchase                 | a shorter, safer and better-evidenced decision          |
+| Manufacturer                           | product design, specifications, warranty and brand          | distribution, demand and product revenue                |
+| Retailer or dealer                     | inventory, price, checkout, delivery and service            | retail margin and customer relationship                 |
+| Installer or surveyor                  | local feasibility, specification and physical delivery      | survey, installation, maintenance or project revenue    |
+| Affiliate network or commerce platform | feeds, attribution, validation and payment                  | network or platform fees                                |
+| Publisher or aggregator                | discovery, normalisation, evidence, tools and qualification | CPA, CPS, CPC, CPL, tenancy, data or software revenue   |
+| Shopping agent                         | conversational intent capture, synthesis and routing        | platform engagement, commerce revenue or merchant value |
 
-- The website is organised around customer projects, not an imported merchant taxonomy.
-- Editorial, calculators, configurators and product comparison share one underlying product graph.
-- Direct-to-retailer products and quote-led installed projects use different funnels and economics.
-- Merchant feeds are raw inputs. They are not publishable pages.
-- Original tests, normalised specifications, price history, compatibility rules and transparent methodology create the defensible layer.
-- Checkout can remain with the retailer, allowing the platform to operate as a publisher and attribution layer rather than a merchant of record.
+Each revenue model depends on a different asset. CPA needs an attributable purchase; CPL needs a defined and accepted enquiry; tenancy needs proven audience or territory value; data revenue needs proprietary, permissioned information; software needs a repeated merchant or buyer workflow. An imported catalogue alone supports none of those reliably.
+
+## What is the background?
+
+Merchant feeds already expose product names, descriptions, identifiers, prices, stock, images and deep links. Awin describes price-comparison publishers as primary feed users and gives access to millions of product details. Feed access is useful infrastructure, but it is available to competitors and increasingly to machine interfaces. [Awin product-feed guide](https://help.awin.com/developers/docs/product-feed-publisher-guide-intro)
+
+Google treats copied descriptions and cookie-cutter affiliate pages as thin affiliation. Its route to added value is original pricing information, testing, ratings, navigation and comparison. Generative systems intensify that requirement because descriptions, category introductions, buying-guide drafts and promotional variants can be reproduced at low marginal cost. [Google Search spam policies](https://developers.google.com/search/docs/essentials/spam-policies) [Google generative-content guidance](https://developers.google.com/search/docs/fundamentals/using-gen-ai-content?hl=en)
+
+Shopping agents add a second pressure. Merchant data can travel directly into a conversational comparison, shortening the old path from search to buying guide to affiliate click. Platform announcements do not establish UK adoption or a settled compensation model, but they make a feed-only business strategically fragile. [OpenAI product discovery](https://openai.com/index/powering-product-discovery-in-chatgpt/) [Google agentic commerce](https://blog.google/products/ads-commerce/agentic-commerce-ai-tools-protocol-retailers-platforms/)
+
+The opportunity remains because expensive projects contain missing structure. Buyers still need compatibility, practical measurements, local installation, price truth and outcome evidence. Those are costly to create and maintain, which is precisely why they can support a business.
+
+## What is being built now?
+
+The market contains five overlapping products rather than one clean aggregator category:
+
+1. **Retailers build their own decision content.** Specialist merchants combine product ranges, guides, showrooms, service and proprietary stock to keep comparison close to checkout.
+2. **Affiliate publishers assemble commercial discovery.** Reviews, “best” pages, vouchers, category guides and price tables acquire intent and refer it to merchants under performance terms.
+3. **Comparison engines normalise broad catalogues.** They compete on merchant coverage, offer freshness, filters, price and brand familiarity.
+4. **Project and lead platforms handle non-checkout purchases.** Installed products, machinery and made-to-measure work move through specification, quote, survey, finance or dealer contact rather than a clean affiliate click.
+5. **Shopping agents compress discovery and comparison.** Conversational systems can interpret requirements, compare feed-backed products and send a buyer toward retailer checkout without reproducing the publisher's page journey.
+
+The opening is not broader catalogue coverage. Large retailers and platforms already win that contest. It is deeper evidence around one connected customer project: original tests, compatibility logic, saved specifications, verified offer history and current installer capacity that remain useful to a person, a search engine or an agent.
+
+## Where would I focus?
+
+I would build **premium garden and outdoor systems** as a UK project decision brand.
+
+The conservative product-purchase basket contains 27,440 average monthly UK searches at a £0.94 volume-weighted historical CPC. It spans greenhouses, hot tubs, pergolas, ride-on and robotic mowers, outdoor saunas, awnings and swim spas. A separate installation-and-project basket adds 7,620 searches at £1.94 weighted CPC, but those enquiries need qualification and should not be treated as product-feed transactions.
+
+The product would have two connected engines:
+
+```text
+PRODUCT ENGINE
+project constraints → compatible shortlist → verified offers → retailer checkout
+
+PROJECT ENGINE
+site and budget brief → feasibility → qualified installer → survey or quote
+```
+
+The front door would be the customer's project—automate lawn care, create shade, choose a greenhouse, add outdoor wellness or build a year-round garden room—not an infinite product grid. The same product graph would power editorial, calculators, comparisons, saved projects and structured machine-readable evidence.
+
+Private games and leisure rooms remain the cleanest pure-affiliate alternative. Serious maker studios offer the strongest specialist editorial moat. Land and smallholding equipment has compelling demand but belongs in a dealer-listing and qualified-lead company because condition, transport, used stock and finance dominate the decision.
+
+## What does AI change?
+
+AI narrows the proposition in two directions.
+
+First, generated content makes generic descriptions, “best” lists, category pages and promotional images abundant. Second, shopping agents can bypass part of the publisher journey by reading merchant feeds and answering a comparison request directly. A business whose asset is page production or an affiliate click becomes easier to copy and easier to remove from the transaction path.
+
+AI can still improve the operator's economics when every output resolves to retained facts:
+
+- propose mappings from inconsistent merchant fields into a canonical schema;
+- identify missing specifications, duplicate products and stale or conflicting offers;
+- turn free-text buyer needs into explicit project constraints and follow-up questions;
+- draft comparison structures from verified attributes;
+- prepare accessible variants, translations and internal research summaries.
+
+It must not invent a test, ownership experience, customer review, specification, quote or installation. The durable assets are the things an agent can use but cannot truthfully generate: measured performance, compatibility rules, correction history, project context, current local supply and permissioned outcomes.
+
+## The thesis in one line
+
+```text
+buyer project → explicit constraints → verified evidence → compatible shortlist → suitable transaction → observed outcome
+```
+
+The weak version imports feeds and publishes pages. The stronger version owns the decision structure upstream of the recommendation and can distribute that structure through a website, a tool, an API or an agent.
 
 ## The series
 
-| Document                                                                                                                       | Purpose                                                                     |
-| ------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------- |
-| [01 — How I would build a product aggregator in 2026](./01-how-i-would-build-a-product-aggregator-in-2026.md)                  | The publishable thesis and complete strategic argument                      |
-| [02 — Research method and evidence boundaries](./02-research-method-and-evidence-boundaries.md)                                | The commercial-intent method, calculations, definitions and limitations     |
-| [03 — Opportunity landscape and scorecard](./03-opportunity-landscape-and-scorecard.md)                                        | Why the four surviving verticals rank where they do                         |
-| [04 — Premium garden and outdoor systems](./04-premium-garden-and-outdoor-systems.md)                                          | The recommended first business and its product architecture                 |
-| [05 — Serious maker studios](./05-serious-maker-studios.md)                                                                    | The most defensible specialist publication and comparison product           |
-| [06 — Private games and leisure rooms](./06-private-games-and-leisure-rooms.md)                                                | The cleanest affiliate-led opportunity                                      |
-| [07 — Land and smallholding equipment](./07-land-and-smallholding-equipment.md)                                                | The high-demand option that requires a marketplace and lead model           |
-| [08 — Business model and unit economics](./08-business-model-and-unit-economics.md)                                            | Revenue layers, attribution, sensitivity and break-even rules               |
-| [09 — Product, catalogue and data architecture](./09-product-catalogue-and-data-architecture.md)                               | The product graph, offer observations, feed ingestion and publishing rules  |
-| [10 — Go-to-market and twelve-month launch plan](./10-go-to-market-and-twelve-month-launch-plan.md)                            | Sequencing, experiments, metrics and stop/go gates                          |
-| [11 — Trust, compliance and operating controls](./11-trust-compliance-and-operating-controls.md)                               | Affiliate disclosure, reviews, tracking, price truth and editorial controls |
-| [12 — Industry evidence, public interviews and watchlist](./12-industry-evidence-public-interviews-and-watchlist.md)           | UK market research, named practitioners, public panels and adjacent models  |
-| [13 — Revenue architecture](./13-revenue-architecture-cpa-cpc-cpl-tenancy-and-beyond.md)                                       | The decision between CPA, CPC, CPL, tenancy, hybrids and later revenue      |
-| [14 — Primary interview programme](./14-primary-interview-programme.md)                                                        | The missing first-party evidence, recruitment plan and interview guides     |
-| [15 — Shopping agents, generated content and the decision web](./15-shopping-agents-generated-content-and-the-decision-web.md) | Agent bypass, content abundance, durable evidence and the revised decision  |
+| Document                                                                                                                       | Purpose                                                                               |
+| ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------- |
+| [01 — How I would build a product aggregator in 2026](./01-how-i-would-build-a-product-aggregator-in-2026.md)                  | The complete thesis and recommended UK launch model                                   |
+| [02 — Research method and evidence boundaries](./02-research-method-and-evidence-boundaries.md)                                | Definitions, keyword construction, calculations, source hierarchy and limitations     |
+| [03 — Opportunity landscape and scorecard](./03-opportunity-landscape-and-scorecard.md)                                        | The four surviving verticals and the reasons they rank where they do                  |
+| [04 — Premium garden and outdoor systems](./04-premium-garden-and-outdoor-systems.md)                                          | The recommended first business and its connected product and installation lanes       |
+| [05 — Serious maker studios](./05-serious-maker-studios.md)                                                                    | The strongest specialist publication and comparison alternative                       |
+| [06 — Private games and leisure rooms](./06-private-games-and-leisure-rooms.md)                                                | The cleanest conventional high-value affiliate opportunity                            |
+| [07 — Land and smallholding equipment](./07-land-and-smallholding-equipment.md)                                                | A high-demand market that needs dealer inventory, listings and qualified enquiries    |
+| [08 — Business model and unit economics](./08-business-model-and-unit-economics.md)                                            | Revenue equations, sensitivity ranges, break-even rules and CPC distinctions          |
+| [09 — Product, catalogue and data architecture](./09-product-catalogue-and-data-architecture.md)                               | Product identity, offer history, feed ingestion and publishing controls               |
+| [10 — Go-to-market and twelve-month launch plan](./10-go-to-market-and-twelve-month-launch-plan.md)                            | Sequenced tests, metrics, capital discipline and stop-or-go gates                     |
+| [11 — Trust, compliance and operating controls](./11-trust-compliance-and-operating-controls.md)                               | Disclosure, review integrity, tracking, price truth and editorial independence        |
+| [12 — Industry evidence and public interviews](./12-industry-evidence-public-interviews-and-watchlist.md)                      | UK market evidence and named publisher, advertiser, network and platform perspectives |
+| [13 — Revenue architecture](./13-revenue-architecture-cpa-cpc-cpl-tenancy-and-beyond.md)                                       | CPA, CPC, CPL, tenancy, hybrid and later revenue choices                              |
+| [14 — Primary interview programme](./14-primary-interview-programme.md)                                                        | The first-party evidence needed to challenge the largest commercial assumptions       |
+| [15 — Shopping agents, generated content and the decision web](./15-shopping-agents-generated-content-and-the-decision-web.md) | Agent bypass, generated supply, responsible AI uses and the revised moat              |
 
-## How to read the evidence
+## How should the evidence be read?
 
 The series uses four evidence classes:
 
-- **Observed:** directly returned by Google Ads or stated on a live source observed on 3 September 2026.
-- **Derived:** arithmetic from observed inputs, with the formula shown.
-- **Inference:** a commercial judgement supported by observed evidence but not itself proven.
+- **Observed:** directly returned by Google Ads or stated by an opened source on the research date.
+- **Derived:** arithmetic from observed inputs, with the formula or input rows retained.
+- **Inference:** a commercial judgement supported by evidence but not itself proven.
 - **Unknown:** a field that must be measured or confirmed before capital is committed.
 
-The evidence pack contains:
+The evidence pack contains the [commercial keyword ledger](../evidence/commercial-keyword-ledger.csv), [opportunity scorecard](../evidence/scorecard.csv), [source register](../evidence/sources.csv), [practitioner-evidence ledger](../evidence/practitioner-evidence-ledger.csv), [AI-disruption ledger](../evidence/ai-disruption-ledger.csv), [AI scorecard](../evidence/ai-disruption-scorecard.csv) and [research manifest](../evidence/manifest.json).
 
-- [`manifest.json`](../evidence/manifest.json): scope, methods, exclusions and limitations.
-- [`commercial-keyword-ledger.csv`](../evidence/commercial-keyword-ledger.csv): the retained commercial-intent rows and inclusion decisions.
-- [`scorecard.csv`](../evidence/scorecard.csv): raw demand, weighted CPC and the heuristic ranking.
-- [`sources.csv`](../evidence/sources.csv): current URLs, source status, supported claim and limitation.
-- [`practitioner-evidence-ledger.csv`](../evidence/practitioner-evidence-ledger.csv): observed industry economics, payment-model evidence and limitations.
-- [`ai-disruption-ledger.csv`](../evidence/ai-disruption-ledger.csv): actor, mechanism, evidence class, counterforce, indicator and commercial implication for each AI impact.
-- [`ai-disruption-scorecard.csv`](../evidence/ai-disruption-scorecard.csv): comparable risk and advantage scores with confidence and unknowns.
-
-## What this research does not claim
-
-It does not claim that monthly search volume is obtainable traffic, that historical CPC is a guaranteed acquisition cost, or that paid competition predicts organic ranking difficulty. It does not claim that a visible product price is the vertical's average order value. It does not assume that an affiliate programme will approve the site, expose a complete product feed, permit paid search or validate every transaction.
-
-No campaign was launched. No merchant was contacted. No original interview was conducted. No programme application or form was submitted. No Supabase query or database mutation was performed. Public practitioner interviews and panels are identified as such rather than presented as first-party interviews. The generated update remains local until a separate publication request.
+Average monthly search volume is not obtainable traffic. Historical CPC is not customer-acquisition cost or organic difficulty. A visible product price is not an average order value. A platform announcement is not proof of UK adoption, conversion or publisher compensation. Practitioner evidence comes from attributed public interviews and panels rather than interviews conducted for this paper.

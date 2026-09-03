@@ -33,9 +33,9 @@
       <div class="publication-label"><span>Commercial research series</span><strong>UK Rank-and-Rent 2026</strong></div>
       <label class="nav-search"><span class="sr-only">Filter chapters</span><input type="search" placeholder="Filter chapters…" autocomplete="off"></label>
       <nav class="chapter-nav" aria-label="Research chapters"><p class="nav-section">Start here</p><a class="nav-link" href="index.html"><span>00</span>Overview</a>
-<a class="nav-link" href="01-complete-report.html"><span>01</span>Complete report</a>
-<p class="nav-section">Evidence</p><a class="nav-link" href="02-method-and-evidence-boundaries.html"><span>02</span>Method</a>
-<a class="nav-link" href="03-case-studies-and-who-is-talking.html"><span>03</span>Cases and voices</a>
+<a class="nav-link" href="01-complete-report.html"><span>01</span>The complete thesis</a>
+<a class="nav-link" href="02-method-and-evidence-boundaries.html"><span>02</span>Research method</a>
+<p class="nav-section">Evidence</p><a class="nav-link" href="03-case-studies-and-who-is-talking.html"><span>03</span>Cases and voices</a>
 <p class="nav-section">Opportunity</p><a class="nav-link" href="04-demand-cpc-and-location-screen.html"><span>04</span>Demand and CPC</a>
 <a class="nav-link" href="05-niche-opportunity-scorecard.html"><span>05</span>Opportunity scorecard</a>
 <p class="nav-section">Operating model</p><a class="nav-link" href="06-business-models-and-unit-economics.html"><span>06</span>Models and economics</a>
@@ -74,15 +74,14 @@
 <p>The answer changes the launch order. <strong>Edinburgh commercial cleaning is no longer the first build.</strong> Its supplier market is real, but its search evidence is not yet dependable. Manchester fire-risk assessment, Manchester asbestos survey, Bristol drainage and Edinburgh boilers now carry the best combinations of cross-method demand, advertiser pressure and identifiable fulfillment supply. They still require buyer interviews before SEO investment.</p>
 <p>The complete outputs are the <a href="data/google-ads-priority-cluster-summary.csv">priority cluster comparison</a>, <a href="data/companies-house-organisations.csv">Companies House organisation evidence</a>, <a href="data/companies-house-segment-summary.csv">segment summary</a>, <a href="data/companies-house-census-screen.csv">discovery screen</a> and <a href="data/cpc-economics-sensitivity.csv">CPC sensitivity model</a>.</p>
 <h2 id="the-google-ads-quota-was-small-and-transient"><a class="heading-anchor" href="#the-google-ads-quota-was-small-and-transient">The Google Ads quota was small and transient<span aria-hidden="true">#</span></a></h2>
-<p>The earlier <code>RESOURCE_EXHAUSTED</code> response did not mean that the account had run out of keyword searches. Google documents <code>GenerateKeywordHistoricalMetrics</code> as limited at one request per second per customer ID, calculated over a rolling 60-second window. Google separately documents a much larger daily operation allowance for Basic access. The subsequent requests succeeded after pacing calls 1.5 seconds apart and retrying a rate-limit response after ten seconds. <a href="https://developers.google.com/google-ads/api/docs/best-practices/quotas" class="external" rel="noreferrer">Google Ads API quotas</a> and <a href="https://developers.google.com/google-ads/api/docs/api-policy/access-levels" class="external" rel="noreferrer">access levels</a></p>
-<p>That produced:</p>
+<p>The expanded screen produced:</p>
 <ul>
 <li>144 generic-service observations inside nine city geo targets;</li>
 <li>37 returned rows for expanded explicit-city variants across seven priority clusters;</li>
 <li>37 returned rows for the same intent families measured generically inside their city targets;</li>
 <li>a twelve-month history for every returned priority row.</li>
 </ul>
-<p>No campaign was created or modified. These were read-only historical-planning requests.</p>
+<p>These are historical planning observations, not live campaign results.</p>
 <h3 id="the-comparable-local-city-basket"><a class="heading-anchor" href="#the-comparable-local-city-basket">The comparable local-city basket<span aria-hidden="true">#</span></a></h3>
 <p>The same 16 generic service phrases were measured inside nine city targets. This is a cleaner location comparison than adding city words under UK targeting, but it covers fewer niches than the original 35-phrase screen.</p>
 <div class="table-scroll"><table>

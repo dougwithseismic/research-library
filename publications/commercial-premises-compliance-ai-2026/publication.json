@@ -16,14 +16,14 @@
       "section": "Start here",
       "shortTitle": "Overview",
       "title": "The UK Commercial-Premises Compliance Economy",
-      "description": "The decision, entry sequence, AI-disruption scores and complete evidence map."
+      "description": "What commercial-premises compliance is, how its economy works, what is being built and where a founder should focus."
     },
     {
       "source": "01-how-i-would-enter-commercial-premises-compliance.md",
       "output": "01-how-i-would-enter-commercial-premises-compliance.html",
       "number": "01",
       "section": "Start here",
-      "shortTitle": "How I would enter",
+      "shortTitle": "The complete thesis",
       "title": "How I Would Enter Commercial-Premises Compliance",
       "description": "The answer-first partner-led model, product boundary, economics and recommendation."
     },
@@ -32,7 +32,7 @@
       "output": "02-method-and-evidence-boundaries.html",
       "number": "02",
       "section": "Start here",
-      "shortTitle": "Method",
+      "shortTitle": "Research method",
       "title": "Method and Evidence Boundaries",
       "description": "How duties, purchases, public sources, retained demand, company records and AI claims were separated."
     },

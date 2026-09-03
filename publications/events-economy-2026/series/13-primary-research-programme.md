@@ -150,7 +150,7 @@ Maintain a versioned research ledger with:
 - decision changed by the evidence;
 - follow-up owner and date.
 
-Raw interview material and participant data belong in `private-data/`, not the generated public site. Published evidence should be aggregated and redacted.
+Interview records should be permissioned, access-controlled and de-identified. Published evidence should be aggregated and redacted.
 
 ## Decision meeting
 

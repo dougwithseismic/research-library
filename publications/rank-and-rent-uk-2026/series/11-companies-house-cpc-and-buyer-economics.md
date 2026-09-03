@@ -14,16 +14,14 @@ The complete outputs are the [priority cluster comparison](../evidence/google-ad
 
 ## The Google Ads quota was small and transient
 
-The earlier `RESOURCE_EXHAUSTED` response did not mean that the account had run out of keyword searches. Google documents `GenerateKeywordHistoricalMetrics` as limited at one request per second per customer ID, calculated over a rolling 60-second window. Google separately documents a much larger daily operation allowance for Basic access. The subsequent requests succeeded after pacing calls 1.5 seconds apart and retrying a rate-limit response after ten seconds. [Google Ads API quotas](https://developers.google.com/google-ads/api/docs/best-practices/quotas) and [access levels](https://developers.google.com/google-ads/api/docs/api-policy/access-levels)
-
-That produced:
+The expanded screen produced:
 
 - 144 generic-service observations inside nine city geo targets;
 - 37 returned rows for expanded explicit-city variants across seven priority clusters;
 - 37 returned rows for the same intent families measured generically inside their city targets;
 - a twelve-month history for every returned priority row.
 
-No campaign was created or modified. These were read-only historical-planning requests.
+These are historical planning observations, not live campaign results.
 
 ### The comparable local-city basket
 

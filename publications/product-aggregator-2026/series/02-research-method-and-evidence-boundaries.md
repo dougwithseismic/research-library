@@ -37,7 +37,7 @@ The exclusion matters. `robot lawn mower` returned 27,100 average monthly search
 
 ## How were the Google Ads observations collected?
 
-Leadmap's authenticated read-only Google Ads historical-metrics runner was used with:
+Google Ads Keyword Planning historical metrics were collected with:
 
 - Geography: United Kingdom, criterion `2826`.
 - Language: English, criterion `1000`.
@@ -48,7 +48,7 @@ Leadmap's authenticated read-only Google Ads historical-metrics runner was used 
 
 Google describes average monthly searches as approximate monthly volume averaged over the previous twelve months. Competition and the competition index describe ad-slot demand, while bid fields describe historical auction ranges. [Google Ads historical-metrics documentation](https://developers.google.com/google-ads/api/docs/keyword-planning/generate-historical-metrics)
 
-The sanitized retained rows are in [`commercial-keyword-ledger.csv`](../evidence/commercial-keyword-ledger.csv). The pack does not contain customer identifiers, OAuth values or account credentials.
+The published observations are in [`commercial-keyword-ledger.csv`](../evidence/commercial-keyword-ledger.csv).
 
 ## How were close variants and overlapping phrases handled?
 

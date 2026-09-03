@@ -2,7 +2,7 @@
 title: "How to Enter UK Commercial-Premises Compliance in 2026"
 meta_description: "A research-led entry plan for managed UK commercial-premises compliance, with provider partnerships, evidence controls and bounded AI automation."
 slug: "commercial-premises-compliance-ai-2026"
-author: "To be assigned before publication"
+author: "Research Library"
 research_date: "2026-09-03"
 status: "published research"
 ---

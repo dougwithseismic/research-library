@@ -8,7 +8,7 @@ It does not ask which keyword has the largest number. It asks where demand, cust
 
 ## Google Ads method
 
-The retained screen used Google Ads `GenerateKeywordHistoricalMetrics` through the repository's authenticated read-only tooling.
+The retained screen used Google Ads Keyword Planning historical metrics.
 
 | Parameter                             | Value                         |
 | ------------------------------------- | ----------------------------- |
@@ -55,8 +55,6 @@ Both are valid. They answer different questions.
 
 The deeper pass retained a local-geo cross-check using Google's active 2026 city criteria. It first submitted 16 generic priority services inside each of nine cities. It then submitted expanded variants for seven priority city-niche clusters through both methods. Agreement increases confidence that paid commercial intent exists; disagreement triggers query-grouping, seasonality and real-impression validation.
 
-The first local-geo attempt returned `RESOURCE_EXHAUSTED`. Google documents `GenerateKeywordHistoricalMetrics` at one request per second per customer ID on a rolling 60-second interval. It separately documents daily operation allowances by developer-token access level. Requests succeeded after adding 1.5-second pacing and one ten-second retry. The failure was therefore a transient rate-limit event, not evidence that the account had no keyword requests remaining. [Google Ads quota documentation](https://developers.google.com/google-ads/api/docs/best-practices/quotas)
-
 The final depth run broadened only the four recommended cells. Buyer-acquisition queries and platform-brand queries were placed in separate clusters so that contractor demand for leads could not be confused with homeowner service demand or consumer navigation. “Retained rows” is a research-workload count; overlapping keyword sets make it unusable as a demand total.
 
 ## What each metric means
@@ -99,9 +97,9 @@ The live result sample is deliberately called a **web result sample**, not a Goo
 
 ## Companies House method
 
-The deeper pass used only read-only public Companies House endpoints and official filed-account documents. It did not query a project database or Supabase. Five lead marketplaces and 18 initially selected local suppliers were resolved by company number; one additional Jackson entity was captured after a Manchester website footer exposed an identity mismatch. A subsequent platform pass captured nine further legal entities around Yell, FMB, Airtasker, Houzz, Which, BookaBuilder and HaMuch. The public financial comparison includes only entities whose selected filing supported a useful, correctly bounded observation.
+The deeper pass used public Companies House records and official filed-account documents. Five lead marketplaces and 18 initially selected local suppliers were resolved by company number; one additional Jackson entity was captured after a Manchester website footer exposed an identity mismatch. A subsequent platform pass captured nine further legal entities around Yell, FMB, Airtasker, Houzz, Which, BookaBuilder and HaMuch. The public financial comparison includes only entities whose selected filing supported a useful, correctly bounded observation.
 
-Public derived files exclude officers and people with significant control. They retain registered name, company number, filing period, selected financial metrics, extraction method, source links, parser warnings and trading-identity state. Raw captures remain under `private-data/`.
+Published derived files exclude officers and people with significant control. They retain registered name, company number, filing period, selected financial metrics, extraction method, source links, parser warnings and trading-identity state. Raw source captures are retained separately from the public evidence pack.
 
 Most small-company filings do not disclose turnover or a profit-and-loss account. Missing values remain blank, not zero. Three PDF or XHTML accounts required manual transcription of selected headline metrics, and that method is stated row by row. Companies House states that it does not independently verify the accuracy of company-filed information. The registry establishes legal and filing evidence; it does not establish service quality, geographic coverage, buying intent or present financial performance. [Companies House quality and methods guide](https://www.gov.uk/government/publications/incorporated-companies-in-the-uk-by-jurisdiction-and-month-quality-and-methods-guide/quality-and-methods-guide)
 

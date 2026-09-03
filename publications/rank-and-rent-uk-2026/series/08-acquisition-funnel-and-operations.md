@@ -137,7 +137,7 @@ Commercial cleaning and loft conversions tolerate a longer response than drainag
 
 Organic work begins with one transaction page, one evidence page and a small number of decision pages. Local links and citations should come from genuine relationships, suppliers, memberships, projects, local organisations and useful data—not bought ranking credit.
 
-A bounded paid-search experiment can validate query quality and landing conversion before SEO matures. The media ceiling must be derived from accepted-lead or job contribution economics. No campaign was launched by this research.
+A bounded paid-search experiment can validate query quality and landing conversion before SEO matures. The media ceiling must be derived from accepted-lead or job contribution economics.
 
 Affiliate or marketplace routing can validate demand where direct buyers are not ready. Bark's programme provides an observable path, but the payout and acceptance conditions must be tested rather than assumed.
 

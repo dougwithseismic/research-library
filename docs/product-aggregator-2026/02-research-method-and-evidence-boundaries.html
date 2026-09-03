@@ -86,7 +86,7 @@
 <p>Broad category terms were queried during exploration but excluded from the scored commercial baskets. Examples include <code>robot lawn mower</code>, <code>pottery wheel</code>, <code>greenhouse</code>, <code>hot tub</code>, <code>treadmill</code> and <code>pool table</code>. Those terms may contain commercial traffic, but they also contain definitions, images, instructions, repairs, used-product research and general curiosity.</p>
 <p>The exclusion matters. <code>robot lawn mower</code> returned 27,100 average monthly searches, while the canonical explicit purchase phrase <code>robotic mower for sale</code> returned 480. <code>pottery wheel</code> returned 9,900, while <code>pottery wheel for sale</code> returned 1,900. Reporting the head terms as commercial demand would materially overstate the validated buying pool.</p>
 <h2 id="how-were-the-google-ads-observations-collected"><a class="heading-anchor" href="#how-were-the-google-ads-observations-collected">How were the Google Ads observations collected?<span aria-hidden="true">#</span></a></h2>
-<p>Leadmap&#39;s authenticated read-only Google Ads historical-metrics runner was used with:</p>
+<p>Google Ads Keyword Planning historical metrics were collected with:</p>
 <ul>
 <li>Geography: United Kingdom, criterion <code>2826</code>.</li>
 <li>Language: English, criterion <code>1000</code>.</li>
@@ -96,7 +96,7 @@
 <li>Observation date: 3 September 2026.</li>
 </ul>
 <p>Google describes average monthly searches as approximate monthly volume averaged over the previous twelve months. Competition and the competition index describe ad-slot demand, while bid fields describe historical auction ranges. <a href="https://developers.google.com/google-ads/api/docs/keyword-planning/generate-historical-metrics" class="external" rel="noreferrer">Google Ads historical-metrics documentation</a></p>
-<p>The sanitized retained rows are in <a href="data/commercial-keyword-ledger.csv"><code>commercial-keyword-ledger.csv</code></a>. The pack does not contain customer identifiers, OAuth values or account credentials.</p>
+<p>The published observations are in <a href="data/commercial-keyword-ledger.csv"><code>commercial-keyword-ledger.csv</code></a>.</p>
 <h2 id="how-were-close-variants-and-overlapping-phrases-handled"><a class="heading-anchor" href="#how-were-close-variants-and-overlapping-phrases-handled">How were close variants and overlapping phrases handled?<span aria-hidden="true">#</span></a></h2>
 <p>Google can combine submitted queries and close variants into one result. Even where the returned <code>closeVariants</code> field is empty, identical volume and CPC profiles can indicate that two requested phrases are drawing on the same canonical pool.</p>
 <p>The scored vertical totals therefore use <strong>one canonical phrase per product family</strong>. Supporting <code>buy</code>, <code>price</code> and <code>for sale</code> terms remain in the ledger but are not automatically added.</p>

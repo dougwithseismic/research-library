@@ -11,7 +11,7 @@ framing → evidence → market → economics → AI disruption
 → adversarial review → validation
 ```
 
-The desk-research gates are complete. Validation now crosses human seams: interviews, professional review, paid design partners, provider terms and an authorised report corpus. Those actions require real counterparties and have not been represented as completed.
+The desk-research gates are complete. The remaining validation depends on interviews, professional review, paid design partners, provider terms and an authorised report corpus.
 
 ## Weeks 1–2: recruit the evidence panel
 
@@ -263,7 +263,7 @@ Choose this if the existing stack solves the problem, liability cannot be bounde
 
 The next action is to recruit the interview and professional-review panel using the exact sample and questions above, then obtain two paid portfolio design partners before building production automation.
 
-No live interview, outreach, provider agreement, paid acquisition, site inspection or professional approval has been completed by this desk research. Those are the evidence-producing next steps, not details to be filled in later with assumptions.
+Those interviews, reviews and field results are the evidence-producing next steps. They must replace the paper's assumptions before the model is treated as operationally validated.
 
 ## The twelve-month decision
 

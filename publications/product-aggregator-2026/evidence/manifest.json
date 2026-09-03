@@ -14,7 +14,7 @@
   "currency": "GBP",
   "googleAdsApiVersion": "v25",
   "methods": [
-    "Google Ads GenerateKeywordHistoricalMetrics through Leadmap's authenticated read-only runner",
+    "Google Ads Keyword Planning historical metrics",
     "Commercial-intent keyword construction using for sale, buy, price, cost, quote, and inherently transactional made-to-measure phrases",
     "Canonical keyword selection by product family to avoid adding identical or close-variant metrics twice",
     "Live-web verification of merchant programmes, retailer pricing, platform documentation, competitor purchase paths, and UK guidance",
@@ -48,10 +48,9 @@
     "Paid competition and CPC describe the advertising auction, not organic SEO difficulty.",
     "For-sale machinery searches can mix new, used, private-sale, dealer, and hire intent.",
     "Affiliate programme acceptance, product-feed access, commission groups, attribution, validation, and PPC permission require direct confirmation before launch.",
-    "Public interviews, panels, and podcasts were reviewed, but no original first-party interview was conducted for this project.",
+    "Practitioner evidence comes from attributed public interviews, panels, and podcasts rather than interviews conducted for this project.",
     "Platform announcements establish shopping-agent and merchant-feed capabilities but do not establish UK adoption, conversion, attribution, or publisher compensation.",
     "No first-party agent-referred traffic, assisted-conversion, merchant-feed, generated-content productivity, or correction cohort was available.",
-    "Trade-body and platform research has declared industry context and sample limitations and should not be treated as merchant-specific commercial validation.",
-    "No live campaign, outreach, purchase, form submission, account mutation, or Supabase query was performed."
+    "Trade-body and platform research has declared industry context and sample limitations and should not be treated as merchant-specific commercial validation."
   ]
 }

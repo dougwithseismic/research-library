@@ -2,9 +2,9 @@
 title: "How to Build a High-Value Product Aggregator in 2026"
 meta_description: "A research-led plan for building a UK product aggregator around high order values, commercial search demand, useful comparison tools and merchant data."
 slug: "product-aggregator-2026"
-author: "To be assigned before publication"
+author: "Research Library"
 research_date: "2026-09-03"
-status: "internal working paper"
+status: "published research"
 ---
 
 # How I would build a product aggregator in 2026
@@ -17,7 +17,7 @@ The business would leave checkout with retailers and launch on CPA/CPS commissio
 
 Shopping agents make that restriction structural. Merchant feeds can now pass directly into conversational product comparison, while generated descriptions, “best” lists and promotional imagery make generic product content abundant. The business therefore has to own original tests, compatibility logic, project constraints, verified offer history or installation outcomes that an agent can use but cannot truthfully invent. [Chapter 15](./15-shopping-agents-generated-content-and-the-decision-web.md) maps the bypass risk, responsible operating uses and revised kill conditions.
 
-The supporting series contains the full [opportunity scorecard](./03-opportunity-landscape-and-scorecard.md), [unit-economics model](./08-business-model-and-unit-economics.md) and [catalogue architecture](./09-product-catalogue-and-data-architecture.md). These are working research chapters, not hidden substantiation for conclusions that cannot be challenged.
+The supporting series contains the full [opportunity scorecard](./03-opportunity-landscape-and-scorecard.md), [unit-economics model](./08-business-model-and-unit-economics.md) and [catalogue architecture](./09-product-catalogue-and-data-architecture.md). These are published research chapters with their assumptions and evidence available for challenge.
 
 ## Why is a product database no longer enough?
 
@@ -299,7 +299,7 @@ No. Nearly every retained commercial keyword has high paid competition. CPC is t
 
 ## Publication schema template
 
-This working paper does not yet have a named author, publication date or canonical URL. Replace the bracketed values before publishing; the template is included so the editorial handoff does not silently omit structured data.
+The static-site build supplies matching Article and FAQ structured data. This source template keeps the editorial artifact independently checkable and is removed from the rendered chapter.
 
 ```json
 [
@@ -309,12 +309,16 @@ This working paper does not yet have a named author, publication date or canonic
     "headline": "How to Build a High-Value Product Aggregator in 2026",
     "description": "A research-led plan for building a UK product aggregator around high order values, commercial search demand, useful comparison tools and merchant data.",
     "author": {
-      "@type": "Person",
-      "name": "[Author name]"
+      "@type": "Organization",
+      "name": "Research Library"
     },
-    "datePublished": "[YYYY-MM-DD]",
-    "dateModified": "[YYYY-MM-DD]",
-    "mainEntityOfPage": "[Canonical URL]"
+    "publisher": {
+      "@type": "Organization",
+      "name": "Research Library"
+    },
+    "datePublished": "2026-09-03",
+    "dateModified": "2026-09-03",
+    "mainEntityOfPage": "https://dougwithseismic.github.io/research-library/product-aggregator-2026/01-how-i-would-build-a-product-aggregator-in-2026.html"
   },
   {
     "@context": "https://schema.org",

@@ -1,10 +1,12 @@
-# Thirty-two operators and what they reveal
+# The operator atlas: who actually runs the market
 
 ## Why the operator set had to expand
 
 The initial report treated a few large directories as proof that local acquisition is commercially real. That was directionally correct but strategically incomplete. A founder needs to see the substitutes available to both sides of the market.
 
-The expanded [operator atlas](../evidence/operator-atlas.csv) is purposive rather than exhaustive. It includes 32 UK-relevant products across search, directories, marketplaces, direct lead supply, agencies, trade bodies, operator education and infrastructure. It records the public commercial unit and verification claim without treating first-party success statements as independently proven.
+The expanded [operator atlas](../evidence/operator-atlas.csv) is purposive rather than exhaustive. It now includes 40 UK-relevant products across search, directories, marketplaces, owned-media groups, direct lead supply, agencies, trade bodies, operator education, infrastructure and fulfilment. The unit is a product, not an independent company: Leads.io, Boiler Guide and GreenMatch appear separately because they expose different layers of the same group. The atlas records the public commercial unit and verification claim without treating first-party success statements as independently proven.
+
+This distinction matters. A consumer-facing comparison brand, its parent portfolio owner, the call team that qualifies a request and the installer who completes the job may be separate parts of one system. Counting domains without mapping those relationships exaggerates competition and hides the operating work.
 
 ## Fourteen consumer-to-provider platforms
 
@@ -29,13 +31,15 @@ The category has not converged on one way to charge. That is a finding. It means
 
 ## Direct lead and appointment suppliers
 
-The second competitive set rarely appears in “best trades websites” lists, but it competes directly for contractor acquisition budgets.
+The second competitive set rarely appears in “best trades websites” lists, but it competes directly for contractor acquisition budgets. It also makes the labour inside a lead visible.
 
 Watts Marketing describes exclusive, qualified, booked appointments across windows, solar, heat pumps, boilers, insulation and conservatory roofs. It explicitly distinguishes an appointment from warm data. [Watts](https://wattsmarketingltd.co.uk/) This is a better commercial comparator for an Edinburgh boiler proposition than a generic directory membership.
 
 Trade Leads UK publishes a tariff “from £19” per human-verified construction lead, with a monthly option. [Trade Leads UK](https://tradeleadsuk.com/lead-generation-1) The number is an observable offer, not a universal market clearing price. Its lead definition, job values and source mix differ from an exclusive emergency call.
 
-Exclusive Home Leads, Sales Fuel, LeadZen, ElevateOne, Strive Online and BuildBright all sell some combination of exclusivity, qualification, geographic protection, appointment setting and follow-up. Their public outcome claims remain marketing evidence until a buyer supplies invoices and cohort results. Collectively, however, they show what buyers are promised:
+Exclusive Home Leads, Sales Fuel, LeadZen, ElevateOne, Strive Online and BuildBright all sell some combination of exclusivity, qualification, geographic protection, appointment setting and follow-up. Leads 2 Trade describes an owned-site-to-call-centre workflow that checks the consumer, coordinates surveys and releases appointments to a bounded installer set. iLeads describes phone verification, de-duplication, postcode routing, prepaid billing and credits. Lead Pronto publishes a current ladder from raw lead to booked appointment to a buyer-branded managed campaign. [Leads 2 Trade](https://leads2trade.co.uk/about/how-we-generate-leads/) [iLeads](https://www.ileads.co.uk/) [Lead Pronto](https://leadpronto.co.uk/home-improvement-leads/)
+
+Their public outcome claims remain marketing evidence until a buyer supplies invoices and cohort results. Collectively, however, they show what buyers are promised:
 
 - one buyer or one buyer per area;
 - a confirmed service and location;
@@ -46,6 +50,14 @@ Exclusive Home Leads, Sales Fuel, LeadZen, ElevateOne, Strive Online and BuildBr
 - an acquisition system rather than a domain lease.
 
 The independent publisher has to match this service standard or be cheaper for a reason the buyer understands.
+
+## Owned media and vertical comparison networks
+
+Boiler Guide and GreenMatch show what happens when useful category content, a structured request and supplier distribution become one vertical product. Boiler Guide describes advisers, qualification, accreditation requirements and matching to up to three heating providers. GreenMatch discloses Leads.io ownership, a pay-per-lead supplier model and comparison of up to four installers. [Boiler Guide](https://www.boilerguide.co.uk/about-us) [GreenMatch](https://www.greenmatch.co.uk/supplier-sign-up)
+
+The parent layer is strategically important. Leads.io says it added more than 50 domains to its owned-media portfolio over five years, including GreenMatch, BoilerGuide and HomeRenovation. That is first-party strategy evidence, not asset-level economics, but it shows a mature version of the model: buy established audience and authority, centralise qualification and compliance, then connect several consumer brands to shared buyer and technology infrastructure. [Leads.io acquisition strategy](https://leads.io/exciting-news-leads-io-accelerates-french-market-growth-with-strategic-acquisitions/)
+
+For an independent founder, the lesson is not “copy fifty sites.” It is that a site becomes more valuable when its demand is legible, consented, attributable and portable into an operating system. Rankings without lead definitions, buyer history and outcome data are much harder to underwrite.
 
 ## Trust institutions and trade bodies
 
@@ -64,6 +76,18 @@ This suggests a stronger page than a thin “best X in Y” list. A defensible p
 - what happens if the provider is unavailable or unsuitable.
 
 Publishing those facts creates maintenance work. That maintenance is part of the product.
+
+## Fulfilment platforms and owned service
+
+The furthest downstream competitors do not sell an introduction. Fantastic Services combines central marketing, a call centre, software, training and local franchise fulfilment. British Gas HomeCare combines recurring cover, direct booking and delivery across boilers, heating, plumbing, drains and electrical work. [Fantastic Services](https://www.fantasticservices.com/franchise-opportunities/) [British Gas HomeCare](https://www.britishgas.co.uk/cover/guides/homecare-explained.html)
+
+These models capture more customer value because they accept more responsibility. They also bear workforce, scheduling, service-quality, support and guarantee costs that a lead seller can avoid. Their presence changes the strategic ladder:
+
+```text
+ranked page → consented request → qualified opportunity → booked job → managed fulfilment → recurring service
+```
+
+Moving right increases potential revenue and control. It also increases operational and regulatory exposure. The report recommends qualification and workflow before owned fulfilment because the first cell still lacks buyer and consumer cohort evidence.
 
 ## The infrastructure layer
 
