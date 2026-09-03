@@ -1,0 +1,112 @@
+{
+  "slug": "commercial-premises-compliance-ai-2026",
+  "title": "The UK Commercial-Premises Compliance Economy",
+  "shortTitle": "Commercial-Premises Compliance",
+  "summary": "A decision-grade UK paper on commercial-premises duties, provider procurement, managed-service economics and the safe boundary for AI extraction, agents, evidence and professional sign-off.",
+  "eyebrow": "Commercial research paper",
+  "geography": "United Kingdom",
+  "observedAt": "2026-09-03",
+  "status": "Published research",
+  "accent": "#7dd3fc",
+  "pages": [
+    {
+      "source": "README.md",
+      "output": "index.html",
+      "number": "00",
+      "section": "Start here",
+      "shortTitle": "Overview",
+      "title": "The UK Commercial-Premises Compliance Economy",
+      "description": "The decision, entry sequence, AI-disruption scores and complete evidence map."
+    },
+    {
+      "source": "01-how-i-would-enter-commercial-premises-compliance.md",
+      "output": "01-how-i-would-enter-commercial-premises-compliance.html",
+      "number": "01",
+      "section": "Start here",
+      "shortTitle": "How I would enter",
+      "title": "How I Would Enter Commercial-Premises Compliance",
+      "description": "The answer-first partner-led model, product boundary, economics and recommendation."
+    },
+    {
+      "source": "02-method-and-evidence-boundaries.md",
+      "output": "02-method-and-evidence-boundaries.html",
+      "number": "02",
+      "section": "Start here",
+      "shortTitle": "Method",
+      "title": "Method and Evidence Boundaries",
+      "description": "How duties, purchases, public sources, retained demand, company records and AI claims were separated."
+    },
+    {
+      "source": "03-market-duties-and-the-procurement-boundary.md",
+      "output": "03-market-duties-and-the-procurement-boundary.html",
+      "number": "03",
+      "section": "Market",
+      "shortTitle": "Duties and procurement",
+      "title": "Market, Duties and the Procurement Boundary",
+      "description": "The property stock, value chain and distinction between required outcomes and paid provision."
+    },
+    {
+      "source": "04-compliance-lane-dossiers.md",
+      "output": "04-compliance-lane-dossiers.html",
+      "number": "04",
+      "section": "Market",
+      "shortTitle": "Lane dossiers",
+      "title": "Which Compliance Lanes Are Commercially Attractive?",
+      "description": "Fire, asbestos, legionella, lifting equipment, pressure systems, gas, EPC and electrical entry decisions."
+    },
+    {
+      "source": "05-providers-software-and-incumbent-response.md",
+      "output": "05-providers-software-and-incumbent-response.html",
+      "number": "05",
+      "section": "Market",
+      "shortTitle": "Providers and software",
+      "title": "Providers, Software and Incumbent Response",
+      "description": "Horizontal platforms, vertical assessor tools, service incumbents and the build-partner-buy boundary."
+    },
+    {
+      "source": "06-ai-disruption-autonomy-and-the-2028-moat.md",
+      "output": "06-ai-disruption-autonomy-and-the-2028-moat.html",
+      "number": "06",
+      "section": "AI disruption",
+      "shortTitle": "AI and the moat",
+      "title": "AI Disruption, Autonomy and the 2028 Moat",
+      "description": "Generated-content supply, discovery compression, agent bypass, operating leverage, failure modes and durable scarcity."
+    },
+    {
+      "source": "07-ai-control-architecture-and-evaluation.md",
+      "output": "07-ai-control-architecture-and-evaluation.html",
+      "number": "07",
+      "section": "AI disruption",
+      "shortTitle": "AI controls",
+      "title": "AI Control Architecture and Evaluation",
+      "description": "The provenance graph, deterministic rules, autonomy levels, release thresholds and incident controls."
+    },
+    {
+      "source": "08-business-models-and-unit-economics.md",
+      "output": "08-business-models-and-unit-economics.html",
+      "number": "08",
+      "section": "Decision",
+      "shortTitle": "Models and economics",
+      "title": "Business Models and Unit Economics",
+      "description": "Paid-lead sensitivity, managed-site pricing, provider productivity, SaaS analogues and acquisition economics."
+    },
+    {
+      "source": "09-adversarial-scenarios-and-kill-conditions.md",
+      "output": "09-adversarial-scenarios-and-kill-conditions.html",
+      "number": "09",
+      "section": "Decision",
+      "shortTitle": "Scenarios and stops",
+      "title": "Adversarial Scenarios and Kill Conditions",
+      "description": "Incumbent response, agent mediation, trust shocks, data failure and explicit stop conditions."
+    },
+    {
+      "source": "10-twelve-month-validation-programme.md",
+      "output": "10-twelve-month-validation-programme.html",
+      "number": "10",
+      "section": "Decision",
+      "shortTitle": "Validation programme",
+      "title": "The Twelve-Month Validation Programme",
+      "description": "The interview, professional-review, 50-site, provider, evaluation and company-form gates."
+    }
+  ]
+}

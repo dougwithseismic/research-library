@@ -211,7 +211,7 @@
       "title": "The UK Commercial-Premises Compliance Economy",
       "workingSubtitle": "What must be done, what must be bought, and what AI can actually change",
       "slug": "commercial-premises-compliance-ai-2026",
-      "status": "queued",
+      "status": "complete",
       "decision": "Determine whether a defensible business should generate demand, manage compliance workflows, partner with accredited providers, acquire an operator, or remain out of the category.",
       "inputs": [
         "publications/rank-and-rent-uk-2026",
@@ -220,10 +220,14 @@
       "aiFocus": [
         "substitution-risk",
         "generated-content-supply",
+        "discovery-disruption",
+        "agent-bypass-risk",
         "operating-leverage",
         "proprietary-data-potential",
         "physical-world-moat",
         "trust-liability-moat",
+        "relationship-moat",
+        "platform-dependency",
         "defensibility-2028"
       ],
       "autonomousScope": [

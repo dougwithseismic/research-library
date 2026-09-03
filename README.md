@@ -12,9 +12,10 @@ A reusable home for evidence-led commercial research, publication-ready document
 - `private-data/` provides local access to large source captures and snapshots and is excluded from Git.
 - `docs/` is generated static output for GitHub Pages. Nothing outside it is served by Pages.
 
-## Current publication
+## Current publications
 
-`publications/product-aggregator-2026/` contains the UK product-aggregator research series, including the commercial keyword ledger, opportunity scorecard, practitioner evidence and source registry.
+- `publications/commercial-premises-compliance-ai-2026/` contains the UK commercial-premises compliance paper, including obligation and procurement boundaries, AI disruption, control architecture, evaluation gates, economics and a twelve-month validation programme.
+- `publications/product-aggregator-2026/` contains the UK product-aggregator research series, including the commercial keyword ledger, opportunity scorecard, practitioner evidence and source registry.
 
 ## Credentials
 

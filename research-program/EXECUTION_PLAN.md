@@ -28,7 +28,7 @@ AI disruption is not a decorative chapter. Every paper must establish the presen
 
 ## Phase 2 — Immediate opportunity decisions
 
-- [ ] The UK Commercial-Premises Compliance Economy.
+- [x] The UK Commercial-Premises Compliance Economy.
 - [ ] The Regional City Opportunity Atlas.
 - [ ] Vertical Marketplaces After Shopping Agents.
 
