@@ -1,0 +1,6 @@
+scenario,monthly_raw_leads,accepted_rate,accepted_leads,price_per_accepted_lead_gbp,gross_monthly_revenue_gbp,monthly_site_and_tracking_cost_gbp,monthly_content_and_links_cost_gbp,contribution_before_labour_gbp,classification,notes
+Small proof,8,0.65,5.2,35,182,90,150,-58,assumption,Tests routing and buyer behaviour; not a viable standalone asset
+Credible single territory,20,0.75,15,60,900,125,250,525,assumption,Illustrative only; requires tested acceptance and price
+Strong mature territory,40,0.85,34,100,3400,175,500,2725,assumption,Not a forecast and likely limited to valuable services with reliable fulfilment
+Illustrative tenancy floor,20,0.75,15,42,630,125,250,255,derived,Uses 70 percent of the 60 GBP tested lead value as tenant volume discount
+Illustrative hybrid,20,0.75,15,40,1000,125,250,625,derived,400 GBP base plus 40 GBP for each accepted lead

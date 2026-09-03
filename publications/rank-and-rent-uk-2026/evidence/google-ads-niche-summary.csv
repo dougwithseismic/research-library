@@ -1,0 +1,36 @@
+niche,niche_phrase,lane,sampled_city_searches,cities_with_reportable_volume,weighted_average_cpc_gbp,weighted_high_top_of_page_gbp,paid_search_value_proxy_gbp,top_city_by_proxy,top_city_volume,top_city_average_cpc_gbp,top_five_cities_by_proxy,observed_at
+emergency_plumber,emergency plumber,urgent_trade,10770,26,14.8992,25.5942,160464.28,London,1600,40.3343,London|Edinburgh|Bristol|Reading|Manchester,2026-09-03
+drain_unblocking,drain unblocking,urgent_trade,4820,26,10.9828,21.7464,52936.97,Bristol,590,16.0945,Bristol|London|Southampton|Coventry|Manchester,2026-09-03
+emergency_locksmith,emergency locksmith,urgent_trade,6510,26,32.0632,27.7194,208731.74,London,1900,61.9351,London|Edinburgh|Bristol|Leeds|Brighton,2026-09-03
+roof_repair,roof repair,planned_trade,8780,26,5.7654,15.0394,50619.78,London,880,13.5288,London|Bristol|Edinburgh|Manchester|Aberdeen,2026-09-03
+tree_surgeon,tree surgeon,planned_trade,10700,26,2.9975,5.7440,32073.07,London,1300,3.9030,London|Bristol|Manchester|Sheffield|Nottingham,2026-09-03
+pest_control,pest control,urgent_trade,27150,26,3.6987,6.4094,100418.62,London,5400,5.5045,London|Birmingham|Manchester|Glasgow|Belfast,2026-09-03
+house_clearance,house clearance,planned_trade,10760,26,4.3637,4.0758,46953.65,London,1300,6.2838,London|Birmingham|Manchester|Edinburgh|Newcastle,2026-09-03
+removal_company,removal company,planned_trade,29040,26,7.0862,8.8906,205783.52,Edinburgh,2900,9.1377,Edinburgh|London|Nottingham|Leeds|Leicester,2026-09-03
+skip_hire,skip hire,planned_trade,49020,26,2.0506,2.5946,100521.02,Birmingham,5400,2.4222,Birmingham|Nottingham|Leicester|Sheffield|Bristol,2026-09-03
+solar_panel_installers,solar panel installers,high_ticket_home,2240,25,9.3389,13.1556,20919.13,Edinburgh,260,16.9626,Edinburgh|Glasgow|Oxford|Nottingham|London,2026-09-03
+ev_charger_installation,ev charger installation,high_ticket_home,1830,26,3.6419,5.0277,6664.73,Glasgow,210,3.8453,Glasgow|Edinburgh|Manchester|Birmingham|Bristol,2026-09-03
+air_conditioning_installation,air conditioning installation,high_ticket_home,2600,25,1.9378,3.0916,5038.21,London,1300,2.4024,London|Glasgow|Manchester|Nottingham|Birmingham,2026-09-03
+damp_proofing,damp proofing,high_ticket_home,0,0,0.0000,0.0000,0.00,London,0,0.0000,London|Birmingham|Manchester|Glasgow|Leeds,2026-09-03
+asbestos_survey,asbestos survey,specialist_compliance,3250,26,21.2415,50.8607,69034.81,London,1000,28.9942,London|Manchester|Birmingham|Nottingham|Leeds,2026-09-03
+fire_risk_assessment,fire risk assessment,specialist_compliance,2580,26,23.8460,22.4289,61522.81,London,720,30.1021,London|Manchester|Birmingham|Leeds|Bristol,2026-09-03
+commercial_cleaning,commercial cleaning,b2b_recurring,9410,26,9.3116,46.8512,87622.22,Edinburgh,2900,14.3222,Edinburgh|London|Leeds|Nottingham|Manchester,2026-09-03
+garage_door_repair,garage door repair,planned_trade,3220,26,6.4828,7.9406,20874.75,Nottingham,210,7.5167,Nottingham|Bristol|Southampton|Newcastle|Leeds,2026-09-03
+emergency_glazier,emergency glazier,urgent_trade,380,13,9.9318,19.2166,3774.07,London,210,15.5244,London|Edinburgh|Liverpool|Bristol|Glasgow,2026-09-03
+dental_implants,dental implants,regulated_health,12590,26,11.1293,12.4750,140118.26,London,2400,16.7873,London|Birmingham|Sheffield|Manchester|Edinburgh,2026-09-03
+private_adhd_assessment,private adhd assessment,regulated_health,2040,26,7.3548,7.2587,15003.88,London,390,9.6992,London|Manchester|Glasgow|Liverpool|Sheffield,2026-09-03
+mortgage_broker,mortgage broker,regulated_finance,15910,26,15.2946,18.0244,243337.79,London,2400,17.9309,London|Glasgow|Bristol|Leeds|Manchester,2026-09-03
+personal_injury_solicitor,personal injury solicitor,regulated_legal,2680,25,28.5659,32.7470,76556.72,London,720,27.9302,London|Liverpool|Birmingham|Nottingham|Manchester,2026-09-03
+funeral_directors,funeral directors,sensitive_service,11400,26,8.8032,10.8329,100356.09,London,720,16.6540,London|Glasgow|Edinburgh|Leeds|Manchester,2026-09-03
+self_storage,self storage,local_inventory,48020,26,13.9559,13.2296,670161.13,London,6600,23.5705,London|Manchester|Bristol|Leeds|Birmingham,2026-09-03
+cctv_installation,cctv installation,specialist_installation,3600,26,7.5527,12.6764,27189.83,London,590,9.8791,London|Birmingham|Manchester|Bristol|Nottingham,2026-09-03
+scaffolding,scaffolding,specialist_trade,9870,26,6.0933,6.7460,60141.09,London,1300,14.0709,London|Reading|Birmingham|Bristol|Manchester,2026-09-03
+resin_driveways,resin driveways,high_ticket_home,2720,25,8.5573,9.0666,23275.96,Southampton,170,21.4423,Southampton|Plymouth|Norwich|Manchester|Bristol,2026-09-03
+boiler_installation,boiler installation,high_ticket_home,4860,26,9.3877,18.5059,45624.28,Edinburgh,880,16.0379,Edinburgh|London|Glasgow|Birmingham|Cardiff,2026-09-03
+heat_pump_installer,heat pump installer,high_ticket_home,120,4,7.0107,9.1774,841.28,Edinburgh,40,13.7952,Edinburgh|Nottingham|Brighton|Glasgow|London,2026-09-03
+spray_foam_removal,spray foam removal,specialist_remediation,380,16,30.4675,30.9537,11577.66,London,110,57.2989,London|Birmingham|Coventry|Exeter|Southampton,2026-09-03
+loft_conversion,loft conversion,high_ticket_home,7950,26,8.6222,10.6182,68546.49,London,1600,15.3334,London|Bristol|Southampton|Birmingham|Cambridge,2026-09-03
+bathroom_fitters,bathroom fitters,high_ticket_home,9210,26,4.1681,7.2907,38388.64,London,590,9.5894,London|Edinburgh|Glasgow|Leeds|Aberdeen,2026-09-03
+water_damage_restoration,water damage restoration,urgent_remediation,180,14,1.0100,9.3175,181.79,London,50,3.6359,London|Birmingham|Manchester|Leeds|Liverpool,2026-09-03
+appliance_repair,appliance repair,planned_trade,4100,26,2.7920,3.6265,11447.21,Bristol,880,3.5298,Bristol|London|Manchester|Aberdeen|Leicester,2026-09-03
+conservatory_roof_replacement,conservatory roof replacement,high_ticket_home,660,22,15.4547,17.5439,10200.08,Oxford,30,44.2041,Oxford|Leeds|London|Southampton|Bristol,2026-09-03

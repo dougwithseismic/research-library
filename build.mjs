@@ -60,6 +60,9 @@ function publicationDirectories() {
 function rewriteHref(href) {
   if (!href) return "";
   if (/^(https?:|mailto:|tel:|#)/.test(href)) return href;
+  if (href === "./evidence/" || href === "./evidence") return "data/index.html";
+  if (href.startsWith("./evidence/"))
+    return `data/${href.slice("./evidence/".length)}`;
   if (href === "../evidence/" || href === "../evidence")
     return "data/index.html";
   if (href.startsWith("../evidence/"))
@@ -155,7 +158,9 @@ function pageTemplate({ publication, page, body, headings, index }) {
   const sourceUrl =
     page.source === "../evidence"
       ? `${REPOSITORY_URL}/tree/main/publications/${publication.slug}/evidence`
-      : `${REPOSITORY_URL}/blob/main/publications/${publication.slug}/series/${page.source}`;
+      : page.source.startsWith("../")
+        ? `${REPOSITORY_URL}/blob/main/publications/${publication.slug}/${page.source.slice(3)}`
+        : `${REPOSITORY_URL}/blob/main/publications/${publication.slug}/series/${page.source}`;
   return `<!doctype html>
 <html lang="en">
 <head>

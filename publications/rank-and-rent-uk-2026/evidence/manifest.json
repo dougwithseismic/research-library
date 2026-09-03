@@ -1,0 +1,81 @@
+{
+  "title": "UK rank-and-rent and local lead-generation research",
+  "observedAt": "2026-09-03",
+  "decision": "Determine whether UK rank-and-rent is investable in 2026, which city-niche combinations are most credible, and which operating and revenue model survives current search, platform and regulatory constraints.",
+  "geography": {
+    "name": "United Kingdom",
+    "googleAdsCriterionId": "2826"
+  },
+  "language": {
+    "name": "English",
+    "googleAdsCriterionId": "1000"
+  },
+  "network": "Google Search",
+  "workingAccountCurrency": "GBP",
+  "googleAdsApiVersion": "v25",
+  "googleAdsScope": {
+    "explicitCityQueries": 910,
+    "nationalIntentQueries": 70,
+    "niches": 35,
+    "cities": 26,
+    "localGeoRows": 144,
+    "localGeoCities": 9,
+    "priorityExplicitRows": 37,
+    "priorityLocalGeoRows": 37,
+    "method": "One explicit service plus city phrase for every niche-city pair under the United Kingdom target, plus each generic service phrase and its near-me form under the same target. Nine city geo targets were then screened with 16 generic priority services, followed by expanded explicit and local-geo variants for seven priority clusters."
+  },
+  "methods": [
+    "Google Ads GenerateKeywordHistoricalMetrics through the repository's authenticated read-only runner",
+    "Rate-limited local-geo and priority-query cross-checks with retained monthly series; one transient RESOURCE_EXHAUSTED response was retried after the documented service interval",
+    "Read-only Companies House profile, filing-history and filed-account capture for five lead marketplaces and selected suppliers in four local opportunity groups",
+    "Live-web verification of official Google policies, UK regulator guidance, local-search research, marketplace models, service-price anchors and current result competitors",
+    "Public operator case studies and interviews retained with their self-reporting and commercial-incentive limitations",
+    "A directional live web-result sample for selected city-niche pairs; this is not a personalised or geolocated Google local-pack audit",
+    "Volume-weighted CPC calculated as sum of searches multiplied by CPC divided by total searches",
+    "Paid-search-value proxy calculated as search volume multiplied by average CPC; it is a comparison device, not obtainable revenue"
+  ],
+  "includedArtifacts": [
+    "google-ads-explicit-city-screen.csv",
+    "google-ads-national-intent-screen.csv",
+    "google-ads-niche-summary.csv",
+    "google-ads-city-summary.csv",
+    "google-ads-local-geo-screen.csv",
+    "google-ads-local-geo-city-summary.csv",
+    "google-ads-priority-intent-screen.csv",
+    "google-ads-priority-local-geo-intent-screen.csv",
+    "google-ads-priority-cluster-summary.csv",
+    "companies-house-organisations.csv",
+    "companies-house-segment-summary.csv",
+    "companies-house-census-screen.csv",
+    "cpc-economics-sensitivity.csv",
+    "opportunity-scorecard.csv",
+    "business-model-scorecard.csv",
+    "economics-scenarios.csv",
+    "case-studies.csv",
+    "web-result-sample.csv",
+    "claim-evidence-ledger.csv",
+    "sources.csv"
+  ],
+  "exclusions": [
+    "Google Ads campaign creation or modification",
+    "Current-month traffic forecasts",
+    "Automated or geolocated Google result scraping",
+    "Supabase queries or production-system mutations",
+    "Unverified claims of profit, conversion, tenant demand or rankability",
+    "Customer and login-customer identifiers from the retained Google Ads evidence"
+  ],
+  "limitations": [
+    "Average monthly searches are rounded trailing historical averages, not traffic forecasts.",
+    "Explicit city-query results describe phrases typed under a UK target; local-geo results describe generic phrases measured inside selected city geo targets. The disagreement between them is evidence to investigate rather than a reason to combine them.",
+    "The account returned one transient RESOURCE_EXHAUSTED response. Retried calls succeeded after rate limiting; this was a per-service pacing issue, not evidence that the account had no searches left.",
+    "Generic, near-me and explicit-city datasets overlap and must not be added together.",
+    "Google Ads can group close variants and can return zero where demand is sparse or withheld. Zero is not evidence of no demand.",
+    "Paid competition, CPC and top-of-page bids describe an advertising auction, not organic SEO difficulty, lead price, job revenue or profit.",
+    "Companies House data are company-filed registry evidence. Disclosure varies, the registrar does not comprehensively verify filed facts, and neither a filing nor a discovery match proves current trading quality, service coverage or willingness to buy leads.",
+    "The Companies House organisation set is deliberately selected rather than statistically sampled. Related entities and trading-identity mismatches remain explicitly flagged.",
+    "The 35-phrase city basket is a consistent comparison basket, not the complete local-services economy of each city.",
+    "The public UK rank-and-rent evidence base is dominated by self-reported operator marketing and anecdotes; no audited representative UK benchmark was found.",
+    "Current search-result discovery is directional and non-personalised; local packs, ads, device, location and history can change the actual result set.",
+    "Legal and regulator guidance is operational research, not legal advice."
+  ]
+}
